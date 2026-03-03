@@ -28,7 +28,7 @@ Last Updated: 2026-02-27
    Location, export, reminders, and related features depend on system permissions, device state, and Apple service availability, and may be limited by the platform.
 
 7. Subscription and lifetime purchase  
-   The app offers a yearly subscription and lifetime purchase. Final price is shown in App Store (may vary by region/tax); renewal, refund, billing, and purchase disputes are managed by Apple.
+   The app offers a monthly subscription and lifetime purchase. Final price is shown in App Store (may vary by region/tax); renewal, refund, billing, and purchase disputes are managed by Apple.
 
 8. Intellectual property  
    This app and related content are owned by Rho Technologies Ltd. No copying, distribution, reverse engineering, or commercial use without written permission.
@@ -60,7 +60,7 @@ Last Updated: 2026-02-27
    定位、导出、提醒等能力依赖系统权限、设备状态与 Apple 服务可用性，可能受系统限制。
 
 7. 订阅与买断  
-   提供年订阅与终身买断。具体价格以 App Store 展示为准（可能因地区/税费不同）；续费、退款、账单和争议处理由 Apple 管理。
+   提供月订阅与终身买断。具体价格以 App Store 展示为准（可能因地区/税费不同）；续费、退款、账单和争议处理由 Apple 管理。
 
 8. 知识产权  
    本应用及相关内容归 Rho Technologies Ltd. 所有。未经书面授权，不得复制、分发、反向工程或用于商业用途。

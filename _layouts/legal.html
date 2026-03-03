@@ -10,7 +10,6 @@
   <body>
     <main class="shell">
       <header class="hero card">
-        <div class="badge">🍁 {{ site.title }}</div>
         <h1 class="hero-title">{{ page.hero_title | default: page.title }}</h1>
         {% if page.hero_subtitle %}
         <p class="hero-subtitle">{{ page.hero_subtitle }}</p>
@@ -21,14 +20,14 @@
             href="{{ '/terms/' | relative_url }}"
           >
             <span class="tab-icon">📄</span>
-            <span class="tab-label">Terms</span>
+            <span class="tab-label">Terms of Use</span>
           </a>
           <a
             class="app-tab {% if page.nav_key == 'privacy' %}active{% endif %}"
             href="{{ '/privacy/' | relative_url }}"
           >
             <span class="tab-icon">🔒</span>
-            <span class="tab-label">Privacy</span>
+            <span class="tab-label">Privacy Policy</span>
           </a>
           <a
             class="app-tab {% if page.nav_key == 'support' %}active{% endif %}"

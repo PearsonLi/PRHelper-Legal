@@ -64,48 +64,35 @@ body {
   line-height: 1.6;
 }
 
-.app-tabs {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 8px;
-  margin-top: 16px;
-  padding: 8px;
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  background: #f8fbff;
-}
-
-.app-tab {
+.menu-links {
+  margin-top: 12px;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
-  min-height: 64px;
-  gap: 3px;
-  border-radius: 10px;
+  gap: 0;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.menu-link {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  margin-right: 0;
+  font-weight: 500;
+}
+
+.menu-link:not(:last-child)::after {
+  content: " | ";
   color: #6b7382;
+  margin: 0 6px;
+  font-weight: 400;
+}
+
+.menu-link.active {
+  color: #0b1220;
+  font-weight: 800;
   text-decoration: none;
-  font-size: 12px;
-  font-weight: 600;
-  transition: background-color 120ms ease, color 120ms ease;
-}
-
-.app-tab .tab-icon {
-  font-size: 17px;
-  line-height: 1;
-}
-
-.app-tab .tab-label {
-  line-height: 1.2;
-}
-
-.app-tab.active {
-  background: #e9edf3;
-  color: #0f172a;
-}
-
-.app-tab:hover {
-  background: #edf2f8;
 }
 
 .content-card {
@@ -170,14 +157,9 @@ strong {
     border-radius: 14px;
   }
 
-  .app-tabs {
-    gap: 6px;
-    padding: 6px;
-  }
-
-  .app-tab {
-    min-height: 58px;
-    font-size: 11px;
+  .menu-links {
+    font-size: 16px;
+    row-gap: 4px;
   }
 
   h2 {

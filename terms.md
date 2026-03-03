@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Canada Residency Pro / 枫叶卡管家 Terms of Use
 
-Last Updated: 2026-02-27
+Last Updated: 2026-03-02
 
 ## English
 
@@ -25,7 +25,7 @@ Last Updated: 2026-02-27
    The app uses a 5-year rolling window; departure and entry dates are counted as in Canada (IRCC rule); PR-special purposes apply to PR calculation only (not citizenship); future travel plans are for forecast only; all day-level records and calculations use Canada timezone (America/Toronto).
 
 6. Feature dependency  
-   Location, export, reminders, and related features depend on system permissions, device state, and Apple service availability, and may be limited by the platform.
+   Export, reminders, sharing, and in-app purchase features depend on system permissions, device state, network availability, and Apple service availability, and may be limited by the platform. Automatic location detection is under active development and is disabled in the current release.
 
 7. Subscription and lifetime purchase  
    The app offers a monthly subscription and lifetime purchase. Final price is shown in App Store (may vary by region/tax); renewal, refund, billing, and purchase disputes are managed by Apple.
@@ -57,7 +57,7 @@ Last Updated: 2026-02-27
    应用按 5 年滚动窗口计算；出境日与入境日按在加拿大处理（IRCC规则）；“永居特殊目的”仅用于永居统计，不计入入籍统计；未来旅行计划仅用于预测；所有按天记录与统计均以加拿大时区（America/Toronto）为准。
 
 6. 功能依赖  
-   定位、导出、提醒等能力依赖系统权限、设备状态与 Apple 服务可用性，可能受系统限制。
+   导出、提醒、分享、应用内购买等能力依赖系统权限、设备状态、网络可用性与 Apple 服务状态，可能受系统限制。自动定位功能仍在开发中，当前发布版本默认关闭。
 
 7. 订阅与买断  
    提供月订阅与终身买断。具体价格以 App Store 展示为准（可能因地区/税费不同）；续费、退款、账单和争议处理由 Apple 管理。

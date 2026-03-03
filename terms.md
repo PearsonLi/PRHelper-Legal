@@ -5,6 +5,7 @@ layout: legal
 hero_title: Terms of Use / 服务条款
 hero_subtitle: One-time and subscription purchase terms, feature scope, data responsibility, and legal boundaries.
 last_updated: 2026-03-02
+nav_key: terms
 ---
 
 ## English

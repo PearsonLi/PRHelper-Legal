@@ -5,6 +5,7 @@ layout: legal
 hero_title: Marketing / 营销信息
 hero_subtitle: Public product overview and positioning for 枫叶卡管家 / Canada Residency Pro.
 last_updated: 2026-03-02
+nav_key: marketing
 ---
 
 ## English

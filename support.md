@@ -5,6 +5,7 @@ layout: legal
 hero_title: Support / 支持
 hero_subtitle: Contact and support information for 枫叶卡管家 / Canada Residency Pro.
 last_updated: 2026-03-02
+nav_key: support
 ---
 
 ## English

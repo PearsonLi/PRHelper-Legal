@@ -24,6 +24,8 @@ body {
   max-width: 980px;
   margin: 0 auto;
   padding: 24px 16px 36px;
+  display: flex;
+  flex-direction: column;
 }
 
 .card {
@@ -40,6 +42,7 @@ body {
 .hero-bottom {
   margin-top: 14px;
   margin-bottom: 0;
+  order: 2;
 }
 
 .badge {
@@ -102,6 +105,7 @@ body {
 
 .content-card {
   padding: 16px 18px;
+  order: 1;
 }
 
 .meta {

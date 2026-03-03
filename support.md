@@ -8,8 +8,6 @@ last_updated: 2026-03-02
 nav_key: support
 ---
 
-## English
-
 For product support, bug reports, account/purchase questions, or release issues, please contact:
 
 - **Email:** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
@@ -22,8 +20,6 @@ When contacting support, please include:
 4. Screenshot/video (if available)
 
 We usually reply within 1-3 business days.
-
-## 中文
 
 如需产品支持、问题反馈、购买相关咨询或发布问题，请联系：
 

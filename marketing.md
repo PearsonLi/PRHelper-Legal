@@ -8,8 +8,6 @@ last_updated: 2026-03-02
 nav_key: marketing
 ---
 
-## English
-
 **Canada Residency Pro** is a local-first travel and residency tracking app built for Canadian PR and citizenship planning.
 
 ### Core value
@@ -27,8 +25,6 @@ nav_key: marketing
 For partnerships, media requests, or marketing collaboration:
 
 - **Email:** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
-
-## 中文
 
 **枫叶卡管家（Canada Residency Pro）** 是一款面向加拿大永居与入籍规划的本地优先记录工具。
 

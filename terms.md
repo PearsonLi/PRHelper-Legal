@@ -8,8 +8,6 @@ last_updated: 2026-03-02
 nav_key: terms
 ---
 
-## English
-
 1. Acceptance  
    By installing or using this app, you agree to these Terms of Use and the Privacy Policy.
 
@@ -39,8 +37,6 @@ nav_key: terms
 
 10. Updates  
    These terms may be updated with app versions and shown in-app; continued use indicates acceptance of updated terms.
-
-## 中文
 
 1. 使用与接受  
    安装或使用本应用，即表示你同意本使用条款与隐私政策。

@@ -8,8 +8,6 @@ last_updated: 2026-03-02
 nav_key: privacy
 ---
 
-## English
-
 This Privacy Policy explains how Canada Residency Pro processes travel and residency data on your device.
 
 1. Data we process  
@@ -41,8 +39,6 @@ This Privacy Policy explains how Canada Residency Pro processes travel and resid
 
 10. Policy updates  
    This policy may change with app versions. The latest version is available inside the app.
-
-## 中文
 
 本隐私政策适用于“枫叶卡管家”在你的设备上对旅行记录与居住统计数据的处理。
 

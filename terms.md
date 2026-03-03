@@ -1,11 +1,11 @@
 ---
 title: Terms of Use / 服务条款
 permalink: /terms/
+layout: legal
+hero_title: Terms of Use / 服务条款
+hero_subtitle: One-time and subscription purchase terms, feature scope, data responsibility, and legal boundaries.
+last_updated: 2026-03-02
 ---
-
-# Canada Residency Pro / 枫叶卡管家 Terms of Use
-
-Last Updated: 2026-03-02
 
 ## English
 

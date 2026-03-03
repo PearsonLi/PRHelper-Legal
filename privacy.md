@@ -1,11 +1,11 @@
 ---
 title: Privacy Policy / 隐私政策
 permalink: /privacy/
+layout: legal
+hero_title: Privacy Policy / 隐私政策
+hero_subtitle: Local-first data handling and purchase privacy policy.
+last_updated: 2026-03-02
 ---
-
-# Canada Residency Pro / 枫叶卡管家 Privacy Policy
-
-Last Updated: 2026-03-02
 
 ## English
 

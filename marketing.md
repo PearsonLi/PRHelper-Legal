@@ -1,98 +1,48 @@
 ---
-title: Marketing / 产品介绍
+title: Marketing / 营销信息
 permalink: /marketing/
+layout: legal
+hero_title: Marketing / 营销信息
+hero_subtitle: Public product overview and positioning for 枫叶卡管家 / Canada Residency Pro.
+last_updated: 2026-03-02
 ---
 
-<style>
-  .app-shell {
-    max-width: 880px;
-    margin: 20px auto;
-    padding: 24px;
-    border: 1px solid #d9dde6;
-    border-radius: 14px;
-    background: #f7f9fc;
-    color: #162033;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-  }
-  .hero {
-    background: linear-gradient(135deg, #0f1e3a 0%, #1d3766 100%);
-    color: #f8fbff;
-    border-radius: 12px;
-    padding: 22px;
-    margin-bottom: 16px;
-  }
-  .hero h1 {
-    margin: 0;
-    font-size: 30px;
-    line-height: 1.2;
-  }
-  .hero p {
-    margin: 10px 0 0;
-    color: #d3def3;
-    font-size: 16px;
-  }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 12px;
-    margin-top: 12px;
-  }
-  .card {
-    background: #ffffff;
-    border: 1px solid #dfe4ef;
-    border-radius: 10px;
-    padding: 14px;
-  }
-  .card h2 {
-    margin: 0 0 8px;
-    font-size: 17px;
-    color: #1f2f4d;
-  }
-  .muted {
-    color: #5f6d85;
-    margin: 0;
-  }
-  .footer {
-    margin-top: 16px;
-    padding-top: 12px;
-    border-top: 1px solid #dfe4ef;
-    color: #5f6d85;
-  }
-  .email {
-    font-weight: 600;
-    color: #234f9d;
-    text-decoration: none;
-  }
-</style>
+## English
 
-<div class="app-shell">
-  <div class="hero">
-    <h1>Canada Residency Pro / 枫叶卡管家</h1>
-    <p>Track residency progress with local-first privacy and practical risk forecasting.</p>
-  </div>
+**Canada Residency Pro** is a local-first travel and residency tracking app built for Canadian PR and citizenship planning.
 
-  <div class="grid">
-    <div class="card">
-      <h2>Local Privacy / 本地隐私</h2>
-      <p class="muted">Your travel records stay on your device by default.</p>
-    </div>
-    <div class="card">
-      <h2>PR & Citizenship / 永居与入籍</h2>
-      <p class="muted">Rolling-window calculation and projection for key milestones.</p>
-    </div>
-    <div class="card">
-      <h2>Travel Planning / 旅行规划</h2>
-      <p class="muted">Manage history and upcoming trips with clear timeline records.</p>
-    </div>
-    <div class="card">
-      <h2>Pro Features / 专业版</h2>
-      <p class="muted">Advanced forecasting, risk insights, and export support.</p>
-    </div>
-  </div>
+### Core value
 
-  <div class="footer">
-    <p>Contact / 联系: <a class="email" href="mailto:rhotechcanada@gmail.com">rhotechcanada@gmail.com</a></p>
-    <p>Support URL: <a class="email" href="/PRHelper-Legal/support/">/support/</a></p>
-    <p>Terms: <a class="email" href="/PRHelper-Legal/terms/">/terms/</a> · Privacy: <a class="email" href="/PRHelper-Legal/privacy/">/privacy/</a></p>
-  </div>
-</div>
+1. Record travel timelines with day-level accuracy
+2. Forecast PR and citizenship progress with rolling-window logic
+3. Keep all personal records on device by default
+
+### Product positioning
+
+- Audience: Canadian PR holders and future citizenship applicants
+- Use case: daily tracking, travel planning, risk awareness before key dates
+- Privacy: no mandatory cloud backend for core calculations
+
+For partnerships, media requests, or marketing collaboration:
+
+- **Email:** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
+
+## 中文
+
+**枫叶卡管家（Canada Residency Pro）** 是一款面向加拿大永居与入籍规划的本地优先记录工具。
+
+### 核心价值
+
+1. 按天精确记录旅行时间线
+2. 基于滚动窗口预测永居与入籍进度
+3. 默认本机存储个人记录
+
+### 产品定位
+
+- 用户对象：加拿大永居持有人与入籍申请准备人群
+- 主要场景：日常跟踪、旅行规划、关键日期前风险感知
+- 隐私策略：核心计算不依赖强制云端后端
+
+如需商务合作、媒体联系或市场合作：
+
+- **邮箱：** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)

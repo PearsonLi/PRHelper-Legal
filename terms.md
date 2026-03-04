@@ -8,8 +8,6 @@ last_updated: 2026-03-02
 nav_key: terms
 ---
 
-### English (Original)
-
 <ol start="1">
   <li><strong>Acceptance</strong><br />By installing or using this app, you agree to these Terms of Use and the Privacy Policy.</li>
   <li><strong>Intended use</strong><br />This app is for personal tracking, reminders, and planning only, and does not provide legal, immigration, tax, or other professional advice.</li>
@@ -22,8 +20,6 @@ nav_key: terms
   <li><strong>Limitation of liability</strong><br />To the extent permitted by law, the developer is not liable for indirect losses, business interruption, or application outcomes resulting from use or inability to use the app.</li>
   <li><strong>Updates</strong><br />These terms may be updated with app versions and shown in-app; continued use indicates acceptance of updated terms.</li>
 </ol>
-
-### 中文（翻译）
 
 <ol start="1">
   <li><strong>使用与接受</strong><br />安装或使用本应用，即表示你同意本使用条款与隐私政策。</li>

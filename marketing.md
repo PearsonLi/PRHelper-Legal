@@ -10,6 +10,13 @@ nav_key: marketing
 
 **Canada Residency Pro** is a local-first travel and residency tracking app built for Canadian PR and citizenship planning.
 
+<div class="app-store-cta">
+  <div class="app-store-cta-title">iOS 下载 / Download on the App Store</div>
+  <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download Canada Residency Pro on the App Store">
+    <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
+  </a>
+</div>
+
 ### Core value
 
 1. Record travel timelines with day-level accuracy

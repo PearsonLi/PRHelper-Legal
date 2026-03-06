@@ -108,6 +108,32 @@ body {
   order: 1;
 }
 
+.app-store-cta {
+  margin: 14px 0 18px;
+  padding: 14px 14px 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #f8fbff;
+}
+
+.app-store-cta-title {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #0b1220;
+}
+
+.app-store-badge-link {
+  display: inline-block;
+}
+
+.app-store-badge {
+  display: block;
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+}
+
 .meta {
   margin: 0 0 10px;
   color: var(--subtle);

@@ -17,7 +17,7 @@ nav_key: marketing
       <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
     </a>
     <a class="app-store-qr-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Scan QR to download on App Store">
-      <img class="app-store-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid6759813402" alt="App Store download QR code" />
+      <img class="app-store-qr" src="{{ '/assets/app-store-qr.png' | relative_url }}" alt="App Store download QR code" />
       <span>扫码下载 / Scan</span>
     </a>
   </div>
@@ -28,7 +28,7 @@ nav_key: marketing
 This dashboard card gives users an at-a-glance view of PR and citizenship day counts, remaining days, and total absence context, helping reduce uncertainty before renewal or application milestones.
 
 <figure class="value-shot">
-  <img src="/assets/value-overview.png" alt="PR and citizenship progress overview" />
+  <img src="{{ '/assets/value-overview.png' | relative_url }}" alt="PR and citizenship progress overview" />
 </figure>
 
 ### Value highlight 2: Rolling-window forecast with actionable warnings
@@ -36,7 +36,7 @@ This dashboard card gives users an at-a-glance view of PR and citizenship day co
 The trend panel shows threshold progress and upcoming risk windows so users can adjust travel plans before crossing critical compliance lines.
 
 <figure class="value-shot">
-  <img src="/assets/value-forecast.png" alt="Rolling forecast and risk panel" />
+  <img src="{{ '/assets/value-forecast.png' | relative_url }}" alt="Rolling forecast and risk panel" />
 </figure>
 
 ### Core value
@@ -62,7 +62,7 @@ For partnerships, media requests, or marketing collaboration:
 总览卡片可直接展示永居/入籍累计天数、剩余天数与离境背景，帮助用户快速判断当前状态，减少续卡或申请前的不确定性。
 
 <figure class="value-shot">
-  <img src="/assets/value-overview.png" alt="永居与入籍进度总览" />
+  <img src="{{ '/assets/value-overview.png' | relative_url }}" alt="永居与入籍进度总览" />
 </figure>
 
 ### 核心价值展示 2：滚动窗口预测与风险提示
@@ -70,7 +70,7 @@ For partnerships, media requests, or marketing collaboration:
 预测图会标出门槛进度和未来关键风险区间，便于用户提前调整旅行安排，避免在关键窗口出现被动风险。
 
 <figure class="value-shot">
-  <img src="/assets/value-forecast.png" alt="滚动窗口预测与风险提示" />
+  <img src="{{ '/assets/value-forecast.png' | relative_url }}" alt="滚动窗口预测与风险提示" />
 </figure>
 
 ### 核心价值

@@ -134,6 +134,23 @@ body {
   height: auto;
 }
 
+.value-shot {
+  margin: 10px 0 18px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.value-shot img {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
+  height: auto;
+  border-radius: 8px;
+}
+
 .meta {
   margin: 0 0 10px;
   color: var(--subtle);

@@ -2,8 +2,8 @@
 title: Marketing / 营销信息
 permalink: /marketing/
 layout: legal
-hero_title: Marketing / 营销信息
-hero_subtitle: Public product overview and positioning for 枫叶卡管家 / Canada Residency Pro.
+hero_title: Marketing
+hero_subtitle: Product overview and value highlights for 枫叶卡管家 / Canada Residency Pro.
 last_updated: 2026-03-02
 nav_key: marketing
 ---
@@ -16,6 +16,22 @@ nav_key: marketing
     <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
   </a>
 </div>
+
+### Value highlight 1: Immediate clarity on PR and citizenship progress
+
+This dashboard card gives users an at-a-glance view of PR and citizenship day counts, remaining days, and total absence context, helping reduce uncertainty before renewal or application milestones.
+
+<figure class="value-shot">
+  <img src="/assets/value-overview.png" alt="PR and citizenship progress overview" />
+</figure>
+
+### Value highlight 2: Rolling-window forecast with actionable warnings
+
+The trend panel shows threshold progress and upcoming risk windows so users can adjust travel plans before crossing critical compliance lines.
+
+<figure class="value-shot">
+  <img src="/assets/value-forecast.png" alt="Rolling forecast and risk panel" />
+</figure>
 
 ### Core value
 
@@ -34,6 +50,22 @@ For partnerships, media requests, or marketing collaboration:
 - **Email:** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
 
 **枫叶卡管家（Canada Residency Pro）** 是一款面向加拿大永居与入籍规划的本地优先记录工具。
+
+### 核心价值展示 1：一眼看清永居与入籍进度
+
+总览卡片可直接展示永居/入籍累计天数、剩余天数与离境背景，帮助用户快速判断当前状态，减少续卡或申请前的不确定性。
+
+<figure class="value-shot">
+  <img src="/assets/value-overview.png" alt="永居与入籍进度总览" />
+</figure>
+
+### 核心价值展示 2：滚动窗口预测与风险提示
+
+预测图会标出门槛进度和未来关键风险区间，便于用户提前调整旅行安排，避免在关键窗口出现被动风险。
+
+<figure class="value-shot">
+  <img src="/assets/value-forecast.png" alt="滚动窗口预测与风险提示" />
+</figure>
 
 ### 核心价值
 

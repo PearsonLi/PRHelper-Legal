@@ -36,7 +36,7 @@ This dashboard card gives users an at-a-glance view of PR and citizenship day co
 The trend panel shows threshold progress and upcoming risk windows so users can adjust travel plans before crossing critical compliance lines.
 
 <figure class="value-shot">
-  <img src="https://pearsonli.github.io/PRHelper-Legal/assets/value-forecast.png" alt="Rolling forecast and risk panel" />
+  <img src="https://pearsonli.github.io/PRHelper-Legal/assets/value-forecast-2.jpg" alt="Rolling forecast and risk panel" />
 </figure>
 
 ### Core value
@@ -70,7 +70,7 @@ For partnerships, media requests, or marketing collaboration:
 预测图会标出门槛进度和未来关键风险区间，便于用户提前调整旅行安排，避免在关键窗口出现被动风险。
 
 <figure class="value-shot">
-  <img src="https://pearsonli.github.io/PRHelper-Legal/assets/value-forecast.png" alt="滚动窗口预测与风险提示" />
+  <img src="https://pearsonli.github.io/PRHelper-Legal/assets/value-forecast-2.jpg" alt="滚动窗口预测与风险提示" />
 </figure>
 
 ### 核心价值

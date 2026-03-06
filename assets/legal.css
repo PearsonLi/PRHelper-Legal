@@ -123,8 +123,16 @@ body {
   color: #0b1220;
 }
 
+.app-store-cta-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
 .app-store-badge-link {
   display: inline-block;
+  flex: 1 1 auto;
 }
 
 .app-store-badge {
@@ -132,6 +140,25 @@ body {
   width: 220px;
   max-width: 100%;
   height: auto;
+}
+
+.app-store-qr-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  text-decoration: none;
+  color: #475569;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.app-store-qr {
+  width: 86px;
+  height: 86px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
 }
 
 .value-shot {
@@ -221,5 +248,14 @@ strong {
   p,
   li {
     font-size: 14px;
+  }
+
+  .app-store-cta-body {
+    align-items: flex-start;
+  }
+
+  .app-store-qr {
+    width: 74px;
+    height: 74px;
   }
 }

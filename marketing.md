@@ -12,9 +12,15 @@ nav_key: marketing
 
 <div class="app-store-cta">
   <div class="app-store-cta-title">iOS 下载 / Download on the App Store</div>
-  <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download Canada Residency Pro on the App Store">
-    <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
-  </a>
+  <div class="app-store-cta-body">
+    <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download Canada Residency Pro on the App Store">
+      <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
+    </a>
+    <a class="app-store-qr-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Scan QR to download on App Store">
+      <img class="app-store-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid6759813402" alt="App Store download QR code" />
+      <span>扫码下载 / Scan</span>
+    </a>
+  </div>
 </div>
 
 ### Value highlight 1: Immediate clarity on PR and citizenship progress

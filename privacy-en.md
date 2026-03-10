@@ -3,20 +3,20 @@ title: Privacy Policy (English)
 permalink: /privacy/en/
 layout: legal
 hero_title: Privacy Policy (English)
-hero_subtitle: English privacy policy for Canada Residency Pro.
+hero_subtitle: English privacy policy for CanResidency Pro.
 last_updated: 2026-03-10
 nav_key: privacy
 ---
 
 
-# Canada Residency Pro Privacy Policy
+# CanResidency Pro Privacy Policy
 
 Last Updated: 2026-03-10
 
-This Privacy Policy explains how Canada Residency Pro handles your data.
+This Privacy Policy explains how CanResidency Pro handles your data.
 
 1. Scope  
-   This policy applies to the mobile app Canada Residency Pro.
+   This policy applies to the mobile app CanResidency Pro.
 
 2. Data we process  
    Data may include records you provide or authorize, such as travel dates, destination country, purpose, notes, PR settings, temporary residence records, and optional location samples when location tracking is enabled.

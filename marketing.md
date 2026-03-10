@@ -3,17 +3,17 @@ title: Marketing / 营销信息
 permalink: /marketing/
 layout: legal
 hero_title: Marketing
-hero_subtitle: Product overview and value highlights for 枫叶卡管家 / Canada Residency Pro.
+hero_subtitle: Product overview and value highlights for 枫叶卡管家 / CanResidency Pro.
 last_updated: 2026-03-02
 nav_key: marketing
 ---
 
-**Canada Residency Pro** is a local-first travel and residency tracking app built for Canadian PR and citizenship planning.
+**CanResidency Pro** is a local-first travel and residency tracking app built for Canadian PR and citizenship planning.
 
 <div class="app-store-cta">
   <div class="app-store-cta-title">iOS 下载 / Download on the App Store</div>
   <div class="app-store-cta-body">
-    <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download Canada Residency Pro on the App Store">
+    <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download CanResidency Pro on the App Store">
       <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
     </a>
     <a class="app-store-qr-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Scan QR to download on App Store">
@@ -55,7 +55,7 @@ For partnerships, media requests, or marketing collaboration:
 
 - **Email:** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)
 
-**枫叶卡管家（Canada Residency Pro）** 是一款面向加拿大永居与入籍规划的本地优先记录工具。
+**枫叶卡管家（CanResidency Pro）** 是一款面向加拿大永居与入籍规划的本地优先记录工具。
 
 ### 核心价值展示 1：一眼看清永居与入籍进度
 

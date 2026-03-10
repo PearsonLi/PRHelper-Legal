@@ -1,20 +1,20 @@
 ---
-title: 服务条款（中文）
+title: CanResidency Pro 服务条款（中文）
 permalink: /terms/zh/
 layout: legal
 hero_title: 服务条款（中文）
-hero_subtitle: 枫叶卡管家服务条款中文版。
+hero_subtitle: CanResidency Pro（枫叶卡管家）服务条款中文版。
 last_updated: 2026-03-10
 nav_key: terms
 ---
 
 
-# 枫叶卡管家 服务条款
+# CanResidency Pro（枫叶卡管家） 服务条款
 
 最后更新：2026-03-10
 
 1. 使用与接受  
-   下载、安装或使用“枫叶卡管家”，即表示你同意本服务条款与隐私政策。
+   下载、安装或使用“CanResidency Pro（枫叶卡管家）”，即表示你同意本服务条款与隐私政策。
 
 2. 许可范围  
    在 Apple 平台规则允许范围内，我们授予你一项有限的、非独占、不可转让、可撤销的个人使用许可，仅可在你拥有或控制的 Apple 设备上使用本应用。

@@ -51,4 +51,4 @@ Last Updated: 2026-03-10
 
 12. Updates and contact  
    These terms may be updated from time to time. Continued use after an update constitutes acceptance of the updated terms.  
-   Contact: support@rhotechnology.ca
+   Contact: pearson@rhotechnologies.ca

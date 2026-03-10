@@ -51,4 +51,4 @@ nav_key: terms
 
 12. 条款更新与联系  
    我们可能不时更新本条款。更新后继续使用即视为接受更新条款。  
-   联系方式：support@rhotechnology.ca
+   联系方式：pearson@rhotechnologies.ca

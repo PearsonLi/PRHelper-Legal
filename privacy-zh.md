@@ -50,4 +50,4 @@ nav_key: privacy
 
 12. 政策更新与联系  
    我们可能不时更新本政策。  
-   联系方式：support@rhotechnology.ca
+   联系方式：pearson@rhotechnologies.ca

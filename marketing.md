@@ -53,7 +53,7 @@ The trend panel shows threshold progress and upcoming risk windows so users can 
 
 For partnerships, media requests, or marketing collaboration:
 
-- **Email:** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
+- **Email:** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)
 
 **枫叶卡管家（Canada Residency Pro）** 是一款面向加拿大永居与入籍规划的本地优先记录工具。
 
@@ -87,4 +87,4 @@ For partnerships, media requests, or marketing collaboration:
 
 如需商务合作、媒体联系或市场合作：
 
-- **邮箱：** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
+- **邮箱：** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)

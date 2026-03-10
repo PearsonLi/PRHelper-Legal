@@ -10,7 +10,7 @@ nav_key: support
 
 For product support, bug reports, account/purchase questions, or release issues, please contact:
 
-- **Email:** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
+- **Email:** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)
 
 When contacting support, please include:
 
@@ -23,7 +23,7 @@ We usually reply within 1-3 business days.
 
 如需产品支持、问题反馈、购买相关咨询或发布问题，请联系：
 
-- **邮箱：** [rhotechcanada@gmail.com](mailto:rhotechcanada@gmail.com)
+- **邮箱：** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)
 
 建议在邮件中附上：
 

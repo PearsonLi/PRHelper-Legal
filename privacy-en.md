@@ -50,4 +50,4 @@ This Privacy Policy explains how Canada Residency Pro handles your data.
 
 12. Policy updates and contact  
    We may update this policy from time to time.  
-   Contact: support@rhotechnology.ca
+   Contact: pearson@rhotechnologies.ca

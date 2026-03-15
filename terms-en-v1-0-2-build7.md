@@ -1,20 +1,22 @@
 ---
-title: Terms of Use (English)
-permalink: /terms/en/
+title: Terms of Use (English) - v1.0.2 build 7
+permalink: /terms/en/v1-0-2-build7/
 layout: legal
-hero_title: Terms of Use (English)
-hero_subtitle: English version for CanResidency Pro terms.
+hero_title: Terms of Use (English) - v1.0.2 build 7
+hero_subtitle: Release-scoped English terms for v1.0.2 (build 7).
 last_updated: 2026-03-15
 nav_key: terms
 ---
 
 
-# CanResidency Pro Terms of Use
+# Canada Residency Pro Terms of Use
 
 Last Updated: 2026-03-15
 
+Applicable App Version: v1.0.2 (build 7)
+
 1. Acceptance  
-   By downloading, installing, or using CanResidency Pro, you agree to these Terms of Use and the Privacy Policy.
+   By downloading, installing, or using Canada Residency Pro, you agree to these Terms of Use and the Privacy Policy.
 
 2. License scope  
    We grant you a limited, non-exclusive, non-transferable, revocable license to use the app on Apple-branded devices you own or control, as permitted by applicable Apple terms.

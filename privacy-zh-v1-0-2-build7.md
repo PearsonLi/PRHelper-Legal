@@ -1,22 +1,24 @@
 ---
-title: CanResidency Pro 隐私政策（中文）
-permalink: /privacy/zh/
+title: 隐私政策（中文）- v1.0.2 build 7
+permalink: /privacy/zh/v1-0-2-build7/
 layout: legal
-hero_title: 隐私政策（中文）
-hero_subtitle: CanResidency Pro（枫叶卡管家）隐私政策中文版。
+hero_title: 隐私政策（中文）- v1.0.2 build 7
+hero_subtitle: v1.0.2（build 7）版本专用隐私政策。
 last_updated: 2026-03-15
 nav_key: privacy
 ---
 
 
-# CanResidency Pro（枫叶卡管家） 隐私政策
+# 枫叶卡管家 隐私政策
 
 最后更新：2026-03-15
 
-本隐私政策说明“CanResidency Pro（枫叶卡管家）”如何处理你的数据。
+适用应用版本：v1.0.2（build 7）
+
+本隐私政策说明“枫叶卡管家”如何处理你的数据。
 
 1. 适用范围  
-   本政策适用于 CanResidency Pro（枫叶卡管家）移动应用。
+   本政策适用于枫叶卡管家移动应用。
 
 2. 我们处理的数据  
    数据可能包括你录入或授权的数据，例如旅行日期、目的地国家、出行目的、备注、永居相关设置、临时居留记录，以及在你开启定位功能后产生的可选定位采样数据。

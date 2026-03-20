@@ -80,3 +80,9 @@ Each release build maps to immutable release-scoped legal URLs.
   - /PRHelper-Legal/terms/zh/
   - /PRHelper-Legal/privacy/en/
   - /PRHelper-Legal/privacy/zh/
+
+## v1.0.4 (build 6)
+- Terms EN: /PRHelper-Legal/terms/en/v1-0-4-build6/
+- Terms ZH: /PRHelper-Legal/terms/zh/v1-0-4-build6/
+- Privacy EN: /PRHelper-Legal/privacy/en/v1-0-4-build6/
+- Privacy ZH: /PRHelper-Legal/privacy/zh/v1-0-4-build6/

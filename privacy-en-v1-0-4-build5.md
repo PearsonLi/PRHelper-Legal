@@ -1,17 +1,19 @@
 ---
-title: Privacy Policy (English)
-permalink: /privacy/en/
+title: Privacy Policy (English) - v1.0.4 build 5
+permalink: /privacy/en/v1-0-4-build5/
 layout: legal
-hero_title: Privacy Policy (English)
-hero_subtitle: English privacy policy for CanResidency.
-last_updated: 2026-03-16
+hero_title: Privacy Policy (English) - v1.0.4 build 5
+hero_subtitle: Release-scoped English privacy policy for v1.0.4 (build 5).
+last_updated: 2026-03-19
 nav_key: privacy
 ---
 
 
 # CanResidency Privacy Policy
 
-Last Updated: 2026-03-16
+Last Updated: 2026-03-19
+
+Applicable App Version: v1.0.4 (build 5)
 
 This Privacy Policy explains how CanResidency handles your data.
 

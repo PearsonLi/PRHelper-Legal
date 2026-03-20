@@ -1,17 +1,19 @@
 ---
-title: Terms of Use (English)
-permalink: /terms/en/
+title: Terms of Use (English) - v1.0.4 build 5
+permalink: /terms/en/v1-0-4-build5/
 layout: legal
-hero_title: Terms of Use (English)
-hero_subtitle: English version for CanResidency terms.
-last_updated: 2026-03-16
+hero_title: Terms of Use (English) - v1.0.4 build 5
+hero_subtitle: Release-scoped English terms for v1.0.4 (build 5).
+last_updated: 2026-03-19
 nav_key: terms
 ---
 
 
 # CanResidency Terms of Use
 
-Last Updated: 2026-03-16
+Last Updated: 2026-03-19
+
+Applicable App Version: v1.0.4 (build 5)
 
 1. Acceptance  
    By downloading, installing, or using CanResidency, you agree to these Terms of Use and the Privacy Policy.

@@ -10,9 +10,17 @@ last_updated: 2026-03-20
 nav_key: support
 seo_title: CanResidency 支持中心 | Support
 seo_description: CanResidency 支持页面：反馈邮箱、问题提交建议、FAQ与法务入口。
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/support/
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/support/
+seo_noindex: true
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/support/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/support/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/support/
 ---
+
+<div class="callout">
+  <span class="lang-zh">稳定兼容入口：请优先使用语言页。</span>
+  <span class="lang-en">Stable compatibility entry: use language pages first.</span>
+  <a href="/PRHelper-Legal/zh/support/">中文</a> · <a href="/PRHelper-Legal/en/support/">English</a>
+</div>
 
 <p><strong>Email:</strong> <a href="mailto:pearson@rhotechnologies.ca">pearson@rhotechnologies.ca</a></p>
 

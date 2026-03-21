@@ -1,3 +1,18 @@
+{% assign lang_prefix = '' %}
+{% assign terms_link = '/terms/' %}
+{% assign privacy_link = '/privacy/' %}
+{% if page.url %}
+  {% if page.url == '/en/' or page.url contains '/en/' %}
+    {% assign lang_prefix = '/en' %}
+    {% assign terms_link = '/terms/en/' %}
+    {% assign privacy_link = '/privacy/en/' %}
+  {% elsif page.url == '/zh/' or page.url contains '/zh/' %}
+    {% assign lang_prefix = '/zh' %}
+    {% assign terms_link = '/terms/zh/' %}
+    {% assign privacy_link = '/privacy/zh/' %}
+  {% endif %}
+{% endif %}
+
 <footer class="site-footer">
   <div class="site-footer-inner">
     <div class="footer-brand">
@@ -8,9 +23,9 @@
       </p>
     </div>
     <div class="footer-links">
-      <a href="{{ '/terms/' | relative_url }}"><span class="lang-zh">服务条款</span><span class="lang-en">Terms</span></a>
-      <a href="{{ '/privacy/' | relative_url }}"><span class="lang-zh">隐私政策</span><span class="lang-en">Privacy</span></a>
-      <a href="{{ '/support/' | relative_url }}"><span class="lang-zh">支持</span><span class="lang-en">Support</span></a>
+      <a href="{{ terms_link | relative_url }}"><span class="lang-zh">服务条款</span><span class="lang-en">Terms</span></a>
+      <a href="{{ privacy_link | relative_url }}"><span class="lang-zh">隐私政策</span><span class="lang-en">Privacy</span></a>
+      <a href="{{ lang_prefix | append: '/support/' | relative_url }}"><span class="lang-zh">支持</span><span class="lang-en">Support</span></a>
       <a href="{{ '/legal/releases/' | relative_url }}">Release Legal Manifest</a>
       <a href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">App Store</a>
     </div>

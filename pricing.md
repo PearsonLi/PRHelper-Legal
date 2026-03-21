@@ -12,9 +12,17 @@ cta_label_zh: 在 App 内查看价格
 cta_label_en: View price in app
 seo_title: CanResidency 订阅与买断方案 | Pro 与 Family
 seo_description: Monthly 订阅期内解锁 Pro+Family；Pro 买断；Family 买断含 Pro。价格动态读取，不写死。
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/pricing/
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/pricing/
+seo_noindex: true
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
 ---
+
+<div class="callout">
+  <span class="lang-zh">稳定兼容入口：请优先使用语言页。</span>
+  <span class="lang-en">Stable compatibility entry: use language pages first.</span>
+  <a href="/PRHelper-Legal/zh/pricing/">中文</a> · <a href="/PRHelper-Legal/en/pricing/">English</a>
+</div>
 
 <div class="card-grid">
   <section class="plan-card">

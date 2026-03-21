@@ -13,9 +13,17 @@ cta_label_zh: 下载 App
 cta_label_en: Download App
 seo_title: CanResidency Marketing | 枫叶卡管家产品介绍
 seo_description: CanResidency 产品介绍：单引擎官方口径、旅行规划信号、临时居留折算、家庭管理、导出能力与本地优先隐私。
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/marketing/
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/marketing/
+seo_noindex: true
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
 ---
+
+<div class="callout">
+  <span class="lang-zh">稳定兼容入口：请优先使用语言页。</span>
+  <span class="lang-en">Stable compatibility entry: use language pages first.</span>
+  <a href="/PRHelper-Legal/zh/marketing/">中文</a> · <a href="/PRHelper-Legal/en/marketing/">English</a>
+</div>
 
 <div class="app-store-cta">
   <div class="app-store-cta-title"><span class="lang-zh">iOS 下载</span><span class="lang-en">Download on App Store</span></div>

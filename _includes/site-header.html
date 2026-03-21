@@ -1,34 +1,49 @@
+{% assign lang_prefix = '' %}
+{% assign terms_link = '/terms/' %}
+{% assign privacy_link = '/privacy/' %}
+{% if page.url %}
+  {% if page.url == '/en/' or page.url contains '/en/' %}
+    {% assign lang_prefix = '/en' %}
+    {% assign terms_link = '/terms/en/' %}
+    {% assign privacy_link = '/privacy/en/' %}
+  {% elsif page.url == '/zh/' or page.url contains '/zh/' %}
+    {% assign lang_prefix = '/zh' %}
+    {% assign terms_link = '/terms/zh/' %}
+    {% assign privacy_link = '/privacy/zh/' %}
+  {% endif %}
+{% endif %}
+
 <header class="site-header">
   <div class="site-header-inner">
-    <a class="brand-link" href="{{ '/' | relative_url }}">
+    <a class="brand-link" href="{{ lang_prefix | append: '/' | relative_url }}">
       <span class="brand-name">
         <span class="lang-zh">枫叶卡管家</span>
         <span class="lang-en">CanResidency</span>
       </span>
     </a>
     <nav class="top-nav" aria-label="Primary navigation">
-      <a class="nav-link {% if page.nav_key == 'home' %}active{% endif %}" href="{{ '/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'home' %}active{% endif %}" href="{{ lang_prefix | append: '/' | relative_url }}">
         <span class="lang-zh">首页</span><span class="lang-en">Home</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'features' %}active{% endif %}" href="{{ '/features/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'features' %}active{% endif %}" href="{{ lang_prefix | append: '/features/' | relative_url }}">
         <span class="lang-zh">功能</span><span class="lang-en">Features</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'pricing' %}active{% endif %}" href="{{ '/pricing/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'pricing' %}active{% endif %}" href="{{ lang_prefix | append: '/pricing/' | relative_url }}">
         <span class="lang-zh">方案</span><span class="lang-en">Pricing</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'faq' %}active{% endif %}" href="{{ '/faq/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'faq' %}active{% endif %}" href="{{ lang_prefix | append: '/faq/' | relative_url }}">
         <span class="lang-zh">常见问题</span><span class="lang-en">FAQ</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'support' %}active{% endif %}" href="{{ '/support/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'support' %}active{% endif %}" href="{{ lang_prefix | append: '/support/' | relative_url }}">
         <span class="lang-zh">支持</span><span class="lang-en">Support</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'terms' %}active{% endif %}" href="{{ '/terms/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'terms' %}active{% endif %}" href="{{ terms_link | relative_url }}">
         <span class="lang-zh">条款</span><span class="lang-en">Terms</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'privacy' %}active{% endif %}" href="{{ '/privacy/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'privacy' %}active{% endif %}" href="{{ privacy_link | relative_url }}">
         <span class="lang-zh">隐私</span><span class="lang-en">Privacy</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'marketing' %}active{% endif %}" href="{{ '/marketing/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'marketing' %}active{% endif %}" href="{{ lang_prefix | append: '/marketing/' | relative_url }}">
         <span class="lang-zh">介绍</span><span class="lang-en">Marketing</span>
       </a>
     </nav>

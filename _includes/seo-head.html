@@ -5,9 +5,10 @@
   {% assign full_title = site.title %}
 {% endif %}
 
-{% assign page_description = page.seo_description | default: page.hero_subtitle | default: site.description %}
+{% assign page_description = page.seo_description | default: page.hero_subtitle_zh | default: page.hero_subtitle_en | default: page.hero_subtitle | default: site.description %}
 {% assign canonical_url = page.canonical_url | default: page.url | absolute_url %}
 {% assign og_image_url = page.og_image | default: '/assets/value-overview.png' | absolute_url %}
+{% assign page_keywords = page.seo_keywords | default: '' %}
 
 {% assign is_version_legal = false %}
 {% if page.url and page.url contains '/v' %}
@@ -27,10 +28,16 @@
 
 <title>{{ full_title }}</title>
 <meta name="description" content="{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}" />
+{% if page_keywords != '' %}
+<meta name="keywords" content="{{ page_keywords | escape }}" />
+{% endif %}
 <meta name="robots" content="{{ robots_value }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="theme-color" content="#0f172a" />
 <link rel="canonical" href="{{ canonical_url }}" />
+{% if site.google_site_verification and site.google_site_verification != '' %}
+<meta name="google-site-verification" content="{{ site.google_site_verification | escape }}" />
+{% endif %}
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="{{ site.title | escape }}" />
@@ -60,6 +67,16 @@
     } catch (e) {}
   })();
 </script>
+
+{% if site.ga4_measurement_id and site.ga4_measurement_id != '' %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4_measurement_id | escape }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.ga4_measurement_id | escape }}', { 'anonymize_ip': true });
+</script>
+{% endif %}
 
 <script type="application/ld+json">
 {
@@ -99,3 +116,55 @@
   ]
 }
 </script>
+
+{% if page.faq_items %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq_items %}
+    {
+      "@type": "Question",
+      "name": "{{ item.q | strip_html | strip_newlines | escape }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ item.a | strip_html | strip_newlines | escape }}"
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.breadcrumb_items %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {% for crumb in page.breadcrumb_items %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "name": "{{ crumb.name | strip_html | strip_newlines | escape }}",
+      "item": "{{ crumb.url | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.schema_type %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ page.schema_type | capitalize }}",
+  "name": "{{ page_title | default: site.title | strip_html | strip_newlines | escape }}",
+  "url": "{{ canonical_url }}",
+  "inLanguage": "{{ page.lang | default: site.lang | default: 'zh-CN' }}"
+}
+</script>
+{% endif %}

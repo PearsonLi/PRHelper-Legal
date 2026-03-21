@@ -5,5 +5,13 @@ baseurl: /PRHelper-Legal
 lang: zh-CN
 timezone: America/Vancouver
 markdown: kramdown
+
+# Optional: set when available
+# ga4_measurement_id: G-XXXXXXXXXX
+# google_site_verification: your-verification-token
+
+ga4_measurement_id: ""
+google_site_verification: ""
+
 kramdown:
   input: GFM

@@ -9,9 +9,17 @@ hero_subtitle_en: Quick answers on counting rules, family features, privacy, and
 nav_key: faq
 seo_title: CanResidency FAQ | PR与入籍统计、家庭版、隐私与购买
 seo_description: CanResidency FAQ：口径差异、临时居留折算、订阅与买断、数据存储与导出、法律链接说明。
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/faq/
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/faq/
+seo_noindex: true
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/faq/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/faq/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/faq/
 ---
+
+<div class="callout">
+  <span class="lang-zh">稳定兼容入口：请优先使用语言页。</span>
+  <span class="lang-en">Stable compatibility entry: use language pages first.</span>
+  <a href="/PRHelper-Legal/zh/faq/">中文</a> · <a href="/PRHelper-Legal/en/faq/">English</a>
+</div>
 
 <div class="lang-zh">
   <h3>为什么 PR 和入籍天数会不同？</h3>

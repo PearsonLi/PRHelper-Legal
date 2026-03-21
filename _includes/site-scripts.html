@@ -5,8 +5,91 @@
   var saved = localStorage.getItem(KEY);
   var lang = saved === 'zh' || saved === 'en' ? saved : (zhPreferred ? 'zh' : 'en');
 
+  function track(eventName, params) {
+    try {
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', eventName, params || {});
+      }
+    } catch (e) {}
+  }
+
+  function oldPathToLangPath(pathname, targetLang) {
+    var map = {
+      '/PRHelper-Legal/': {
+        zh: '/PRHelper-Legal/zh/',
+        en: '/PRHelper-Legal/en/'
+      },
+      '/PRHelper-Legal/features/': {
+        zh: '/PRHelper-Legal/zh/features/',
+        en: '/PRHelper-Legal/en/features/'
+      },
+      '/PRHelper-Legal/pricing/': {
+        zh: '/PRHelper-Legal/zh/pricing/',
+        en: '/PRHelper-Legal/en/pricing/'
+      },
+      '/PRHelper-Legal/faq/': {
+        zh: '/PRHelper-Legal/zh/faq/',
+        en: '/PRHelper-Legal/en/faq/'
+      },
+      '/PRHelper-Legal/support/': {
+        zh: '/PRHelper-Legal/zh/support/',
+        en: '/PRHelper-Legal/en/support/'
+      },
+      '/PRHelper-Legal/marketing/': {
+        zh: '/PRHelper-Legal/zh/marketing/',
+        en: '/PRHelper-Legal/en/marketing/'
+      },
+      '/PRHelper-Legal/terms/': {
+        zh: '/PRHelper-Legal/terms/zh/',
+        en: '/PRHelper-Legal/terms/en/'
+      },
+      '/PRHelper-Legal/privacy/': {
+        zh: '/PRHelper-Legal/privacy/zh/',
+        en: '/PRHelper-Legal/privacy/en/'
+      },
+      '/PRHelper-Legal/topics/': {
+        zh: '/PRHelper-Legal/zh/topics/',
+        en: '/PRHelper-Legal/en/topics/'
+      },
+      '/PRHelper-Legal/topics/pr-730-rule/': {
+        zh: '/PRHelper-Legal/zh/topics/pr-730-rule/',
+        en: '/PRHelper-Legal/en/topics/pr-730-rule/'
+      },
+      '/PRHelper-Legal/topics/pr-card-renewal-checklist/': {
+        zh: '/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/',
+        en: '/PRHelper-Legal/en/topics/pr-card-renewal-checklist/'
+      },
+      '/PRHelper-Legal/topics/citizenship-1095-rule/': {
+        zh: '/PRHelper-Legal/zh/topics/citizenship-1095-rule/',
+        en: '/PRHelper-Legal/en/topics/citizenship-1095-rule/'
+      },
+      '/PRHelper-Legal/topics/pre-pr-credit/': {
+        zh: '/PRHelper-Legal/zh/topics/pre-pr-credit/',
+        en: '/PRHelper-Legal/en/topics/pre-pr-credit/'
+      },
+      '/PRHelper-Legal/topics/travel-planning-impact/': {
+        zh: '/PRHelper-Legal/zh/topics/travel-planning-impact/',
+        en: '/PRHelper-Legal/en/topics/travel-planning-impact/'
+      },
+      '/PRHelper-Legal/topics/family-multi-member-guide/': {
+        zh: '/PRHelper-Legal/zh/topics/family-multi-member-guide/',
+        en: '/PRHelper-Legal/en/topics/family-multi-member-guide/'
+      }
+    };
+    if (map[pathname] && map[pathname][targetLang]) {
+      return map[pathname][targetLang];
+    }
+    return null;
+  }
+
   function counterpartUrl(pathname, targetLang) {
     var m;
+
+    m = pathname.match(/^\/PRHelper-Legal\/(zh|en)\/(.*)$/);
+    if (m) {
+      return '/PRHelper-Legal/' + targetLang + '/' + m[2];
+    }
+
     m = pathname.match(/^(\/PRHelper-Legal\/terms\/)en(\/(?:v[0-9\-]+\/?)?)?$/);
     if (m && targetLang === 'zh') return m[1] + 'zh' + (m[2] || '/');
     m = pathname.match(/^(\/PRHelper-Legal\/terms\/)zh(\/(?:v[0-9\-]+\/?)?)?$/);
@@ -17,7 +100,7 @@
     m = pathname.match(/^(\/PRHelper-Legal\/privacy\/)zh(\/(?:v[0-9\-]+\/?)?)?$/);
     if (m && targetLang === 'en') return m[1] + 'en' + (m[2] || '/');
 
-    return null;
+    return oldPathToLangPath(pathname, targetLang);
   }
 
   function applyLang(nextLang) {
@@ -36,20 +119,44 @@
   document.addEventListener('click', function (event) {
     var target = event.target;
     if (!target) return;
-    var btn = target.closest('[data-lang-target]');
-    if (!btn) return;
-    event.preventDefault();
-    var nextLang = btn.getAttribute('data-lang-target');
-    if (nextLang !== 'zh' && nextLang !== 'en') return;
-    localStorage.setItem(KEY, nextLang);
 
-    var currentPath = window.location.pathname;
-    var redirect = counterpartUrl(currentPath, nextLang);
-    if (redirect && redirect !== currentPath) {
-      window.location.href = redirect;
+    var btn = target.closest('[data-lang-target]');
+    if (btn) {
+      event.preventDefault();
+      var nextLang = btn.getAttribute('data-lang-target');
+      if (nextLang !== 'zh' && nextLang !== 'en') return;
+      localStorage.setItem(KEY, nextLang);
+      track('language_switch', { language_to: nextLang });
+
+      var currentPath = window.location.pathname;
+      var redirect = counterpartUrl(currentPath, nextLang);
+      if (redirect && redirect !== currentPath) {
+        window.location.href = redirect;
+        return;
+      }
+      applyLang(nextLang);
       return;
     }
-    applyLang(nextLang);
+
+    var link = target.closest('a');
+    if (!link) return;
+
+    if (link.classList.contains('btn')) {
+      track('cta_click', { cta_text: (link.textContent || '').trim() });
+    }
+
+    if (link.classList.contains('app-store-badge-link') || link.classList.contains('app-store-qr-link') || (link.href && link.href.indexOf('apps.apple.com') !== -1)) {
+      track('app_store_click', { source_path: window.location.pathname });
+    }
   });
+
+  document.addEventListener('toggle', function (event) {
+    var details = event.target;
+    if (!details || details.tagName !== 'DETAILS') return;
+    if (!details.classList.contains('faq-item')) return;
+    if (!details.open) return;
+    var label = details.getAttribute('data-faq-id') || 'unknown';
+    track('faq_expand', { faq_id: label, page_path: window.location.pathname });
+  }, true);
 })();
 </script>

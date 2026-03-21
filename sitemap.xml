@@ -20,6 +20,9 @@ layout: null
   {% if p.sitemap == false %}
     {% assign skip_page = true %}
   {% endif %}
+  {% if p.seo_noindex == true %}
+    {% assign skip_page = true %}
+  {% endif %}
   {% unless skip_page %}
   <url>
     <loc>{{ p.url | absolute_url }}</loc>

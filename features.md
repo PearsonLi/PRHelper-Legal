@@ -12,9 +12,17 @@ cta_label_zh: 下载 App
 cta_label_en: Download App
 seo_title: CanResidency 功能介绍 | PR 与入籍居住天数追踪
 seo_description: CanResidency 功能页：PR与入籍单引擎计算、旅行计划预警、临时居留折算、家庭成员管理、导出与隐私能力。
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/features/
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/features/
+seo_noindex: true
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/features/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/features/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/features/
 ---
+
+<div class="callout">
+  <span class="lang-zh">稳定兼容入口：请优先使用语言页。</span>
+  <span class="lang-en">Stable compatibility entry: use language pages first.</span>
+  <a href="/PRHelper-Legal/zh/features/">中文</a> · <a href="/PRHelper-Legal/en/features/">English</a>
+</div>
 
 <div class="feature-grid">
   <div class="feature-card">

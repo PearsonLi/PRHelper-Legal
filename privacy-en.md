@@ -6,6 +6,8 @@ hero_title: Privacy Policy (English)
 hero_subtitle: English privacy policy for CanResidency.
 last_updated: 2026-03-16
 nav_key: privacy
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/en/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 ---
 
 

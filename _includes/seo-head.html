@@ -1,0 +1,88 @@
+{% assign page_title = page.seo_title | default: page.title %}
+{% if page_title %}
+  {% assign full_title = page_title | append: ' | ' | append: site.title %}
+{% else %}
+  {% assign full_title = site.title %}
+{% endif %}
+
+{% assign page_description = page.seo_description | default: page.hero_subtitle | default: site.description %}
+{% assign canonical_url = page.canonical_url | default: page.url | absolute_url %}
+{% assign og_image_url = page.og_image | default: '/assets/value-overview.png' | absolute_url %}
+
+{% assign is_version_legal = false %}
+{% if page.url and page.url contains '/v' %}
+  {% if page.url contains '/terms/' %}
+    {% assign is_version_legal = true %}
+  {% endif %}
+  {% if page.url contains '/privacy/' %}
+    {% assign is_version_legal = true %}
+  {% endif %}
+{% endif %}
+
+{% if page.seo_noindex == true or is_version_legal %}
+  {% assign robots_value = 'noindex,follow' %}
+{% else %}
+  {% assign robots_value = 'index,follow' %}
+{% endif %}
+
+<title>{{ full_title }}</title>
+<meta name="description" content="{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}" />
+<meta name="robots" content="{{ robots_value }}" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#0f172a" />
+<link rel="canonical" href="{{ canonical_url }}" />
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{ site.title | escape }}" />
+<meta property="og:title" content="{{ full_title | escape }}" />
+<meta property="og:description" content="{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}" />
+<meta property="og:url" content="{{ canonical_url }}" />
+<meta property="og:image" content="{{ og_image_url }}" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ full_title | escape }}" />
+<meta name="twitter:description" content="{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}" />
+<meta name="twitter:image" content="{{ og_image_url }}" />
+
+<link rel="alternate" hreflang="zh-CN" href="{{ page.alternate_zh | default: canonical_url }}" />
+<link rel="alternate" hreflang="en" href="{{ page.alternate_en | default: canonical_url }}" />
+<link rel="alternate" hreflang="x-default" href="{{ canonical_url }}" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "{{ site.title | escape }}",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "inLanguage": ["zh-CN", "en"]
+    },
+    {
+      "@type": "Organization",
+      "name": "Rho Technologies Ltd.",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "email": "mailto:pearson@rhotechnologies.ca"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "CanResidency（枫叶卡管家）",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "iOS",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "downloadUrl": "https://apps.apple.com/app/id6759813402",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Rho Technologies Ltd."
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "0",
+        "availability": "https://schema.org/InStock"
+      },
+      "description": "Local-first Canadian PR and citizenship residency tracker with family member management, planning signals, and export reports."
+    }
+  ]
+}
+</script>

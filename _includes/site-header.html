@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand-link" href="{{ '/' | relative_url }}">
+      <span class="brand-name">CanResidency / 枫叶卡管家</span>
+    </a>
+    <nav class="top-nav" aria-label="Primary navigation">
+      <a class="nav-link {% if page.nav_key == 'home' %}active{% endif %}" href="{{ '/' | relative_url }}">Home / 首页</a>
+      <a class="nav-link {% if page.nav_key == 'features' %}active{% endif %}" href="{{ '/features/' | relative_url }}">Features / 功能</a>
+      <a class="nav-link {% if page.nav_key == 'pricing' %}active{% endif %}" href="{{ '/pricing/' | relative_url }}">Pricing / 方案</a>
+      <a class="nav-link {% if page.nav_key == 'faq' %}active{% endif %}" href="{{ '/faq/' | relative_url }}">FAQ</a>
+      <a class="nav-link {% if page.nav_key == 'support' %}active{% endif %}" href="{{ '/support/' | relative_url }}">Support / 支持</a>
+      <a class="nav-link {% if page.nav_key == 'terms' %}active{% endif %}" href="{{ '/terms/' | relative_url }}">Terms / 条款</a>
+      <a class="nav-link {% if page.nav_key == 'privacy' %}active{% endif %}" href="{{ '/privacy/' | relative_url }}">Privacy / 隐私</a>
+      <a class="nav-link {% if page.nav_key == 'marketing' %}active{% endif %}" href="{{ '/marketing/' | relative_url }}">Marketing / 介绍</a>
+    </nav>
+  </div>
+</header>

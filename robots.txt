@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pearsonli.github.io/PRHelper-Legal/sitemap.xml

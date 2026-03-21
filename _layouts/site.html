@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
+  <head>
+    <meta charset="utf-8" />
+    {% include seo-head.html %}
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
+  </head>
+  <body class="site-page">
+    {% include site-header.html %}
+
+    <main class="site-main">
+      <section class="hero-section {% if page.hero_compact %}hero-compact{% endif %}">
+        <div class="hero-shell">
+          <h1>{{ page.hero_title | default: page.title }}</h1>
+          {% if page.hero_subtitle %}
+          <p>{{ page.hero_subtitle }}</p>
+          {% endif %}
+          {% if page.cta_url and page.cta_label %}
+          {% assign cta_url_resolved = page.cta_url %}
+          {% if page.cta_url contains '://' %}
+            {% assign cta_url_resolved = page.cta_url %}
+          {% else %}
+            {% assign cta_url_resolved = page.cta_url | relative_url %}
+          {% endif %}
+          <div class="hero-cta-row">
+            <a class="btn btn-primary" href="{{ cta_url_resolved }}">{{ page.cta_label }}</a>
+            {% if page.cta_secondary_url and page.cta_secondary_label %}
+            {% assign cta_secondary_url_resolved = page.cta_secondary_url %}
+            {% if page.cta_secondary_url contains '://' %}
+              {% assign cta_secondary_url_resolved = page.cta_secondary_url %}
+            {% else %}
+              {% assign cta_secondary_url_resolved = page.cta_secondary_url | relative_url %}
+            {% endif %}
+            <a class="btn btn-secondary" href="{{ cta_secondary_url_resolved }}">{{ page.cta_secondary_label }}</a>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+      </section>
+
+      <article class="content-shell">
+        {{ content }}
+      </article>
+    </main>
+
+    {% include site-footer.html %}
+  </body>
+</html>

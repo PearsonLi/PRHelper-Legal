@@ -6,6 +6,8 @@ hero_title: 服务条款（中文）
 hero_subtitle: CanResidency（枫叶卡管家）服务条款中文版。
 last_updated: 2026-03-16
 nav_key: terms
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/en/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/terms/zh/
 ---
 
 

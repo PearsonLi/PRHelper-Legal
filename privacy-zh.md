@@ -6,6 +6,8 @@ hero_title: 隐私政策（中文）
 hero_subtitle: CanResidency（枫叶卡管家）隐私政策中文版。
 last_updated: 2026-03-16
 nav_key: privacy
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/en/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 ---
 
 

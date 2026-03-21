@@ -1,33 +1,31 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}" />
-    <link rel="stylesheet" href="{{ '/assets/legal.css' | relative_url }}" />
+    {% include seo-head.html %}
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
   </head>
-  <body>
-    <main class="shell">
-      <article class="card content-card">
-        {% if page.last_updated %}
-        <p class="meta">Last Updated / 最后更新：{{ page.last_updated }}</p>
-        {% endif %}
+  <body class="legal-page">
+    {% include site-header.html %}
+
+    <main class="site-main legal-main">
+      <section class="hero-section hero-compact legal-hero">
+        <div class="hero-shell">
+          <h1>{{ page.hero_title | default: page.title }}</h1>
+          {% if page.hero_subtitle %}
+          <p>{{ page.hero_subtitle }}</p>
+          {% endif %}
+          {% if page.last_updated %}
+          <p class="hero-meta">Last Updated / 最后更新：{{ page.last_updated }}</p>
+          {% endif %}
+        </div>
+      </section>
+
+      <article class="content-shell legal-content-shell">
         {{ content }}
       </article>
-
-      <header class="hero card hero-bottom">
-        <h1 class="hero-title">{{ page.hero_title | default: page.title }}</h1>
-        {% if page.hero_subtitle %}
-        <p class="hero-subtitle">{{ page.hero_subtitle }}</p>
-        {% endif %}
-        <nav class="menu-links" aria-label="Legal navigation">
-          <a class="menu-link {% if page.nav_key == 'terms' %}active{% endif %}" href="{{ '/terms/' | relative_url }}">Terms of Use</a>
-          <a class="menu-link {% if page.nav_key == 'privacy' %}active{% endif %}" href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
-          <a class="menu-link {% if page.nav_key == 'support' %}active{% endif %}" href="{{ '/support/' | relative_url }}">Support</a>
-          <a class="menu-link {% if page.nav_key == 'marketing' %}active{% endif %}" href="{{ '/marketing/' | relative_url }}">Marketing</a>
-        </nav>
-      </header>
     </main>
+
+    {% include site-footer.html %}
   </body>
 </html>

@@ -1,0 +1,32 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% assign all_pages = site.pages | sort: 'url' %}
+{% for p in all_pages %}
+  {% assign skip_page = false %}
+  {% if p.url == '/404.html' %}
+    {% assign skip_page = true %}
+  {% endif %}
+  {% if p.url and p.url contains '/v' %}
+    {% if p.url contains '/terms/' %}
+      {% assign skip_page = true %}
+    {% endif %}
+    {% if p.url contains '/privacy/' %}
+      {% assign skip_page = true %}
+    {% endif %}
+  {% endif %}
+  {% if p.sitemap == false %}
+    {% assign skip_page = true %}
+  {% endif %}
+  {% unless skip_page %}
+  <url>
+    <loc>{{ p.url | absolute_url }}</loc>
+    {% if p.last_updated %}
+    <lastmod>{{ p.last_updated }}</lastmod>
+    {% endif %}
+  </url>
+  {% endunless %}
+{% endfor %}
+</urlset>

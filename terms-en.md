@@ -6,6 +6,8 @@ hero_title: Terms of Use (English)
 hero_subtitle: English version for CanResidency terms.
 last_updated: 2026-03-16
 nav_key: terms
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/en/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/terms/zh/
 ---
 
 

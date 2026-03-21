@@ -1,5 +1,9 @@
-title: 枫叶卡管家 / CanResidency
-description: Official Terms of Use and Privacy Policy
+title: CanResidency / 枫叶卡管家
+description: Official website, support, and legal documents for CanResidency.
+url: https://pearsonli.github.io
+baseurl: /PRHelper-Legal
+lang: zh-CN
+timezone: America/Vancouver
 markdown: kramdown
 kramdown:
   input: GFM

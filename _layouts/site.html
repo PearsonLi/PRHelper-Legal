@@ -11,9 +11,15 @@
     <main class="site-main">
       <section class="hero-section {% if page.hero_compact %}hero-compact{% endif %}">
         <div class="hero-shell">
-          <h1>{{ page.hero_title | default: page.title }}</h1>
-          {% if page.hero_subtitle %}
-          <p>{{ page.hero_subtitle }}</p>
+          <h1>
+            <span class="lang-zh">{{ page.hero_title_zh | default: page.hero_title | default: page.title }}</span>
+            <span class="lang-en">{{ page.hero_title_en | default: page.hero_title | default: page.title }}</span>
+          </h1>
+          {% if page.hero_subtitle or page.hero_subtitle_zh or page.hero_subtitle_en %}
+          <p>
+            <span class="lang-zh">{{ page.hero_subtitle_zh | default: page.hero_subtitle }}</span>
+            <span class="lang-en">{{ page.hero_subtitle_en | default: page.hero_subtitle }}</span>
+          </p>
           {% endif %}
           {% if page.cta_url and page.cta_label %}
           {% assign cta_url_resolved = page.cta_url %}
@@ -23,7 +29,10 @@
             {% assign cta_url_resolved = page.cta_url | relative_url %}
           {% endif %}
           <div class="hero-cta-row">
-            <a class="btn btn-primary" href="{{ cta_url_resolved }}">{{ page.cta_label }}</a>
+            <a class="btn btn-primary" href="{{ cta_url_resolved }}">
+              <span class="lang-zh">{{ page.cta_label_zh | default: page.cta_label }}</span>
+              <span class="lang-en">{{ page.cta_label_en | default: page.cta_label }}</span>
+            </a>
             {% if page.cta_secondary_url and page.cta_secondary_label %}
             {% assign cta_secondary_url_resolved = page.cta_secondary_url %}
             {% if page.cta_secondary_url contains '://' %}
@@ -31,7 +40,10 @@
             {% else %}
               {% assign cta_secondary_url_resolved = page.cta_secondary_url | relative_url %}
             {% endif %}
-            <a class="btn btn-secondary" href="{{ cta_secondary_url_resolved }}">{{ page.cta_secondary_label }}</a>
+            <a class="btn btn-secondary" href="{{ cta_secondary_url_resolved }}">
+              <span class="lang-zh">{{ page.cta_secondary_label_zh | default: page.cta_secondary_label }}</span>
+              <span class="lang-en">{{ page.cta_secondary_label_en | default: page.cta_secondary_label }}</span>
+            </a>
             {% endif %}
           </div>
           {% endif %}
@@ -44,5 +56,6 @@
     </main>
 
     {% include site-footer.html %}
+    {% include site-scripts.html %}
   </body>
 </html>

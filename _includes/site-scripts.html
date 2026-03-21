@@ -1,0 +1,55 @@
+<script>
+(function () {
+  var KEY = 'cr_site_lang';
+  var zhPreferred = (navigator.language || '').toLowerCase().indexOf('zh') === 0;
+  var saved = localStorage.getItem(KEY);
+  var lang = saved === 'zh' || saved === 'en' ? saved : (zhPreferred ? 'zh' : 'en');
+
+  function counterpartUrl(pathname, targetLang) {
+    var m;
+    m = pathname.match(/^(\/PRHelper-Legal\/terms\/)en(\/(?:v[0-9\-]+\/?)?)?$/);
+    if (m && targetLang === 'zh') return m[1] + 'zh' + (m[2] || '/');
+    m = pathname.match(/^(\/PRHelper-Legal\/terms\/)zh(\/(?:v[0-9\-]+\/?)?)?$/);
+    if (m && targetLang === 'en') return m[1] + 'en' + (m[2] || '/');
+
+    m = pathname.match(/^(\/PRHelper-Legal\/privacy\/)en(\/(?:v[0-9\-]+\/?)?)?$/);
+    if (m && targetLang === 'zh') return m[1] + 'zh' + (m[2] || '/');
+    m = pathname.match(/^(\/PRHelper-Legal\/privacy\/)zh(\/(?:v[0-9\-]+\/?)?)?$/);
+    if (m && targetLang === 'en') return m[1] + 'en' + (m[2] || '/');
+
+    return null;
+  }
+
+  function applyLang(nextLang) {
+    document.documentElement.setAttribute('data-lang', nextLang);
+    document.documentElement.lang = nextLang === 'zh' ? 'zh-CN' : 'en';
+    var buttons = document.querySelectorAll('[data-lang-target]');
+    buttons.forEach(function (btn) {
+      var active = btn.getAttribute('data-lang-target') === nextLang;
+      btn.setAttribute('aria-pressed', active ? 'true' : 'false');
+      btn.classList.toggle('is-active', active);
+    });
+  }
+
+  applyLang(lang);
+
+  document.addEventListener('click', function (event) {
+    var target = event.target;
+    if (!target) return;
+    var btn = target.closest('[data-lang-target]');
+    if (!btn) return;
+    event.preventDefault();
+    var nextLang = btn.getAttribute('data-lang-target');
+    if (nextLang !== 'zh' && nextLang !== 'en') return;
+    localStorage.setItem(KEY, nextLang);
+
+    var currentPath = window.location.pathname;
+    var redirect = counterpartUrl(currentPath, nextLang);
+    if (redirect && redirect !== currentPath) {
+      window.location.href = redirect;
+      return;
+    }
+    applyLang(nextLang);
+  });
+})();
+</script>

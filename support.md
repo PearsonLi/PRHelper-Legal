@@ -2,30 +2,45 @@
 title: Support / 支持
 permalink: /support/
 layout: site
-hero_title: Support / 支持
-hero_subtitle: Contact, issue reporting, and purchase support for CanResidency（枫叶卡管家）。
+hero_title_zh: 支持中心
+hero_title_en: Support Center
+hero_subtitle_zh: 问题反馈、购买咨询与发布相关支持。
+hero_subtitle_en: Help for bug reports, purchase issues, and release questions.
 last_updated: 2026-03-20
 nav_key: support
 seo_title: CanResidency 支持中心 | Support
-seo_description: CanResidency 支持页面：问题反馈、购买/订阅咨询、版本与设备信息提交要求。
+seo_description: CanResidency 支持页面：反馈邮箱、问题提交建议、FAQ与法务入口。
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/support/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/support/
 ---
 
-For bug reports, purchase issues, account entitlement questions, or release feedback:
+<p><strong>Email:</strong> <a href="mailto:pearson@rhotechnologies.ca">pearson@rhotechnologies.ca</a></p>
 
-- **Email:** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)
+<div class="lang-zh">
+  <h3>建议反馈内容</h3>
+  <ol>
+    <li>设备型号与 iOS 版本</li>
+    <li>App 版本号与 build</li>
+    <li>问题复现步骤</li>
+    <li>截图或录屏（如有）</li>
+  </ol>
+  <p>通常 1-3 个工作日回复。</p>
+</div>
 
-建议反馈时附上 / Please include:
+<div class="lang-en">
+  <h3>Recommended details in your report</h3>
+  <ol>
+    <li>Device model and iOS version</li>
+    <li>App version and build number</li>
+    <li>Steps to reproduce</li>
+    <li>Screenshots or screen recording (if any)</li>
+  </ol>
+  <p>Typical response time: 1-3 business days.</p>
+</div>
 
-1. Device model + iOS version
-2. App version + build number
-3. Reproduction steps
-4. Screenshots or video (if available)
-
-我们通常会在 1-3 个工作日回复 / We usually reply within 1-3 business days.
-
-## Quick links / 快速入口
-
-- [FAQ](/PRHelper-Legal/faq/)
-- [Terms of Use](/PRHelper-Legal/terms/)
-- [Privacy Policy](/PRHelper-Legal/privacy/)
-- [Release Legal Manifest](/PRHelper-Legal/legal/releases/)
+<p>
+  <a href="/PRHelper-Legal/faq/">FAQ</a> ·
+  <a href="/PRHelper-Legal/terms/">Terms</a> ·
+  <a href="/PRHelper-Legal/privacy/">Privacy</a> ·
+  <a href="/PRHelper-Legal/legal/releases/">Release Legal Manifest</a>
+</p>

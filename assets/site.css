@@ -68,6 +68,31 @@ body {
   justify-content: flex-end;
 }
 
+.lang-switch {
+  display: inline-flex;
+  gap: 4px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 3px;
+  background: #ffffff;
+}
+
+.lang-btn {
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.lang-btn.is-active {
+  background: var(--brand);
+  color: #ffffff;
+}
+
 .nav-link {
   text-decoration: none;
   color: var(--text-muted);
@@ -87,6 +112,19 @@ body {
   color: #ffffff;
   background: var(--brand);
   border-color: var(--brand);
+}
+
+html[data-lang='zh'] .lang-en {
+  display: none !important;
+}
+
+html[data-lang='en'] .lang-zh {
+  display: none !important;
+}
+
+.lang-zh,
+.lang-en {
+  white-space: normal;
 }
 
 .site-main {
@@ -440,6 +478,10 @@ body {
 
   .top-nav {
     justify-content: flex-start;
+  }
+
+  .lang-switch {
+    align-self: flex-end;
   }
 
   .kpi-card,

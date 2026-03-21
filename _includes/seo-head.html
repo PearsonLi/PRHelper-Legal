@@ -48,6 +48,19 @@
 <link rel="alternate" hreflang="en" href="{{ page.alternate_en | default: canonical_url }}" />
 <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}" />
 
+<script>
+  (function () {
+    try {
+      var lang = localStorage.getItem('cr_site_lang');
+      if (lang !== 'zh' && lang !== 'en') {
+        lang = (navigator.language || '').toLowerCase().indexOf('zh') === 0 ? 'zh' : 'en';
+      }
+      document.documentElement.setAttribute('data-lang', lang);
+      document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+    } catch (e) {}
+  })();
+</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

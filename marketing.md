@@ -2,66 +2,57 @@
 title: Marketing / 产品介绍
 permalink: /marketing/
 layout: site
-hero_title: Marketing / 产品介绍
-hero_subtitle: CanResidency（枫叶卡管家）面向加拿大永居与入籍规划场景的本地优先工具。
+hero_title_zh: 产品介绍
+hero_title_en: Product Overview
+hero_subtitle_zh: 以“家庭版 + 规划能力”为核心，帮助用户更清晰地管理保卡与入籍进度。
+hero_subtitle_en: Family-first planning for clear PR card and citizenship progress management.
 last_updated: 2026-03-20
 nav_key: marketing
 cta_url: https://apps.apple.com/app/id6759813402
-cta_label: 下载 App / Download
+cta_label_zh: 下载 App
+cta_label_en: Download App
 seo_title: CanResidency Marketing | 枫叶卡管家产品介绍
-seo_description: CanResidency 产品介绍：官方口径单引擎统计、旅行规划预警、临时居留折算、家庭多成员管理、导出报告与本地优先隐私。
+seo_description: CanResidency 产品介绍：单引擎官方口径、旅行规划信号、临时居留折算、家庭管理、导出能力与本地优先隐私。
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/marketing/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/marketing/
 ---
 
-**CanResidency（枫叶卡管家）** is a local-first residency tracker for Canadian PR and citizenship planning.
-
 <div class="app-store-cta">
-  <div class="app-store-cta-title">iOS 下载 / Download on the App Store</div>
+  <div class="app-store-cta-title"><span class="lang-zh">iOS 下载</span><span class="lang-en">Download on App Store</span></div>
   <div class="app-store-cta-body">
     <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download CanResidency on the App Store">
       <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
     </a>
     <a class="app-store-qr-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Scan QR to download on App Store">
       <img class="app-store-qr" src="/PRHelper-Legal/assets/app-store-qr.png" alt="App Store download QR code" />
-      <span>扫码下载 / Scan</span>
+      <span><span class="lang-zh">扫码下载</span><span class="lang-en">Scan QR</span></span>
     </a>
   </div>
 </div>
 
-## 核心价值 / Core value
-
 <div class="feature-grid">
   <div class="feature-card">
-    <h3>官方口径单引擎</h3>
-    <p>PR 与入籍统计来自同一计算引擎，避免不同页面数字不一致。</p>
+    <h3><span class="lang-zh">看清现在</span><span class="lang-en">See now</span></h3>
+    <p><span class="lang-zh">在同一界面掌握 PR 与入籍的当前进度。</span><span class="lang-en">Track PR and citizenship status in one unified view.</span></p>
   </div>
   <div class="feature-card">
-    <h3>规划先行</h3>
-    <p>旅行计划与风险信号帮助用户在关键日期前做出可执行决策。</p>
+    <h3><span class="lang-zh">规划未来</span><span class="lang-en">Plan ahead</span></h3>
+    <p><span class="lang-zh">旅行计划与风险信号协助你提前规避风险。</span><span class="lang-en">Trip planning with risk signals helps avoid surprises early.</span></p>
   </div>
   <div class="feature-card">
-    <h3>家庭协同</h3>
-    <p>支持多成员管理，每位成员可独立配置 PR 信息与进度。</p>
+    <h3><span class="lang-zh">管理家庭</span><span class="lang-en">Manage family</span></h3>
+    <p><span class="lang-zh">家庭版支持多成员，成员资料与进度独立。</span><span class="lang-en">Family plan supports multiple members with independent progress.</span></p>
   </div>
 </div>
 
-## 你会用到的能力 / What users rely on
-
-1. 旅行记录（历史 + 计划）
-2. PR / 入籍评估日与进度趋势
-3. 入籍临时居留折算
-4. 导出报告（家庭分段、A4 自动分页）
-5. 本地优先隐私与 iCloud 可选同步
+<div class="callout">
+  <strong><span class="lang-zh">一句话定位</span><span class="lang-en">Positioning</span></strong><br />
+  <span class="lang-zh">CanResidency（枫叶卡管家）是面向加拿大永居与入籍规划的本地优先追踪工具。</span>
+  <span class="lang-en">CanResidency is a local-first tracker for Canadian PR and citizenship planning.</span>
+</div>
 
 <figure class="value-shot">
   <img src="/PRHelper-Legal/assets/value-forecast-2.jpg" alt="CanResidency travel planning and progress" />
 </figure>
 
-## 产品定位 / Positioning
-
-- 用户对象：加拿大永居持有人、入籍规划用户、家庭多成员管理场景
-- 使用场景：续卡规划、出行前风险评估、长期进度跟踪
-- 合规边界：本产品仅用于个人记录和规划，不构成法律建议
-
-如需商务合作、媒体联系或市场合作：
-
-- **邮箱 / Email:** [pearson@rhotechnologies.ca](mailto:pearson@rhotechnologies.ca)
+<p><strong>Email:</strong> <a href="mailto:pearson@rhotechnologies.ca">pearson@rhotechnologies.ca</a></p>

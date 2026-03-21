@@ -11,9 +11,15 @@
     <main class="site-main legal-main">
       <section class="hero-section hero-compact legal-hero">
         <div class="hero-shell">
-          <h1>{{ page.hero_title | default: page.title }}</h1>
-          {% if page.hero_subtitle %}
-          <p>{{ page.hero_subtitle }}</p>
+          <h1>
+            <span class="lang-zh">{{ page.hero_title_zh | default: page.hero_title | default: page.title }}</span>
+            <span class="lang-en">{{ page.hero_title_en | default: page.hero_title | default: page.title }}</span>
+          </h1>
+          {% if page.hero_subtitle or page.hero_subtitle_zh or page.hero_subtitle_en %}
+          <p>
+            <span class="lang-zh">{{ page.hero_subtitle_zh | default: page.hero_subtitle }}</span>
+            <span class="lang-en">{{ page.hero_subtitle_en | default: page.hero_subtitle }}</span>
+          </p>
           {% endif %}
           {% if page.last_updated %}
           <p class="hero-meta">Last Updated / 最后更新：{{ page.last_updated }}</p>
@@ -27,5 +33,6 @@
     </main>
 
     {% include site-footer.html %}
+    {% include site-scripts.html %}
   </body>
 </html>

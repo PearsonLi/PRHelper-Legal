@@ -4,7 +4,7 @@ permalink: /privacy/zh/
 layout: legal
 hero_title: 隐私政策（中文）
 hero_subtitle: CanResidency（枫叶卡管家）隐私政策中文版。
-last_updated: 2026-03-16
+last_updated: 2026-03-21
 nav_key: privacy
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
@@ -13,7 +13,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 
 # CanResidency（枫叶卡管家） 隐私政策
 
-最后更新：2026-03-16
+最后更新：2026-03-21
 
 本隐私政策说明“CanResidency（枫叶卡管家）”如何处理你的数据。
 
@@ -21,7 +21,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
    本政策适用于 CanResidency（枫叶卡管家）移动应用。
 
 2. 我们处理的数据  
-   数据可能包括你录入或授权的数据，例如旅行日期、目的地国家、出行目的、备注、永居相关设置、临时居留记录，以及在你开启定位功能后产生的可选定位采样数据。
+   数据可能包括你录入或授权的数据，例如旅行日期、目的地国家、出行目的、备注、永居相关设置、临时居留记录。
 
 3. 无应用内账号注册  
    本应用不要求应用内注册或登录账号。我们不维护本应用的用户账号数据库。
@@ -35,8 +35,8 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 6. 时区口径  
    按天统计使用加拿大时区（America/Toronto）以保持计算一致性。
 
-7. 权限与定位  
-   定位权限为可选。若你授权，定位数据仅用于应用功能，你可随时在 iOS 设置中关闭。
+7. 权限  
+   通知权限为可选，仅用于提醒功能。你可随时在 iOS 设置中管理权限。
 
 8. 导出与分享  
    导出由你主动触发。导出文件可能包含个人行程信息，你需自行决定保存和分享方式。

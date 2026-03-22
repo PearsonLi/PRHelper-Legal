@@ -21,7 +21,7 @@ This Privacy Policy explains how CanResidency handles your data.
    This policy applies to the mobile app CanResidency.
 
 2. Data we process  
-   Data may include records you provide or authorize, such as travel dates, destination country, purpose, notes, PR settings, temporary residence records, and optional location samples when location tracking is enabled.
+   Data may include records you provide or authorize, such as travel dates, destination country, purpose, notes, PR settings, and temporary residence records.
 
 3. No in-app account creation  
    The app does not require in-app account registration or login. We do not maintain a user account database for this app.
@@ -35,8 +35,8 @@ This Privacy Policy explains how CanResidency handles your data.
 6. Timezone basis  
    Day-level calculations use Canada timezone (America/Toronto) to keep consistent counting behavior.
 
-7. Permissions and location  
-   Location access is optional. If granted, location data is used for app features and can be disabled in iOS Settings at any time.
+7. Permissions  
+   Notification permission is optional and is used for reminder features. You can manage permissions in iOS Settings at any time.
 
 8. Export and sharing  
    Export is initiated by you. Exported files may contain personal travel details. You are responsible for where and how these files are shared.

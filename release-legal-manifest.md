@@ -4,12 +4,19 @@ permalink: /legal/releases/
 layout: legal
 hero_title: Release Legal Manifest
 hero_subtitle: Version-to-legal-URL mapping for shipped builds.
-last_updated: 2026-03-20
+last_updated: 2026-03-21
 ---
 
 # Release Legal Manifest
 
 Each release build maps to immutable release-scoped legal URLs.
+
+## v1.0.4 (build 9)
+- Terms EN: /PRHelper-Legal/terms/en/v1-0-4-build9/
+- Terms ZH: /PRHelper-Legal/terms/zh/v1-0-4-build9/
+- Privacy EN: /PRHelper-Legal/privacy/en/v1-0-4-build9/
+- Privacy ZH: /PRHelper-Legal/privacy/zh/v1-0-4-build9/
+- Published date: 2026-03-21
 
 ## v1.0.4 (build 8)
 - Terms EN: /PRHelper-Legal/terms/en/v1-0-4-build8/

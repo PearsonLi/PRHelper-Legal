@@ -1,3 +1,8 @@
+---
+title: Screenshot Manifest - v1.0.5 build 5
+permalink: /release/v1-0-5-build5/screenshot-manifest/
+---
+
 # Screenshot Manifest
 
 ## Required pages (EN + ZH)

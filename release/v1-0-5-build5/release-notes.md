@@ -1,3 +1,8 @@
+---
+title: Release Notes - v1.0.5 build 5
+permalink: /release/v1-0-5-build5/release-notes/
+---
+
 # Release Notes - v1.0.5 (build 5)
 
 - Generated at: 20260322_2204

@@ -10,7 +10,7 @@ markdown: kramdown
 # ga4_measurement_id: G-XXXXXXXXXX
 # google_site_verification: your-verification-token
 
-ga4_measurement_id: ""
+ga4_measurement_id: "G-BML31CYGYE"
 google_site_verification: ""
 
 kramdown:

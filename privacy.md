@@ -19,8 +19,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/
   <ul>
     <li><a href="/PRHelper-Legal/privacy/zh/">隐私政策（中文）</a></li>
     <li><a href="/PRHelper-Legal/privacy/en/">Privacy Policy (English)</a></li>
-    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build4/">隐私政策（中文）v1.0.5 build 4</a></li>
-    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build4/">Privacy Policy (English) v1.0.5 build 4</a></li>
+    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build5/">隐私政策（中文）v1.0.5 build 5</a></li>
+    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build5/">Privacy Policy (English) v1.0.5 build 5</a></li>
   </ul>
 </div>
 
@@ -29,8 +29,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/
   <ul>
     <li><a href="/PRHelper-Legal/privacy/en/">Privacy Policy (English)</a></li>
     <li><a href="/PRHelper-Legal/privacy/zh/">Privacy Policy (Chinese)</a></li>
-    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build4/">Privacy Policy (English) v1.0.5 build 4</a></li>
-    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build4/">Privacy Policy (Chinese) v1.0.5 build 4</a></li>
+    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build5/">Privacy Policy (English) v1.0.5 build 5</a></li>
+    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build5/">Privacy Policy (Chinese) v1.0.5 build 5</a></li>
   </ul>
 </div>
 

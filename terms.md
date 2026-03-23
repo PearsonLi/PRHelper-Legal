@@ -19,8 +19,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/
   <ul>
     <li><a href="/PRHelper-Legal/terms/zh/">服务条款（中文）</a></li>
     <li><a href="/PRHelper-Legal/terms/en/">Terms of Use (English)</a></li>
-    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build4/">服务条款（中文）v1.0.5 build 4</a></li>
-    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build4/">Terms of Use (English) v1.0.5 build 4</a></li>
+    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build5/">服务条款（中文）v1.0.5 build 5</a></li>
+    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build5/">Terms of Use (English) v1.0.5 build 5</a></li>
   </ul>
 </div>
 
@@ -29,8 +29,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/
   <ul>
     <li><a href="/PRHelper-Legal/terms/en/">Terms of Use (English)</a></li>
     <li><a href="/PRHelper-Legal/terms/zh/">Terms of Use (Chinese)</a></li>
-    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build4/">Terms of Use (English) v1.0.5 build 4</a></li>
-    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build4/">Terms of Use (Chinese) v1.0.5 build 4</a></li>
+    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build5/">Terms of Use (English) v1.0.5 build 5</a></li>
+    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build5/">Terms of Use (Chinese) v1.0.5 build 5</a></li>
   </ul>
 </div>
 

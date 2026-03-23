@@ -6,7 +6,7 @@ hero_title_zh: 隐私政策
 hero_title_en: Privacy Policy
 hero_subtitle_zh: 兼容入口页（链接保持稳定），可按语言与版本访问。
 hero_subtitle_en: Stable compatibility entry with language and release-scoped links.
-last_updated: 2026-03-23
+last_updated: 2026-03-22
 nav_key: privacy
 seo_title: CanResidency 隐私政策 | Privacy Policy
 seo_description: CanResidency Privacy 入口页：英文、中文和 release-scoped 版本链接。
@@ -19,8 +19,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/
   <ul>
     <li><a href="/PRHelper-Legal/privacy/zh/">隐私政策（中文）</a></li>
     <li><a href="/PRHelper-Legal/privacy/en/">Privacy Policy (English)</a></li>
-    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build3/">隐私政策（中文）v1.0.5 build 3</a></li>
-    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build3/">Privacy Policy (English) v1.0.5 build 3</a></li>
+    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build4/">隐私政策（中文）v1.0.5 build 4</a></li>
+    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build4/">Privacy Policy (English) v1.0.5 build 4</a></li>
   </ul>
 </div>
 
@@ -29,8 +29,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/
   <ul>
     <li><a href="/PRHelper-Legal/privacy/en/">Privacy Policy (English)</a></li>
     <li><a href="/PRHelper-Legal/privacy/zh/">Privacy Policy (Chinese)</a></li>
-    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build3/">Privacy Policy (English) v1.0.5 build 3</a></li>
-    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build3/">Privacy Policy (Chinese) v1.0.5 build 3</a></li>
+    <li><a href="/PRHelper-Legal/privacy/en/v1-0-5-build4/">Privacy Policy (English) v1.0.5 build 4</a></li>
+    <li><a href="/PRHelper-Legal/privacy/zh/v1-0-5-build4/">Privacy Policy (Chinese) v1.0.5 build 4</a></li>
   </ul>
 </div>
 

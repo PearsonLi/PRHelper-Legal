@@ -6,7 +6,7 @@ hero_title_zh: 服务条款
 hero_title_en: Terms of Use
 hero_subtitle_zh: 兼容入口页（链接保持稳定），可按语言与版本访问。
 hero_subtitle_en: Stable compatibility entry with language and release-scoped links.
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 nav_key: terms
 seo_title: CanResidency 服务条款 | Terms of Use
 seo_description: CanResidency Terms 入口页：英文、中文和 release-scoped 版本链接。
@@ -19,8 +19,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/
   <ul>
     <li><a href="/PRHelper-Legal/terms/zh/">服务条款（中文）</a></li>
     <li><a href="/PRHelper-Legal/terms/en/">Terms of Use (English)</a></li>
-    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build2/">服务条款（中文）v1.0.5 build 2</a></li>
-    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build2/">Terms of Use (English) v1.0.5 build 2</a></li>
+    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build3/">服务条款（中文）v1.0.5 build 3</a></li>
+    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build3/">Terms of Use (English) v1.0.5 build 3</a></li>
   </ul>
 </div>
 
@@ -29,8 +29,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/
   <ul>
     <li><a href="/PRHelper-Legal/terms/en/">Terms of Use (English)</a></li>
     <li><a href="/PRHelper-Legal/terms/zh/">Terms of Use (Chinese)</a></li>
-    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build2/">Terms of Use (English) v1.0.5 build 2</a></li>
-    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build2/">Terms of Use (Chinese) v1.0.5 build 2</a></li>
+    <li><a href="/PRHelper-Legal/terms/en/v1-0-5-build3/">Terms of Use (English) v1.0.5 build 3</a></li>
+    <li><a href="/PRHelper-Legal/terms/zh/v1-0-5-build3/">Terms of Use (Chinese) v1.0.5 build 3</a></li>
   </ul>
 </div>
 

@@ -5,6 +5,12 @@ permalink: /release/
 
 # Release Docs
 
+## v1.0.5 (build 6)
+- [Release Notes](/release/v1-0-5-build6/release-notes/)
+- [Screenshot Manifest](/release/v1-0-5-build6/screenshot-manifest/)
+- [Connect What's New](/release/v1-0-5-build6/connect-whats-new/)
+- [Connect Review Notes](/release/v1-0-5-build6/connect-review-notes/)
+
 ## v1.0.5 (build 5)
 - [Release Notes](/release/v1-0-5-build5/release-notes/)
 - [Screenshot Manifest](/release/v1-0-5-build5/screenshot-manifest/)

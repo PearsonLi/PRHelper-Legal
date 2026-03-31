@@ -11,6 +11,13 @@ last_updated: 2026-03-30
 
 Each release build maps to immutable release-scoped legal URLs.
 
+## v1.0.7 (build 6)
+- Terms EN: /PRHelper-Legal/terms/en/v1-0-7-build6/
+- Terms ZH: /PRHelper-Legal/terms/zh/v1-0-7-build6/
+- Privacy EN: /PRHelper-Legal/privacy/en/v1-0-7-build6/
+- Privacy ZH: /PRHelper-Legal/privacy/zh/v1-0-7-build6/
+- Published date: 2026-03-30
+
 ## v1.0.7 (build 4)
 - Terms EN: /PRHelper-Legal/terms/en/v1-0-7-build4/
 - Terms ZH: /PRHelper-Legal/terms/zh/v1-0-7-build4/
@@ -31,7 +38,6 @@ Each release build maps to immutable release-scoped legal URLs.
 - Privacy EN: /PRHelper-Legal/privacy/en/v1-0-7-build2/
 - Privacy ZH: /PRHelper-Legal/privacy/zh/v1-0-7-build2/
 - Published date: 2026-03-29
-
 ## v1.0.7 (build 1)
 - Terms EN: /PRHelper-Legal/terms/en/v1-0-7-build1/
 - Terms ZH: /PRHelper-Legal/terms/zh/v1-0-7-build1/

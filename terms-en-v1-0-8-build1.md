@@ -1,19 +1,19 @@
 ---
-title: Terms of Use (English)
-permalink: /terms/en/
+title: Terms of Use (English) - v1.0.8 build 1
+permalink: /terms/en/v1-0-8-build1/
 layout: legal
-hero_title: Terms of Use (English)
-hero_subtitle: English version for CanResidency terms.
+hero_title: Terms of Use (English) - v1.0.8 build 1
+hero_subtitle: Release-scoped English terms for v1.0.8 (build 1).
 last_updated: 2026-05-20
 nav_key: terms
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/terms/en/
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/terms/zh/
 ---
 
 
 # CanResidency Terms of Use
 
 Last Updated: 2026-05-20
+
+Applicable App Version: v1.0.8 (build 1)
 
 1. Acceptance  
    By downloading, installing, or using CanResidency, you agree to these Terms of Use and the Privacy Policy.

@@ -1,19 +1,19 @@
 ---
-title: Privacy Policy (English)
-permalink: /privacy/en/
+title: Privacy Policy (English) - v1.0.8 build 1
+permalink: /privacy/en/v1-0-8-build1/
 layout: legal
-hero_title: Privacy Policy (English)
-hero_subtitle: English privacy policy for CanResidency.
+hero_title: Privacy Policy (English) - v1.0.8 build 1
+hero_subtitle: Release-scoped English privacy policy for v1.0.8 (build 1).
 last_updated: 2026-05-20
 nav_key: privacy
-alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/en/
-alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 ---
 
 
 # CanResidency Privacy Policy
 
 Last Updated: 2026-05-20
+
+Applicable App Version: v1.0.8 (build 1)
 
 This Privacy Policy explains how CanResidency handles your data.
 

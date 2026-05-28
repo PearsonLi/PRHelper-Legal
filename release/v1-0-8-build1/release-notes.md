@@ -5,7 +5,7 @@ permalink: /release/v1-0-8-build1/release-notes/
 
 # Release Notes - v1.0.8 (build 1)
 
-- Generated at: 20260520_1400
+- Generated at: 20260528_1516
 - Previous version baseline: v1.0.7-build1
 
 ## 1) App Store Metadata (English)
@@ -98,6 +98,8 @@ CanResidency用于帮助加拿大永久居民记录旅行与居住天数，按�
 
 ## 3) Version Delta (vs previous)
 
+- a533fb8a fix(bug): preserve residency data during sync restore
+- 5c55f493 fix(bug): preserve temporary residence during cloud restore
 - 9ddf5458 fix(bug): preserve temporary residence records
 - 685fbac4 fix(bug): restore iCloud capabilities in release entitlements
 - 9fc4bef4 release: v1.0.7 build 4

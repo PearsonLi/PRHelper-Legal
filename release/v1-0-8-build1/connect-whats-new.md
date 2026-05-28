@@ -5,7 +5,7 @@ permalink: /release/v1-0-8-build1/connect-whats-new/
 
 # Connect What's New - v1.0.8 (build 1)
 
-- Previous commercial baseline: v1.0.7 production (local release tag baseline v1.0.7-build1)
+- Previous commercial baseline: v1.0.7-build1
 
 ## EN
 

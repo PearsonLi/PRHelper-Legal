@@ -9,12 +9,20 @@ hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: Understand how the rolling 5-year PR residency obligation is evaluated and how to self-check early.
 nav_key: features
 seo_title: PR Card 730-Day Rule Explained | CanResidency
-seo_description: Understand how the rolling 5-year PR residency obligation is evaluated and how to self-check early.
-seo_keywords: Canada PR, PR card, citizenship planning, residency days, trip planning
+seo_description: Understand Canada's 730-day PR residency obligation, the rolling five-year window, travel-day records, and how to check a future trip before booking.
+seo_keywords: Canada PR 730 days, PR residency obligation calculator, rolling five year window, PR card renewal travel history, Canada residency tracker
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-730-rule/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-730-rule/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-730-rule/
 schema_type: article
+last_updated: 2026-07-28
+faq_items:
+  - q: How many days must a Canadian permanent resident be in Canada?
+    a: In general, a permanent resident must be in Canada for at least 730 days during the last five years. Some time outside Canada may count in specific situations.
+  - q: Do the 730 days need to be continuous?
+    a: No. The days do not need to be continuous, but the applicable five-year period and any qualifying time outside Canada must be evaluated correctly.
+  - q: Is CanResidency affiliated with IRCC?
+    a: No. CanResidency is an independent planning and record-keeping app and does not provide legal advice.
 breadcrumb_items:
   - name: Home
     url: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -24,20 +32,28 @@ breadcrumb_items:
     url: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-730-rule/
 ---
 
-<h2>Quick Take</h2>
-<p>Understand how the rolling 5-year PR residency obligation is evaluated and how to self-check early.</p>
+<h2>Quick answer</h2>
+<p>To keep permanent resident status, you generally need at least 730 days in Canada during the relevant five-year period. The days do not need to be continuous, and some days outside Canada may count in specific circumstances. Use the official IRCC guidance for the legal rule and use your own complete travel records to check your situation.</p>
 
-<h2>Question 1: How does the rolling window work?</h2>
-<p>Each evaluation day uses a rolling 5-year window and recalculates in-Canada counted days.</p>
+<h2>Why the five-year window causes mistakes</h2>
+<p>The answer is not determined by the expiry date printed on a PR card. The relevant period depends on how long you have held PR status and the date on which compliance is assessed. After the first five years, the calculation looks back over the immediately preceding five-year period. This is why a static spreadsheet total can become misleading as time passes.</p>
 
-<h2>Question 2: Are departure/return days counted as absence?</h2>
-<p>Usually only full days between departure and return are counted as outside days; same-day return is usually zero.</p>
+<h2>Build a travel record you can audit</h2>
+<ol>
+  <li>Record the date you became a permanent resident.</li>
+  <li>Record every departure from and return to Canada.</li>
+  <li>Keep supporting records such as passports, tickets, itineraries, and border-history documents.</li>
+  <li>Document any time outside Canada that you believe may qualify under an exception.</li>
+  <li>Recalculate using the date you plan to travel, renew a PR card, or otherwise need to demonstrate compliance.</li>
+</ol>
 
-<h2>Question 3: How can the app reduce risk?</h2>
-<p>Add planned trips first, then use row-level risk signals to adjust plans before booking.</p>
+<h2>Check a future trip before booking</h2>
+<p>A useful tracker should answer more than “How many days do I have today?” CanResidency lets you add a planned absence and compare the resulting timeline before you commit to travel. This is a planning signal, not a legal determination.</p>
 
 <div class="callout">
-  <strong>Mapped to app features:</strong> Use CanResidency travel records and evaluation-day controls to see this guidance reflected in your own numbers.
+  <strong>Independent tool:</strong> CanResidency is not affiliated with IRCC or the Government of Canada. It does not replace the official calculation or professional legal advice.
 </div>
 
-<p><a href="/PRHelper-Legal/en/pricing/">View plans</a> · <a href="/PRHelper-Legal/en/faq/">Read FAQ</a></p>
+<p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC: Understand permanent resident status</a>.</p>
+
+<p><a href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Download CanResidency free</strong></a> · <a href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">PR-card renewal checklist</a> · <a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Future-trip planning</a></p>

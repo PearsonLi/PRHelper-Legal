@@ -4,11 +4,59 @@
   var zhPreferred = (navigator.language || '').toLowerCase().indexOf('zh') === 0;
   var saved = localStorage.getItem(KEY);
   var lang = saved === 'zh' || saved === 'en' ? saved : (zhPreferred ? 'zh' : 'en');
+  var ATTRIBUTION_KEY = 'cr_session_attribution';
+  var FIRST_TOUCH_KEY = 'cr_first_touch_attribution';
+
+  function safeStorage(storage, operation, key, value) {
+    try {
+      if (operation === 'get') return storage.getItem(key);
+      storage.setItem(key, value);
+    } catch (e) {}
+    return null;
+  }
+
+  function referrerHost() {
+    if (!document.referrer) return '(direct)';
+    try {
+      return new URL(document.referrer).hostname || '(direct)';
+    } catch (e) {
+      return '(unknown)';
+    }
+  }
+
+  function readAttribution() {
+    var existing = safeStorage(sessionStorage, 'get', ATTRIBUTION_KEY);
+    if (existing) {
+      try { return JSON.parse(existing); } catch (e) {}
+    }
+
+    var query = new URLSearchParams(window.location.search);
+    var source = query.get('utm_source') || referrerHost();
+    var medium = query.get('utm_medium') || (source === '(direct)' ? '(none)' : 'referral');
+    var attribution = {
+      traffic_source: source,
+      traffic_medium: medium,
+      traffic_campaign: query.get('utm_campaign') || '(not set)',
+      traffic_content: query.get('utm_content') || '(not set)',
+      traffic_term: query.get('utm_term') || '(not set)',
+      referrer_host: referrerHost(),
+      landing_path: window.location.pathname,
+      page_language: document.documentElement.lang || lang
+    };
+    safeStorage(sessionStorage, 'set', ATTRIBUTION_KEY, JSON.stringify(attribution));
+    if (!safeStorage(localStorage, 'get', FIRST_TOUCH_KEY)) {
+      safeStorage(localStorage, 'set', FIRST_TOUCH_KEY, JSON.stringify(attribution));
+    }
+    return attribution;
+  }
+
+  var attribution = readAttribution();
 
   function track(eventName, params) {
     try {
       if (typeof window.gtag === 'function') {
-        window.gtag('event', eventName, params || {});
+        var payload = Object.assign({}, attribution, params || {});
+        window.gtag('event', eventName, payload);
       }
     } catch (e) {}
   }
@@ -124,6 +172,14 @@
 
   applyLang(lang);
 
+  if (!safeStorage(sessionStorage, 'get', 'cr_session_start_sent')) {
+    track('site_session_start', {
+      page_path: window.location.pathname,
+      page_title: document.title
+    });
+    safeStorage(sessionStorage, 'set', 'cr_session_start_sent', '1');
+  }
+
   document.addEventListener('click', function (event) {
     var target = event.target;
     if (!target) return;
@@ -148,20 +204,56 @@
 
     var link = target.closest('a');
     if (!link) return;
+    var linkText = (link.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 100);
+    var allLinks = Array.prototype.slice.call(document.querySelectorAll('a'));
+    var linkPosition = allLinks.indexOf(link) + 1;
+    var linkUrl = link.href || link.getAttribute('href') || '';
 
     if (link.classList.contains('btn')) {
-      track('cta_click', { cta_text: (link.textContent || '').trim() });
-    }
-
-    if (link.classList.contains('guide-card')) {
-      track('guide_open', {
-        guide_url: link.getAttribute('href') || '',
+      track('cta_click', {
+        cta_text: linkText,
+        link_url: linkUrl,
+        link_position: linkPosition,
         source_path: window.location.pathname
       });
     }
 
-    if (link.classList.contains('app-store-badge-link') || link.classList.contains('app-store-qr-link') || (link.href && link.href.indexOf('apps.apple.com') !== -1)) {
-      track('app_store_click', { source_path: window.location.pathname });
+    if (link.classList.contains('guide-card')) {
+      track('guide_open', {
+        guide_url: linkUrl,
+        guide_title: linkText,
+        link_position: linkPosition,
+        source_path: window.location.pathname
+      });
+    }
+
+    var isAppStore = link.classList.contains('app-store-badge-link') ||
+      link.classList.contains('app-store-qr-link') ||
+      (linkUrl && linkUrl.indexOf('apps.apple.com') !== -1);
+
+    if (isAppStore) {
+      track('app_store_click', {
+        link_text: linkText,
+        link_url: linkUrl,
+        link_position: linkPosition,
+        source_path: window.location.pathname,
+        page_title: document.title
+      });
+      return;
+    }
+
+    if (linkUrl && /^https?:/i.test(linkUrl)) {
+      try {
+        if (new URL(linkUrl).hostname !== window.location.hostname) {
+          track('outbound_link_click', {
+            link_text: linkText,
+            link_url: linkUrl,
+            link_domain: new URL(linkUrl).hostname,
+            link_position: linkPosition,
+            source_path: window.location.pathname
+          });
+        }
+      } catch (e) {}
     }
   });
 

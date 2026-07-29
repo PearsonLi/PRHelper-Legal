@@ -4,7 +4,7 @@ permalink: /privacy/zh/
 layout: legal
 hero_title: 隐私政策（中文）
 hero_subtitle: CanResidency（枫叶卡管家）隐私政策中文版。
-last_updated: 2026-05-20
+last_updated: 2026-07-29
 nav_key: privacy
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
@@ -13,12 +13,12 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 
 # CanResidency（枫叶卡管家） 隐私政策
 
-最后更新：2026-05-20
+最后更新：2026-07-29
 
 本隐私政策说明“CanResidency（枫叶卡管家）”如何处理你的数据。
 
 1. 适用范围  
-   本政策适用于 CanResidency（枫叶卡管家）移动应用。
+   本政策适用于 CanResidency（枫叶卡管家）移动应用及本网站。
 
 2. 我们处理的数据  
    数据可能包括你录入或授权的数据，例如旅行日期、目的地国家、出行目的、备注、永居相关设置、临时居留记录。
@@ -47,9 +47,12 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 10. 保留与删除  
    你可在应用内修改或删除记录。卸载应用会删除设备本地数据；iCloud 备份/同步数据由你的 Apple 账号设置管理。
 
-11. 儿童隐私  
+11. 网站分析
+   本网站使用 Google Analytics 4 了解匿名或假名化的使用情况，例如页面浏览、近似访问来源、推广参数、设备或浏览器类别、国家或地区、指南互动，以及前往 App Store 或其他外部网站的点击。我们不会有意把姓名、邮箱、旅行记录或其他可直接识别个人身份的信息发送给 Google Analytics。Google 可能使用 Cookie 或类似标识符提供该服务。你可以通过浏览器设置限制 Cookie，或使用 Google 的 Analytics 退出工具。Google 如何处理使用其服务的网站所产生的数据，请参阅 <https://policies.google.com/technologies/partner-sites>。
+
+12. 儿童隐私
    本应用不面向 13 岁以下儿童。
 
-12. 政策更新与联系  
+13. 政策更新与联系
    我们可能不时更新本政策。  
    联系方式：pearson@rhotechnologies.ca

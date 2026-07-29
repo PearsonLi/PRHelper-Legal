@@ -4,7 +4,7 @@ permalink: /privacy/en/
 layout: legal
 hero_title: Privacy Policy (English)
 hero_subtitle: English privacy policy for CanResidency.
-last_updated: 2026-05-20
+last_updated: 2026-07-29
 nav_key: privacy
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/privacy/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
@@ -13,12 +13,12 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/privacy/zh/
 
 # CanResidency Privacy Policy
 
-Last Updated: 2026-05-20
+Last Updated: 2026-07-29
 
 This Privacy Policy explains how CanResidency handles your data.
 
 1. Scope  
-   This policy applies to the mobile app CanResidency.
+   This policy applies to the CanResidency mobile app and this website.
 
 2. Data we process  
    Data may include records you provide or authorize, such as travel dates, destination country, purpose, notes, PR settings, and temporary residence records.
@@ -47,9 +47,12 @@ This Privacy Policy explains how CanResidency handles your data.
 10. Retention and deletion  
    You can modify or delete records in-app. Uninstalling the app removes local app data from the device. iCloud backup/sync data is managed through your Apple account settings.
 
-11. Children  
+11. Website analytics
+   This website uses Google Analytics 4 to understand anonymous or pseudonymous usage such as page views, approximate acquisition source, campaign parameters, device/browser category, country or region, guide interactions, and clicks to the App Store or other external sites. We do not intentionally send names, email addresses, travel records, or other directly identifying information to Google Analytics. Google may use cookies or similar identifiers to provide this service. You can limit cookies through your browser settings or use Google's Analytics opt-out tools. Learn how Google processes data from sites that use its services at <https://policies.google.com/technologies/partner-sites>.
+
+12. Children
    The app is not directed to children under 13.
 
-12. Policy updates and contact  
+13. Policy updates and contact
    We may update this policy from time to time.  
    Contact: pearson@rhotechnologies.ca

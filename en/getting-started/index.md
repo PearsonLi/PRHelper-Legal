@@ -31,6 +31,16 @@ last_updated: 2026-07-29
 <h2>Your free-version success test</h2>
 <p>The workflow succeeds if you can answer three questions: Which dates are verified? Which trips remain uncertain? What should you maintain after the next return to Canada? Upgrade only when you need more than 10 records, advanced planning, exports or family-member management.</p>
 
+<h2>Day 1, Day 7, and the next return</h2>
+<div class="card-grid">
+  <section class="plan-card"><span class="plan-badge">Day 1</span><h3>Finish one trusted record</h3><p>Verify one exit and return from a real source. Stop before uncertain dates become guesses.</p></section>
+  <section class="plan-card"><span class="plan-badge">Day 7</span><h3>Resolve one uncertainty</h3><p>Return to the timeline with one additional source—an email, passport stamp, calendar entry, or available border record.</p></section>
+  <section class="plan-card"><span class="plan-badge">Next return</span><h3>Create the lasting habit</h3><p>Record the trip when you return to Canada, while the date and evidence are still easy to retrieve.</p></section>
+</div>
+
+<h2>Do not upgrade until a real limitation appears</h2>
+<p>Continue free while the 10-record workflow is enough. When a real task is blocked, name it before opening the purchase screen: more trip capacity, advanced planning, an export, or separate family-member records. That answer determines whether you need Monthly, Pro, Family—or no upgrade yet.</p>
+
 <div class="conversion-strip"><div><h2>Make the first record real</h2><p>Use a trip you can verify today. A trustworthy small timeline is more valuable than a complete-looking guess.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start free on the App Store</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/upgrade-guide/">When should I upgrade?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a></p>

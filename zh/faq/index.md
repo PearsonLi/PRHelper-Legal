@@ -34,3 +34,5 @@ faq_items:
 <details class="faq-item" data-faq-id="privacy-local-first"><summary>我的数据存储在哪里？</summary><p>默认在本机；可选 iCloud 同步。导出由用户主动触发。</p></details>
 
 <div class="conversion-strip"><div><h2>先用一段真实行程验证</h2><p>免费开始，录入最近一次离境和返回，用自己的原始记录核对时间线，再决定是否需要 Pro 或 Family 功能。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费体验 CanResidency</a><small>免费版最多 10 条旅行记录 · 最终价格以 App 内显示为准</small></div></div>
+
+<p><a href="/PRHelper-Legal/zh/getting-started/">首次使用清单</a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">升级选择指南</a></p>

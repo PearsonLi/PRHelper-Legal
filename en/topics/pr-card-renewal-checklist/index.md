@@ -9,8 +9,8 @@ hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: A practical checklist to prepare PR card renewal materials and avoid preventable delays.
 nav_key: topics
 seo_title: PR Card Renewal Checklist | CanResidency
-seo_description: A practical checklist to prepare PR card renewal materials and avoid preventable delays.
-seo_keywords: Canada PR, PR card, citizenship planning, residency days, trip planning
+seo_description: "PR card renewal travel-history checklist: reconcile exits, returns, passports, addresses and work records before completing the application."
+seo_keywords: PR card renewal travel history, Canada PR renewal checklist, PR card travel dates, residency obligation records
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
@@ -58,10 +58,13 @@ breadcrumb_items:
   <li>Use the current IRCC guide for the final document list and eligibility check.</li>
 </ul>
 
+<h2>PR card renewal travel-history checklist</h2>
+<p>For every trip, record the departure date, return date, destination and the source you used to verify it. Then compare the sequence with every passport used during the period, booking emails, calendar entries and any available border records. A blank or uncertain date should stay flagged until it is supported—it should not be replaced with a convenient guess.</p>
+
 <div class="callout"><strong>Important distinction:</strong> An expired PR card does not automatically mean PR status has ended, and a valid card does not by itself prove residency-obligation compliance. Use current official guidance for your situation.</div>
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply.html" target="_blank" rel="noopener noreferrer">IRCC: Apply for, renew or replace a PR card</a>.</p>
 
-<div class="conversion-strip"><div><h2>Maintain the record before renewal week</h2><p>CanResidency keeps trips, evaluation dates, family-member records, and exportable timelines together so the preparation begins with something reviewable.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Download CanResidency</a><small>Independent planning tool · Not legal advice</small></div></div>
+<div class="conversion-strip"><div><h2>Test the checklist with one real trip</h2><p>Enter one departure and return, attach the date source in your own notes, and check whether the timeline is easier to review than a five-year spreadsheet.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start a free travel record</a><small>Free version supports up to 10 trip records · Independent planning tool</small></div></div>
 
-<p><a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>
+<p><a href="/PRHelper-Legal/en/getting-started/">Use the 10-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

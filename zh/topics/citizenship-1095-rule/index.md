@@ -15,6 +15,14 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1095-rule/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-1095-rule/
 schema_type: article
+last_updated: 2026-07-29
+faq_items:
+  - q: 加拿大入籍通常需要多少天实际居住？
+    a: 成年申请人通常需要在签署申请前五年内累计至少 1,095 天实际居住；IRCC 建议不要卡在最低天数提交。
+  - q: 成为永久居民之前在加拿大的时间可以计算吗？
+    a: 部分符合条件的临时居民或受保护人士时间可按半天计算，最高折算 365 天，应使用 IRCC 官方计算器核验。
+  - q: 旅行记录应该怎样核对？
+    a: 维护逐次离境与返回清单，并与护照、订票邮件、日历和可获得的官方记录交叉核对。
 breadcrumb_items:
   - name: 首页
     url: https://pearsonli.github.io/PRHelper-Legal/zh/
@@ -25,19 +33,19 @@ breadcrumb_items:
 ---
 
 <h2>先看结论</h2>
-<p>入籍居住天数如何统计？1095天规则常见误区与评估建议。</p>
+<p>成年申请人通常需要在签署申请前五年内累计至少 1,095 天实际居住。IRCC 建议保留高于最低要求的余量，因为申请人的计算可能与官方评估存在差异。</p>
 
 <h2>常见问题 1：为什么和PR天数不同？</h2>
 <p>PR 与入籍窗口边界不同，所以同一天可能出现差异。</p>
 
-<h2>常见问题 2：评估日有什么意义？</h2>
-<p>评估日相当于你计划提交申请的日期，系统会按该日给出结果。</p>
+<h2>成为 PR 之前的时间怎样折算？</h2>
+<p>相关五年窗口内，部分符合条件的临时居民或受保护人士时间可按半天计算，最高折算 365 天。应保留每段时间的日期和身份依据，并用 IRCC 官方计算器核验。</p>
 
-<h2>常见问题 3：常见误区是什么？</h2>
-<p>把PR口径直接套到入籍口径，或忽略窗口滚动带来的变化。</p>
+<h2>旅行记录怎样支持 1095 天核对？</h2>
+<p>维护按时间排列的离境和返回清单，包括短途及同日过境；提交前与护照、订票邮件、日历和可获得的官方记录交叉核对。持续维护的清单是原始记录，IRCC 计算器是最终申请核验工具。</p>
 
-<div class="callout">
-  <strong>与 App 功能对应：</strong>在 CanResidency 中录入旅行记录与评估日后，可直接看到该主题对应的风险与进度结果。
-</div>
+<div class="callout"><strong>独立工具：</strong>CanResidency 与 IRCC 或加拿大政府没有关联，不提供法律意见；最终申请应使用官方计算器和最新指引。</div>
 
-<p><a href="/PRHelper-Legal/zh/pricing/">查看方案</a> · <a href="/PRHelper-Legal/zh/faq/">查看常见问题</a></p>
+<div class="conversion-strip"><div><h2>在计划申请日前建立原始记录</h2><p>先录入一段近期旅行并设置计划日期，查看入籍时间线；正式提交前再用 IRCC 官方计算器核验。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录入籍天数</a><small>免费版最多 10 条旅行记录 · 不是官方计算器</small></div></div>
+
+<p><a href="/PRHelper-Legal/zh/getting-started/">10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/pre-pr-credit/">临时居留折算</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>

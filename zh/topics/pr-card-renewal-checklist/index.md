@@ -9,8 +9,8 @@ hero_subtitle_zh: 续卡前建议准备的关键资料与自查步骤，降低�
 hero_subtitle_en: Practical guide for Canadian PR and citizenship planning.
 nav_key: topics
 seo_title: 永居卡续卡准备清单 | 枫叶卡管家
-seo_description: 续卡前建议准备的关键资料与自查步骤，降低补件概率。
-seo_keywords: 加拿大移民,永居,枫叶卡,入籍,居留天数,旅行规划
+seo_description: "枫叶卡续卡旅行记录清单：逐项核对离境、返回、护照、地址与工作记录，避免临近提交才发现日期冲突。"
+seo_keywords: 枫叶卡续卡旅行记录,加拿大PR续卡清单,出入境日期,居住义务记录
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
@@ -58,10 +58,13 @@ breadcrumb_items:
   <li>最终资料清单与资格核验以最新 IRCC 指南为准。</li>
 </ul>
 
+<h2>枫叶卡续卡旅行记录清单</h2>
+<p>每段旅行至少保留离境日、返回日、目的地和日期来源，再与期间使用过的新旧护照、订票邮件、日历及可获得的边境记录逐项核对。没有证据支持的日期应继续标记为“不确定”，不要为了填满表格而猜一个方便的日期。</p>
+
 <div class="callout"><strong>重要区别：</strong>枫叶卡过期不等于 PR 身份自动结束；卡片仍有效，也不等于自动证明符合居住义务。具体情况应以最新官方指引为准。</div>
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply.html" target="_blank" rel="noopener noreferrer">IRCC：申请、续期或更换枫叶卡</a>。</p>
 
-<div class="conversion-strip"><div><h2>不要等到续卡那一周才开始整理</h2><p>CanResidency 把旅行、评估日期、家庭成员记录和可导出时间线放在一起，让准备工作从一份可核对的记录开始。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">下载 CanResidency</a><small>独立规划工具 · 不构成法律意见</small></div></div>
+<div class="conversion-strip"><div><h2>先用一段真实行程验证方法</h2><p>录入一次离境和返回，并在自己的备注中保留日期来源，看看是否比临时重建五年表格更容易复核。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始旅行记录</a><small>免费版最多支持 10 条旅行记录 · 独立规划工具</small></div></div>
 
-<p><a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>
+<p><a href="/PRHelper-Legal/zh/getting-started/">使用 10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>

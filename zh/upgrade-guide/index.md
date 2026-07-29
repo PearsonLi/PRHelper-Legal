@@ -1,0 +1,33 @@
+---
+title: CanResidency 升级选择指南
+permalink: /zh/upgrade-guide/
+layout: site
+lang: zh-CN
+hero_title_zh: 按实际任务选择升级方案
+hero_title_en: Upgrade Guide
+hero_subtitle_zh: 用简单问题判断 Monthly、Pro 买断与 Family 买断。
+hero_subtitle_en: Choose a plan based on the job you need.
+nav_key: pricing
+seo_title: Monthly、Pro、Family 怎么选 | CanResidency 升级指南
+seo_description: 根据旅行记录数量、规划需求和家庭成员情况选择 CanResidency Monthly、Pro 买断或 Family 买断。
+seo_keywords: CanResidency升级,CanResidency Pro,家庭版,枫叶卡管家价格
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/upgrade-guide/
+alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/upgrade-guide/
+alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/upgrade-guide/
+last_updated: 2026-07-29
+---
+
+<h2>基础记录已经够用，就继续使用免费版</h2>
+<p>如果最多 10 条旅行记录已经能让你验证流程，而且暂时不需要进阶规划、导出或多名家庭成员，就不必急着升级。</p>
+
+<h2>按任务选择，不按功能数量选择</h2>
+<ul>
+  <li><strong>Monthly：</strong>适合续卡、准备入籍或旅行频繁阶段，灵活使用 Pro + Family。</li>
+  <li><strong>Pro 买断：</strong>适合长期维护个人旅行历史，需要规划信号和导出。</li>
+  <li><strong>Family 买断：</strong>适合永久使用 Pro，并分别管理旅行和资格日期不同的家庭成员。</li>
+</ul>
+
+<h2>付费前先回答三个问题</h2>
+<ol><li>是否已录入足够真实行程来信任这个流程？</li><li>当前限制是否正在阻碍你需要完成的任务？</li><li>需要个人记录还是多成员记录？</li></ol>
+
+<div class="conversion-strip"><div><h2>先用真实数据验证</h2><p>免费开始，然后选择刚好能够解除实际限制的最小方案。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内查看方案</a><small>最终价格与资格以 Apple 显示为准</small></div></div>

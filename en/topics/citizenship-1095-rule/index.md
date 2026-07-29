@@ -50,6 +50,9 @@ breadcrumb_items:
   <li>Assuming all pre-PR time receives full-day credit.</li>
 </ul>
 
+<h2>What records support a physical-presence timeline?</h2>
+<p>Keep one chronological list of exits and returns, including short trips and same-day border movements. Reconcile it with passports, booking confirmations, calendars and available official records before entering the dates in IRCC’s calculator. The maintained list is the source record; the official calculator is the filing check.</p>
+
 <h2>Use one travel history for ongoing planning</h2>
 <p>CanResidency stores trip records, tracks citizenship progress, supports eligible temporary-residence credit, and lets you change the evaluation date. Use it for ongoing planning, then verify the final result with the official IRCC physical-presence calculator before applying.</p>
 
@@ -59,4 +62,6 @@ breadcrumb_items:
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html" target="_blank" rel="noopener noreferrer">IRCC: Physical presence for citizenship</a>.</p>
 
-<p><a href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Download CanResidency free</strong></a> · <a href="/PRHelper-Legal/en/topics/pre-pr-credit/">Pre-PR credit guide</a> · <a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Future-trip planning</a></p>
+<div class="conversion-strip"><div><h2>Build the source record before the application date</h2><p>Add a recent trip, set a planning date and review the citizenship timeline. Verify the final calculation with IRCC before filing.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Track citizenship days free</a><small>Up to 10 trip records in the free version · Not an official calculator</small></div></div>
+
+<p><a href="/PRHelper-Legal/en/getting-started/">10-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/pre-pr-credit/">Pre-PR credit guide</a> · <a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Future-trip planning</a></p>

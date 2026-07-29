@@ -51,4 +51,6 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
 <details class="faq-item" data-faq-id="pricing-monthly-or-lifetime"><summary>月订阅和买断应该怎么选？</summary><p>短期灵活使用 Pro + Family 可选 Monthly；长期个人使用可选 Pro 买断；需要永久管理多名家庭成员可选 Family 买断。</p></details>
 <details class="faq-item" data-faq-id="pricing-privacy"><summary>旅行记录会上传到开发者服务器吗？</summary><p>不会。数据默认本地保存，可选择使用你 Apple 账户下的 iCloud 同步。</p></details>
 
+<p><a href="/PRHelper-Legal/zh/getting-started/">使用免费 10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">按任务比较 Monthly、Pro 与 Family</a></p>
+
 <div class="callout"><strong>说明：</strong>最终价格、是否可试用、订阅状态与到期时间均以 App 内 Apple 与 RevenueCat 返回结果为准。</div>

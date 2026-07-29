@@ -51,4 +51,6 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
 <details class="faq-item" data-faq-id="pricing-monthly-or-lifetime"><summary>Should I choose Monthly or a lifetime plan?</summary><p>Choose Monthly for flexible short-term access to Pro + Family. Choose Pro Lifetime for permanent individual access, or Family Lifetime when you need permanent multi-member management.</p></details>
 <details class="faq-item" data-faq-id="pricing-privacy"><summary>Do I have to send my travel history to a developer server?</summary><p>No. Data is local-first, with optional iCloud sync under your Apple account.</p></details>
 
+<p><a href="/PRHelper-Legal/en/getting-started/">Start with the free 10-trip workflow</a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare Monthly, Pro, and Family by task</a></p>
+
 <div class="callout"><strong>Note:</strong> final price, trial eligibility, active status, and expiry are determined by Apple and RevenueCat responses shown in the app.</div>

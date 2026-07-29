@@ -9,6 +9,9 @@ layout: null
   {% if p.url == '/404.html' %}
     {% assign skip_page = true %}
   {% endif %}
+  {% if p.url and p.url contains '/assets/' %}
+    {% assign skip_page = true %}
+  {% endif %}
   {% if p.url and p.url contains '/v' %}
     {% if p.url contains '/terms/' %}
       {% assign skip_page = true %}

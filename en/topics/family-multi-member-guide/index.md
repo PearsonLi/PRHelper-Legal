@@ -7,7 +7,7 @@ hero_title_zh: 专题
 hero_title_en: Family Multi-Member Guide
 hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: Manage household progress in one app with per-member settings and report exports.
-nav_key: features
+nav_key: topics
 seo_title: Family Multi-Member Guide | CanResidency
 seo_description: Manage household progress in one app with per-member settings and report exports.
 seo_keywords: Canada PR, PR card, citizenship planning, residency days, trip planning

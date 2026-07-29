@@ -7,20 +7,27 @@ hero_title_zh: 规划专题
 hero_title_en: Topic Hub
 hero_subtitle_zh: 围绕永居续卡、入籍申请与家庭管理的实践指南。
 hero_subtitle_en: Practical guides for PR renewal, citizenship, and family workflows.
-nav_key: features
+nav_key: topics
 seo_title: 枫叶卡管家专题合集 | 永居与入籍规划指南
 seo_description: 提供730天规则、1095天规则、临时居留折算、旅行规划和家庭管理专题。
 seo_keywords: 枫叶卡指南,730天规则,入籍1095,旅行规划,家庭版
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/
+last_updated: 2026-07-29
 ---
 
-<ul>
-  <li><a href="/PRHelper-Legal/zh/topics/pr-730-rule/">枫叶卡 730 天规则详解</a></li>
-  <li><a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">永居卡续卡准备清单</a></li>
-  <li><a href="/PRHelper-Legal/zh/topics/citizenship-1095-rule/">入籍 1095 天规则与误区</a></li>
-  <li><a href="/PRHelper-Legal/zh/topics/pre-pr-credit/">临时居留折算边界说明</a></li>
-  <li><a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">旅行计划如何影响永居与入籍</a></li>
-  <li><a href="/PRHelper-Legal/zh/topics/family-multi-member-guide/">家庭多成员管理指南</a></li>
-</ul>
+<p>从你需要解决的记录问题开始。每篇指南只处理一个核心痛点，提供对应官方来源，并说明持续维护记录如何减少临近申请时的重建工作。</p>
+
+<div class="guide-grid">
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-730-rule/"><small>永居义务</small><h3>枫叶卡 730 天规则</h3><p>理解滚动五年窗口，以及为什么卡片到期日不是居住义务的计算起点。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/"><small>续卡</small><h3>枫叶卡续卡准备清单</h3><p>按顺序准备旅行、身份、地址、工作和支持性记录。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/missing-travel-dates/"><small>补齐记录</small><h3>恢复缺失旅行日期</h3><p>从证据中逐步恢复不确定日期，不把猜测混进时间线。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/frequent-border-trips/"><small>高频旅行</small><h3>频繁加美过境记录</h3><p>用批量录入和核验流程保持同日往返与高频旅行可审阅。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/citizenship-1095-rule/"><small>入籍</small><h3>入籍 1095 天规则</h3><p>分清入籍 physical presence 与 PR 居住义务，并为申请留出缓冲。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/pre-pr-credit/"><small>入籍</small><h3>临时居留折算</h3><p>理解半天折算、最高额度以及申请前必须核对的身份期间。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/travel-planning-impact/"><small>规划</small><h3>未来旅行影响</h3><p>订票前同时测试计划离境对 PR 与入籍时间线的影响。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/family-multi-member-guide/"><small>家庭</small><h3>家庭多成员记录</h3><p>让每位家庭成员的身份、旅行与计划日期彼此独立、可解释。</p><strong>阅读指南 →</strong></a>
+</div>
+
+<div class="conversion-strip"><div><h2>持续维护原始记录</h2><p>申请时必须使用官方计算器；CanResidency 的作用，是在那一刻到来前帮你把旅行时间线维护完整。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">下载 CanResidency</a><small>独立工具 · 与 IRCC 无关联 · 仅用于一般规划</small></div></div>

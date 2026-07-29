@@ -7,7 +7,7 @@ hero_title_zh: 入籍 1095 天规则与误区
 hero_title_en: Topic Guide
 hero_subtitle_zh: 入籍居住天数如何统计？1095天规则常见误区与评估建议。
 hero_subtitle_en: Practical guide for Canadian PR and citizenship planning.
-nav_key: features
+nav_key: topics
 seo_title: 入籍 1095 天规则与误区 | 枫叶卡管家
 seo_description: 入籍居住天数如何统计？1095天规则常见误区与评估建议。
 seo_keywords: 加拿大移民,永居,枫叶卡,入籍,居留天数,旅行规划

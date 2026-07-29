@@ -7,7 +7,7 @@ hero_title_zh: 专题
 hero_title_en: Pre-PR Credit Boundary Guide
 hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: Pre-PR credit applies to citizenship only and is constrained by eligibility windows.
-nav_key: features
+nav_key: topics
 seo_title: Pre-PR Credit Boundary Guide | CanResidency
 seo_description: Pre-PR credit applies to citizenship only and is constrained by eligibility windows.
 seo_keywords: Canada PR, PR card, citizenship planning, residency days, trip planning

@@ -20,7 +20,15 @@ seo_keywords: 加拿大移民,永居,枫叶卡,730天,入籍1095天,居留计算
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
+last_updated: 2026-07-29
 ---
+
+<section class="story-panel">
+  <p class="story-kicker">续卡前夜的常见场景</p>
+  <h2>五年旅行记录，偏偏少了一个周末。</h2>
+  <p>想象一下：晚上 11:42，Maya 把护照、旧日历和邮箱同时打开。枫叶卡续卡不再是一个遥远的日期——一次去 Buffalo 的周末找不到了，两张机票的日期又对不上。真正让人焦虑的并不是记住“730 天”，而是重新拼出这个数字背后的完整记录。</p>
+  <a class="btn" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">趁记录还清楚，现在开始</a>
+</section>
 
 <div class="kpi-grid">
   <div class="kpi-card">
@@ -35,6 +43,14 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
     <h3>家庭管理</h3>
     <p>最多 10 位成员独立管理，统一查看家庭进展与导出报告。</p>
   </div>
+</div>
+
+<h2>从你现在遇到的问题开始</h2>
+<div class="guide-grid">
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/"><small>续卡准备</small><h3>枫叶卡续卡已经临近</h3><p>把旅行、地址、工作和护照资料整理成一条可核对的准备流程。</p><strong>打开续卡指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/missing-travel-dates/"><small>补齐记录</small><h3>有些出入境日期找不到了</h3><p>用护照、订票邮件、日历、照片和边境记录逐个关闭缺口，而不是悄悄猜日期。</p><strong>恢复缺失日期 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/frequent-border-trips/"><small>高频旅行</small><h3>加美往返越来越多</h3><p>为同日往返和高频过境建立固定流程，避免时间线最终无法核对。</p><strong>整理频繁过境记录 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/citizenship-1095-rule/"><small>入籍规划</small><h3>1095 天申请日期一直在变</h3><p>看清 physical presence、临时居留折算和为什么申请前需要留出缓冲。</p><strong>查看入籍规划 →</strong></a>
 </div>
 
 <div class="feature-grid">
@@ -56,8 +72,7 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
   <img src="/PRHelper-Legal/assets/value-overview.png" alt="枫叶卡管家总览页面" />
 </figure>
 
-<p><strong>下一步：</strong>
-<a href="/PRHelper-Legal/zh/features/">核心功能</a> ·
-<a href="/PRHelper-Legal/zh/pricing/">购买方案</a> ·
-<a href="/PRHelper-Legal/zh/topics/pr-730-rule/">730 天规则详解</a>
-</p>
+<div class="conversion-strip">
+  <div><h2>保留完整时间线，不只是一个总数</h2><p>CanResidency 把旅行记录、滚动的 PR/入籍进度、计划行程影响和家庭成员资料放在一个本地优先的 App 中。</p></div>
+  <div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">前往 App Store 下载</a><small>独立规划工具，与 IRCC 无关联，不构成法律意见。</small></div>
+</div>

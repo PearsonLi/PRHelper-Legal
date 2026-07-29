@@ -7,7 +7,7 @@ hero_title_zh: 临时居留折算边界说明
 hero_title_en: Topic Guide
 hero_subtitle_zh: 临时居留折算仅用于入籍口径，且受窗口时间范围限制。
 hero_subtitle_en: Practical guide for Canadian PR and citizenship planning.
-nav_key: features
+nav_key: topics
 seo_title: 临时居留折算边界说明 | 枫叶卡管家
 seo_description: 临时居留折算仅用于入籍口径，且受窗口时间范围限制。
 seo_keywords: 加拿大移民,永居,枫叶卡,入籍,居留天数,旅行规划

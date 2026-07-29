@@ -7,7 +7,7 @@ hero_title_zh: 枫叶卡 730 天规则详解
 hero_title_en: Topic Guide
 hero_subtitle_zh: 枫叶卡 730 天规则：5年窗口内累计730天，如何理解、如何自查、如何规划旅行避免风险。
 hero_subtitle_en: Practical guide for Canadian PR and citizenship planning.
-nav_key: features
+nav_key: topics
 seo_title: 枫叶卡 730 天规则详解 | 枫叶卡管家
 seo_description: 枫叶卡 730 天规则：5年窗口内累计730天，如何理解、如何自查、如何规划旅行避免风险。
 seo_keywords: 加拿大移民,永居,枫叶卡,入籍,居留天数,旅行规划

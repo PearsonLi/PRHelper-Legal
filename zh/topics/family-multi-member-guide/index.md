@@ -7,7 +7,7 @@ hero_title_zh: 家庭多成员管理指南
 hero_title_en: Topic Guide
 hero_subtitle_zh: 一个App内管理全家进度：成员独立设置、统一查看、按成员导出。
 hero_subtitle_en: Practical guide for Canadian PR and citizenship planning.
-nav_key: features
+nav_key: topics
 seo_title: 家庭多成员管理指南 | 枫叶卡管家
 seo_description: 一个App内管理全家进度：成员独立设置、统一查看、按成员导出。
 seo_keywords: 加拿大移民,永居,枫叶卡,入籍,居留天数,旅行规划

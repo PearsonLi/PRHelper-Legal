@@ -7,7 +7,7 @@ hero_title_zh: 专题
 hero_title_en: Citizenship 1095-Day Rule and Common Pitfalls
 hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: How citizenship physical presence is counted and where users often make planning mistakes.
-nav_key: features
+nav_key: topics
 seo_title: Citizenship 1095-Day Rule and Common Pitfalls | CanResidency
 seo_description: Learn Canada's 1,095-day citizenship physical-presence requirement, eligible pre-PR credit, travel-history planning, and common counting mistakes.
 seo_keywords: Canadian citizenship 1095 days, physical presence calculator, citizenship travel history, pre PR credit, Canada citizenship tracker

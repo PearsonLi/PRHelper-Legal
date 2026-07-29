@@ -20,7 +20,15 @@ seo_keywords: Canada PR, PR card renewal, 730 days, citizenship 1095 days, resid
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
+last_updated: 2026-07-29
 ---
+
+<section class="story-panel">
+  <p class="story-kicker">A familiar renewal-night problem</p>
+  <h2>Five years of travel. One missing weekend.</h2>
+  <p>Picture Maya at 11:42 p.m., passport open beside an old calendar. Her PR-card renewal is no longer abstract: a Buffalo weekend is missing, two flights have conflicting dates, and memory is doing work it was never built to do. The difficult part was not remembering “730 days.” It was rebuilding the record behind the number.</p>
+  <a class="btn" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the record before it becomes urgent</a>
+</section>
 
 <div class="kpi-grid">
   <div class="kpi-card">
@@ -35,6 +43,14 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
     <h3>Family Management</h3>
     <p>Manage up to 10 members with independent settings and export-ready reports.</p>
   </div>
+</div>
+
+<h2>Start with the problem you have today</h2>
+<div class="guide-grid">
+  <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/"><small>Renewal preparation</small><h3>PR-card renewal is approaching</h3><p>Turn scattered travel, address, work, and passport records into one reviewable preparation flow.</p><strong>Open the renewal guide →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/en/topics/missing-travel-dates/"><small>Record recovery</small><h3>Some travel dates are missing</h3><p>Rebuild gaps from passports, bookings, calendars, photos, and border records without quietly guessing.</p><strong>Recover missing dates →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/en/topics/frequent-border-trips/"><small>Frequent travel</small><h3>Canada–US crossings keep piling up</h3><p>Use a repeatable workflow for same-day and high-volume travel before the timeline becomes unauditable.</p><strong>Organize frequent crossings →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/en/topics/citizenship-1095-rule/"><small>Citizenship planning</small><h3>The 1,095-day application date is moving</h3><p>Understand physical presence, eligible pre-PR credit, and why a buffer matters before applying.</p><strong>Review citizenship planning →</strong></a>
 </div>
 
 <div class="feature-grid">
@@ -56,8 +72,7 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
   <img src="/PRHelper-Legal/assets/value-overview.png" alt="CanResidency overview" />
 </figure>
 
-<p><strong>Next:</strong>
-<a href="/PRHelper-Legal/en/features/">Features</a> ·
-<a href="/PRHelper-Legal/en/pricing/">Pricing</a> ·
-<a href="/PRHelper-Legal/en/topics/pr-730-rule/">730-day rule guide</a>
-</p>
+<div class="conversion-strip">
+  <div><h2>Keep the timeline—not just the total</h2><p>CanResidency keeps trips, rolling PR and citizenship progress, planned-travel impact, and family records in one local-first app.</p></div>
+  <div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Download on the App Store</a><small>Independent planning tool. Not affiliated with IRCC and not legal advice.</small></div>
+</div>

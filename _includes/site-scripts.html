@@ -74,6 +74,14 @@
       '/PRHelper-Legal/topics/family-multi-member-guide/': {
         zh: '/PRHelper-Legal/zh/topics/family-multi-member-guide/',
         en: '/PRHelper-Legal/en/topics/family-multi-member-guide/'
+      },
+      '/PRHelper-Legal/topics/missing-travel-dates/': {
+        zh: '/PRHelper-Legal/zh/topics/missing-travel-dates/',
+        en: '/PRHelper-Legal/en/topics/missing-travel-dates/'
+      },
+      '/PRHelper-Legal/topics/frequent-border-trips/': {
+        zh: '/PRHelper-Legal/zh/topics/frequent-border-trips/',
+        en: '/PRHelper-Legal/en/topics/frequent-border-trips/'
       }
     };
     if (map[pathname] && map[pathname][targetLang]) {
@@ -143,6 +151,13 @@
 
     if (link.classList.contains('btn')) {
       track('cta_click', { cta_text: (link.textContent || '').trim() });
+    }
+
+    if (link.classList.contains('guide-card')) {
+      track('guide_open', {
+        guide_url: link.getAttribute('href') || '',
+        source_path: window.location.pathname
+      });
     }
 
     if (link.classList.contains('app-store-badge-link') || link.classList.contains('app-store-qr-link') || (link.href && link.href.indexOf('apps.apple.com') !== -1)) {

@@ -7,7 +7,7 @@ hero_title_zh: 专题
 hero_title_en: PR Card 730-Day Rule Explained
 hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: Understand how the rolling 5-year PR residency obligation is evaluated and how to self-check early.
-nav_key: features
+nav_key: topics
 seo_title: PR Card 730-Day Rule Explained | CanResidency
 seo_description: Understand Canada's 730-day PR residency obligation, the rolling five-year window, travel-day records, and how to check a future trip before booking.
 seo_keywords: Canada PR 730 days, PR residency obligation calculator, rolling five year window, PR card renewal travel history, Canada residency tracker

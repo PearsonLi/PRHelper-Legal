@@ -31,6 +31,16 @@ last_updated: 2026-07-29
 <h2>免费版是否解决问题，看这三点</h2>
 <p>你应该能回答：哪些日期已经确认？哪些旅行仍不确定？下次返回加拿大后应该记录什么？只有在需要超过 10 条记录、进阶规划、导出或家庭成员管理时再升级。</p>
 
+<h2>第 1 天、第 7 天和下次返回加拿大</h2>
+<div class="card-grid">
+  <section class="plan-card"><span class="plan-badge">第 1 天</span><h3>完成一条可信记录</h3><p>用真实来源确认一次离境和返回；遇到不确定日期先停下，不要把猜测写进时间线。</p></section>
+  <section class="plan-card"><span class="plan-badge">第 7 天</span><h3>解决一个不确定项</h3><p>带着一个新的来源回来核对，例如邮件、护照章、日历或可获得的边境记录。</p></section>
+  <section class="plan-card"><span class="plan-badge">下次返加</span><h3>建立持续习惯</h3><p>返回加拿大后立即记录行程，此时日期与证据最容易找回。</p></section>
+</div>
+
+<h2>真正出现限制之前，不必升级</h2>
+<p>10 条记录够用时继续使用免费版。实际任务受阻后，先说清楚原因：需要更多旅行容量、进阶规划、导出，还是分别管理家庭成员。这个答案决定应该选择 Monthly、Pro、Family，或者暂时不升级。</p>
+
 <div class="conversion-strip"><div><h2>让第一条记录真实可信</h2><p>选择今天就能核实的一段旅行。规模较小但可信的时间线，比看似完整的猜测更有价值。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App Store 免费开始</a><small>独立规划工具 · 最终申请决定使用官方工具</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/upgrade-guide/">什么时候需要升级？</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a></p>

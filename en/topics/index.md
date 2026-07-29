@@ -19,6 +19,13 @@ last_updated: 2026-07-29
 
 <p>Choose the record problem you need to solve. Each guide explains one issue, links to the relevant official source, and shows where ongoing record-keeping can reduce last-minute reconstruction.</p>
 
+<section class="story-panel">
+  <p class="story-kicker">New to the app?</p>
+  <h2>Start with one verified trip, not five reconstructed years.</h2>
+  <p>Use the free 10-trip workflow to test the record with dates you can confirm today. If the method fits, the upgrade guide explains Monthly, Pro, and Family by the task each plan solves.</p>
+  <p><a href="/PRHelper-Legal/en/getting-started/"><strong>Open the 10-trip starter workflow →</strong></a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare upgrade paths</a></p>
+</section>
+
 <div class="guide-grid">
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-730-rule/"><small>PR obligation</small><h3>PR 730-day rule</h3><p>Understand the rolling five-year window and why the card expiry date is not the calculation.</p><strong>Read guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/"><small>Renewal</small><h3>PR-card renewal checklist</h3><p>Prepare travel, identity, address, work, and supporting records in a controlled sequence.</p><strong>Read guide →</strong></a>

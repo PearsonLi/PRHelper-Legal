@@ -19,6 +19,13 @@ last_updated: 2026-07-29
 
 <p>从你需要解决的记录问题开始。每篇指南只处理一个核心痛点，提供对应官方来源，并说明持续维护记录如何减少临近申请时的重建工作。</p>
 
+<section class="story-panel">
+  <p class="story-kicker">第一次使用？</p>
+  <h2>从一段已核实的旅行开始，不要先重建五年。</h2>
+  <p>使用免费 10 条记录流程，以今天就能确认的日期验证方法。确认适合之后，再通过升级指南按 Monthly、Pro 和 Family 各自解决的任务做选择。</p>
+  <p><a href="/PRHelper-Legal/zh/getting-started/"><strong>打开 10 条记录起步流程 →</strong></a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">比较升级路径</a></p>
+</section>
+
 <div class="guide-grid">
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-730-rule/"><small>永居义务</small><h3>枫叶卡 730 天规则</h3><p>理解滚动五年窗口，以及为什么卡片到期日不是居住义务的计算起点。</p><strong>阅读指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/"><small>续卡</small><h3>枫叶卡续卡准备清单</h3><p>按顺序准备旅行、身份、地址、工作和支持性记录。</p><strong>阅读指南 →</strong></a>

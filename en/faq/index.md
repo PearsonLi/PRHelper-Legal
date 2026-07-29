@@ -32,3 +32,5 @@ faq_items:
 <details class="faq-item" data-faq-id="pricing-model"><summary>What is the difference between Monthly, Pro, and Family?</summary><p>Monthly unlocks Pro + Family while active. Pro lifetime unlocks Pro. Family lifetime includes Pro + multi-member support.</p></details>
 <details class="faq-item" data-faq-id="free-limit"><summary>What is limited in the free version?</summary><p>Free users can save up to 10 trip records before the paywall prompt appears.</p></details>
 <details class="faq-item" data-faq-id="privacy-local-first"><summary>Where is my data stored?</summary><p>Data is local-first by default with optional iCloud sync.</p></details>
+
+<div class="conversion-strip"><div><h2>Test the answer with one real trip</h2><p>Start free, add a recent exit and return, and compare the timeline with your own source records before deciding whether you need Pro or Family features.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Try CanResidency free</a><small>Up to 10 trip records in the free version · Final prices are shown in app</small></div></div>

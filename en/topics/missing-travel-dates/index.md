@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-trav
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 faq_items:
   - q: What should I do if I cannot remember an exact travel date?
     a: Mark the date as uncertain, compare independent records, and avoid replacing uncertainty with an unsupported guess.
@@ -61,4 +61,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>Keep recovered dates in one maintained timeline</h2><p>CanResidency helps you record trips as you verify them and review the rolling PR and citizenship picture without relying on memory next time.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Download CanResidency</a><small>Independent planning tool · Not an official record</small></div></div>
 
-<p><a href="/PRHelper-Legal/en/topics/frequent-border-trips/">Frequent border-trip workflow</a> · <a href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">PR-card renewal checklist</a></p>
+<p><a href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Build the ongoing travel journal</a> · <a href="/PRHelper-Legal/en/topics/frequent-border-trips/">Frequent border-trip workflow</a> · <a href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">PR-card renewal checklist</a></p>

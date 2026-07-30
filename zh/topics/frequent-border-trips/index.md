@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-bor
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-border-trips/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 faq_items:
   - q: 加美同日往返也需要保留记录吗？
     a: 应维护完整旅行历史，并根据当前申请指引确认每次旅行如何申报和计算。
@@ -51,4 +51,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>把每次过境变成持续维护的时间线</h2><p>CanResidency 把离境、返回、滚动进度和计划旅行影响放在一起，尤其适合行程数量已经超出记忆能力的情况。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">开始记录旅行</a><small>独立规划工具 · 不构成法律意见</small></div></div>
 
-<p><a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>
+<p><a href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">使用 IRCC 字段旅行日志清单</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>

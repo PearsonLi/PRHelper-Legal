@@ -67,4 +67,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>Test the checklist with one real trip</h2><p>Enter one departure and return, attach the date source in your own notes, and check whether the timeline is easier to review than a five-year spreadsheet.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start a free travel record</a><small>Free version supports up to 10 trip records · Independent planning tool</small></div></div>
 
-<p><a href="/PRHelper-Legal/en/getting-started/">Use the 10-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>
+<p><a href="/PRHelper-Legal/en/getting-started/">Use the 10-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/">Card already expired outside Canada?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-trav
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 faq_items:
   - q: 完全记不起准确日期怎么办？
     a: 先把日期标记为待核验，比较多份独立记录，不要用没有证据的猜测填补空白。
@@ -61,4 +61,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>把恢复后的日期放进持续维护的时间线</h2><p>CanResidency 帮助你边核验边记录旅行，并持续查看滚动的 PR 与入籍进度，避免下次再次依赖记忆重建。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">下载 CanResidency</a><small>独立规划工具 · 不能替代官方记录</small></div></div>
 
-<p><a href="/PRHelper-Legal/zh/topics/frequent-border-trips/">频繁过境记录方法</a> · <a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">枫叶卡续卡清单</a></p>
+<p><a href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">建立持续维护的旅行日志</a> · <a href="/PRHelper-Legal/zh/topics/frequent-border-trips/">频繁过境记录方法</a> · <a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">枫叶卡续卡清单</a></p>

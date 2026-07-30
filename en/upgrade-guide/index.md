@@ -33,5 +33,6 @@ last_updated: 2026-07-30
 <h2>Return to the plan only when the job changes</h2>
 <p>If you stopped after the free test, come back when one of four signals appears: the 11th trip, a renewal or citizenship date you need to model, an export you need to keep, or a second family member with a different timeline. Reopen the smallest plan that removes that specific block; do not pay simply because time passed.</p>
 <p><a data-funnel-stage="paid" data-funnel-action="reactivation_open_starter" data-funnel-experiment="reactivation_en_v1" href="/PRHelper-Legal/en/getting-started/">Recheck the free workflow first →</a></p>
+<p>If Apple confirmed nothing or restore did not finish, do not purchase again blindly. <a data-funnel-stage="paid" data-funnel-action="upgrade_open_purchase_recovery" data-funnel-experiment="purchase_recovery_en_v1" href="/PRHelper-Legal/en/support/">Open the purchase-recovery checklist →</a></p>
 
 <div class="conversion-strip"><div><h2>Evaluate with real data first</h2><p>Start free, then choose the smallest plan that removes a real limitation.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review plans in the app</a><small>Final prices and eligibility are shown by Apple</small></div></div>

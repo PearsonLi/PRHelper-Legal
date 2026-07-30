@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-bor
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-border-trips/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 faq_items:
   - q: Should I keep records of same-day Canada–US trips?
     a: Keep a complete travel history and follow the current application instructions for how each trip must be reported and calculated.
@@ -51,4 +51,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>Turn crossings into a maintained timeline</h2><p>CanResidency keeps exits, returns, rolling progress, and planned-trip impact together—especially useful when the trip count becomes too large for memory.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start tracking trips</a><small>Independent planning tool · Not legal advice</small></div></div>
 
-<p><a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>
+<p><a href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Use the IRCC-aligned journal checklist</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

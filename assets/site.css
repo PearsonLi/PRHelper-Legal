@@ -68,6 +68,27 @@ body {
   justify-content: flex-end;
 }
 
+.header-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+.header-download {
+  text-decoration: none;
+  color: #ffffff;
+  background: var(--brand);
+  border-radius: 999px;
+  padding: 7px 12px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.header-download:hover {
+  background: var(--brand-strong);
+}
+
 .lang-switch {
   display: inline-flex;
   gap: 4px;
@@ -618,7 +639,7 @@ html[data-lang='en'] .lang-zh {
     justify-content: flex-start;
   }
 
-  .lang-switch {
+  .header-actions {
     align-self: flex-end;
   }
 

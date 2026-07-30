@@ -14,7 +14,7 @@ seo_keywords: CanResidency upgrade, CanResidency Pro, CanResidency Family, Canad
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/upgrade-guide/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/upgrade-guide/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/upgrade-guide/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <h2>Stay free when the basic record is enough</h2>
@@ -29,5 +29,9 @@ last_updated: 2026-07-29
 
 <h2>Three questions before paying</h2>
 <ol><li>Have you entered enough real trips to trust the workflow?</li><li>Is the limitation blocking a task you need now?</li><li>Do you need individual or multi-member records?</li></ol>
+
+<h2>Return to the plan only when the job changes</h2>
+<p>If you stopped after the free test, come back when one of four signals appears: the 11th trip, a renewal or citizenship date you need to model, an export you need to keep, or a second family member with a different timeline. Reopen the smallest plan that removes that specific block; do not pay simply because time passed.</p>
+<p><a data-funnel-stage="paid" data-funnel-action="reactivation_open_starter" data-funnel-experiment="reactivation_en_v1" href="/PRHelper-Legal/en/getting-started/">Recheck the free workflow first →</a></p>
 
 <div class="conversion-strip"><div><h2>Evaluate with real data first</h2><p>Start free, then choose the smallest plan that removes a real limitation.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review plans in the app</a><small>Final prices and eligibility are shown by Apple</small></div></div>

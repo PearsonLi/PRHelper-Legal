@@ -14,7 +14,7 @@ seo_keywords: 枫叶卡指南,730天规则,入籍1095,旅行规划,家庭版
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <p>从你需要解决的记录问题开始。每篇指南只处理一个核心痛点，提供对应官方来源，并说明持续维护记录如何减少临近申请时的重建工作。</p>
@@ -31,6 +31,8 @@ last_updated: 2026-07-29
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/"><small>续卡</small><h3>枫叶卡续卡准备清单</h3><p>按顺序准备旅行、身份、地址、工作和支持性记录。</p><strong>阅读指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/missing-travel-dates/"><small>补齐记录</small><h3>恢复缺失旅行日期</h3><p>从证据中逐步恢复不确定日期，不把猜测混进时间线。</p><strong>阅读指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/frequent-border-trips/"><small>高频旅行</small><h3>频繁加美过境记录</h3><p>用批量录入和核验流程保持同日往返与高频旅行可审阅。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/"><small>境外返加</small><h3>境外枫叶卡过期</h3><p>分清永久居民身份、商业交通返加所需 PRTD，以及居住审查需要的旅行历史。</p><strong>阅读指南 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/topics/travel-journal-checklist/"><small>记录习惯</small><h3>旅行记录清单</h3><p>趁记忆清晰记录离境、返回、目的地、原因与同日往返。</p><strong>阅读指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/citizenship-1095-rule/"><small>入籍</small><h3>入籍 1095 天规则</h3><p>分清入籍 physical presence 与 PR 居住义务，并为申请留出缓冲。</p><strong>阅读指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/pre-pr-credit/"><small>入籍</small><h3>临时居留折算</h3><p>理解半天折算、最高额度以及申请前必须核对的身份期间。</p><strong>阅读指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/travel-planning-impact/"><small>规划</small><h3>未来旅行影响</h3><p>订票前同时测试计划离境对 PR 与入籍时间线的影响。</p><strong>阅读指南 →</strong></a>

@@ -14,7 +14,7 @@ seo_keywords: CanResidency free, Canada PR travel tracker, first 10 trip records
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <section class="story-panel"><p class="story-kicker">A useful first session</p><h2>Do not start by rebuilding five years.</h2><p>Start with the trip you remember best. Enter the exit, the return and the source that confirms each date. Once one record is trustworthy, add the next nine.</p></section>
@@ -40,6 +40,10 @@ last_updated: 2026-07-29
 
 <h2>Do not upgrade until a real limitation appears</h2>
 <p>Continue free while the 10-record workflow is enough. When a real task is blocked, name it before opening the purchase screen: more trip capacity, advanced planning, an export, or separate family-member records. That answer determines whether you need Monthly, Pro, Family—or no upgrade yet.</p>
+
+<h2>Your seven-day activation check</h2>
+<p>Return after seven days and answer four yes-or-no questions: Is at least one trip verified from a real source? Is every uncertain date still visibly marked? Can you explain the next date that matters? Did you record any new return while it was fresh? If fewer than three answers are “yes,” repair the record before considering an upgrade.</p>
+<p><a data-funnel-stage="activation" data-funnel-action="day7_check_open_journal" data-funnel-experiment="activation_en_v1" href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Open the travel-journal checklist →</a></p>
 
 <div class="conversion-strip"><div><h2>Make the first record real</h2><p>Use a trip you can verify today. A trustworthy small timeline is more valuable than a complete-looking guess.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start free on the App Store</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
 

@@ -14,7 +14,7 @@ seo_keywords: PR card guide, citizenship guide, 730 day rule, trip planning
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <p>Choose the record problem you need to solve. Each guide explains one issue, links to the relevant official source, and shows where ongoing record-keeping can reduce last-minute reconstruction.</p>
@@ -31,6 +31,8 @@ last_updated: 2026-07-29
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/"><small>Renewal</small><h3>PR-card renewal checklist</h3><p>Prepare travel, identity, address, work, and supporting records in a controlled sequence.</p><strong>Read guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/missing-travel-dates/"><small>Record recovery</small><h3>Missing travel dates</h3><p>Recover uncertain dates from evidence without introducing guesses into the timeline.</p><strong>Read guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/frequent-border-trips/"><small>High-volume travel</small><h3>Frequent Canada–US crossings</h3><p>Keep same-day and frequent crossings reviewable with a batch-and-verify routine.</p><strong>Read guide →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/"><small>Return travel</small><h3>PR card expired outside Canada</h3><p>Separate PR status, the PRTD needed for commercial return travel, and the history used for review.</p><strong>Read guide →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/en/topics/travel-journal-checklist/"><small>Record habit</small><h3>Travel-journal checklist</h3><p>Record exits, returns, destinations, reasons and same-day trips before memory fades.</p><strong>Read guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/citizenship-1095-rule/"><small>Citizenship</small><h3>Citizenship 1,095-day rule</h3><p>Separate citizenship physical presence from PR compliance and plan with a buffer.</p><strong>Read guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pre-pr-credit/"><small>Citizenship</small><h3>Eligible pre-PR credit</h3><p>Understand half-day treatment and the maximum eligible credit before applying.</p><strong>Read guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/travel-planning-impact/"><small>Planning</small><h3>Future-trip impact</h3><p>Test a planned absence against both PR and citizenship timelines before booking.</p><strong>Read guide →</strong></a>

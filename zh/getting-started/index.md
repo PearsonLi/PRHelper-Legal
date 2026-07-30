@@ -14,7 +14,7 @@ seo_keywords: CanResidency免费,枫叶卡旅行记录,加拿大PR天数,入籍�
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <section class="story-panel"><p class="story-kicker">一次有效的首次使用</p><h2>不要一开始就重建五年。</h2><p>从你记得最清楚的一段旅行开始，录入离境、返回以及确认日期的来源。一条记录可信之后，再继续添加九条。</p></section>
@@ -40,6 +40,10 @@ last_updated: 2026-07-29
 
 <h2>真正出现限制之前，不必升级</h2>
 <p>10 条记录够用时继续使用免费版。实际任务受阻后，先说清楚原因：需要更多旅行容量、进阶规划、导出，还是分别管理家庭成员。这个答案决定应该选择 Monthly、Pro、Family，或者暂时不升级。</p>
+
+<h2>第 7 天激活复查</h2>
+<p>七天后回来回答四个是非题：是否至少有一段行程由真实来源确认？所有不确定日期是否仍被清楚标记？能否解释下一个重要日期？最近一次返加是否在记忆清晰时记录？如果少于三个“是”，先修复记录，不要急着升级。</p>
+<p><a data-funnel-stage="activation" data-funnel-action="day7_check_open_journal" data-funnel-experiment="activation_zh_v1" href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">打开旅行记录清单 →</a></p>
 
 <div class="conversion-strip"><div><h2>让第一条记录真实可信</h2><p>选择今天就能核实的一段旅行。规模较小但可信的时间线，比看似完整的猜测更有价值。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App Store 免费开始</a><small>独立规划工具 · 最终申请决定使用官方工具</small></div></div>
 

@@ -208,6 +208,18 @@
     var allLinks = Array.prototype.slice.call(document.querySelectorAll('a'));
     var linkPosition = allLinks.indexOf(link) + 1;
     var linkUrl = link.href || link.getAttribute('href') || '';
+    var funnelAction = link.getAttribute('data-funnel-action');
+
+    if (funnelAction) {
+      track('funnel_action', {
+        funnel_stage: link.getAttribute('data-funnel-stage') || '(not set)',
+        funnel_action: funnelAction,
+        funnel_experiment: link.getAttribute('data-funnel-experiment') || '(not set)',
+        link_text: linkText,
+        link_url: linkUrl,
+        source_path: window.location.pathname
+      });
+    }
 
     if (link.classList.contains('btn')) {
       track('cta_click', {

@@ -20,7 +20,7 @@ seo_keywords: 加拿大移民,永居,枫叶卡,730天,入籍1095天,居留计算
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <section class="story-panel">
@@ -68,11 +68,18 @@ last_updated: 2026-07-29
   </div>
 </div>
 
+<section class="story-panel">
+  <p class="story-kicker">下载之后会发生什么？</p>
+  <h2>先核实一段旅行，不要先重建五年。</h2>
+  <p>打开 App，设置身份与计划评估日，然后录入一段能够用真实来源确认的离境和返回。免费版最多支持 10 条旅行记录，可以先验证流程，再判断任何付费方案是否真的有用。</p>
+  <p><a data-funnel-stage="download" data-funnel-action="home_open_starter" data-funnel-experiment="home_readiness_zh_v1" href="/PRHelper-Legal/zh/getting-started/"><strong>预览 15 分钟起步流程 →</strong></a></p>
+</section>
+
 <figure class="value-shot">
   <img src="/PRHelper-Legal/assets/value-overview.png" alt="枫叶卡管家总览页面" />
 </figure>
 
 <div class="conversion-strip">
   <div><h2>保留完整时间线，不只是一个总数</h2><p>CanResidency 把旅行记录、滚动的 PR/入籍进度、计划行程影响和家庭成员资料放在一个本地优先的 App 中。</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">前往 App Store 下载</a><small>独立规划工具，与 IRCC 无关联，不构成法律意见。</small></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="home_start_first_trip" data-funnel-experiment="home_readiness_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始一段已核实行程</a><small>免费版最多 10 条旅行记录 · 不必先重建五年</small></div>
 </div>

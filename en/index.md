@@ -20,7 +20,7 @@ seo_keywords: Canada PR, PR card renewal, 730 days, citizenship 1095 days, resid
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 <section class="story-panel">
@@ -68,11 +68,18 @@ last_updated: 2026-07-29
   </div>
 </div>
 
+<section class="story-panel">
+  <p class="story-kicker">What happens after the download?</p>
+  <h2>One verified trip before a five-year reconstruction.</h2>
+  <p>Open the app, set the status and planning date, then enter one exit and return you can confirm from a real source. The free version supports up to 10 trip records, so you can test the workflow before deciding whether any paid plan is useful.</p>
+  <p><a data-funnel-stage="download" data-funnel-action="home_open_starter" data-funnel-experiment="home_readiness_en_v1" href="/PRHelper-Legal/en/getting-started/"><strong>Preview the 15-minute starter workflow →</strong></a></p>
+</section>
+
 <figure class="value-shot">
   <img src="/PRHelper-Legal/assets/value-overview.png" alt="CanResidency overview" />
 </figure>
 
 <div class="conversion-strip">
   <div><h2>Keep the timeline—not just the total</h2><p>CanResidency keeps trips, rolling PR and citizenship progress, planned-travel impact, and family records in one local-first app.</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Download on the App Store</a><small>Independent planning tool. Not affiliated with IRCC and not legal advice.</small></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="home_start_first_trip" data-funnel-experiment="home_readiness_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start one verified trip free</a><small>Up to 10 trip records free · No need to rebuild five years first</small></div>
 </div>

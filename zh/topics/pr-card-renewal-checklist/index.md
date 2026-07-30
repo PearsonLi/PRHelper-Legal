@@ -67,4 +67,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>先用一段真实行程验证方法</h2><p>录入一次离境和返回，并在自己的备注中保留日期来源，看看是否比临时重建五年表格更容易复核。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始旅行记录</a><small>免费版最多支持 10 条旅行记录 · 独立规划工具</small></div></div>
 
-<p><a href="/PRHelper-Legal/zh/getting-started/">使用 10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>
+<p><a href="/PRHelper-Legal/zh/getting-started/">使用 10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/">人在境外且卡已过期？</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>

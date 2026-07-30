@@ -22,6 +22,7 @@ last_updated: 2026-07-30
 <h2>Stuck after the first trip?</h2>
 <p>Do not restart the whole timeline. Reopen the trip you know best, keep any uncertain date marked, and add the source that confirms the exit or return. If that still blocks progress, tell us which step stopped you—setup, date entry, verification, or the result screen.</p>
 <p><a data-funnel-stage="activation" data-funnel-action="activation_rescue_email" data-funnel-experiment="support_rescue_en_v1" href="mailto:pearson@rhotechnologies.ca?subject=CanResidency%20activation%20feedback&amp;body=The%20step%20that%20stopped%20me%20was%3A%20">Tell us the step that stopped you →</a> · <a href="/PRHelper-Legal/en/getting-started/">Restart with the 15-minute checklist</a></p>
+<p><a class="btn" data-funnel-stage="download" data-funnel-action="support_return_to_app" data-funnel-experiment="support_reinstall_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Return to CanResidency</a></p>
 
 <h2>Purchase or restore did not finish?</h2>
 <p>Include the plan shown, whether Apple displayed a confirmation, and the exact point where the flow stopped. Do not email passwords, full payment details, or sensitive immigration documents.</p>

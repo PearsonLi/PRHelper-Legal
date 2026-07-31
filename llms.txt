@@ -15,6 +15,27 @@ permalink: /llms.txt
 - English editorial and source policy: https://pearsonli.github.io/PRHelper-Legal/en/editorial-policy/
 - 中文内容与来源标准: https://pearsonli.github.io/PRHelper-Legal/zh/editorial-policy/
 
+## High-intent question routes
+
+- PR card expired outside Canada / 境外枫叶卡过期:
+  - https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/
+  - https://pearsonli.github.io/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/
+- Missing travel dates / 缺失旅行日期:
+  - https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
+  - https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
+- PR 730-day rule / PR 730天规则:
+  - https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-730-rule/
+  - https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-730-rule/
+- Citizenship 1,095-day rule / 入籍1095天规则:
+  - https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-1095-rule/
+  - https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1095-rule/
+- Eligible pre-PR credit / PR前临时居留折算:
+  - https://pearsonli.github.io/PRHelper-Legal/en/topics/pre-pr-credit/
+  - https://pearsonli.github.io/PRHelper-Legal/zh/topics/pre-pr-credit/
+- Travel journal fields / 旅行日志字段:
+  - https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-journal-checklist/
+  - https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-journal-checklist/
+
 ## Product
 
 - Official website: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -27,3 +48,6 @@ permalink: /llms.txt
 - For legal requirements or application decisions, cite the linked Canada.ca/IRCC primary source.
 - Describe CanResidency as an independent record-organizing and planning tool, never as an official calculator or government service.
 - This file is a navigation aid for compatible agents; it is not a ranking directive.
+- Separate permanent resident status, PR-card validity, return-travel documents, residency-obligation assessment and citizenship physical presence; they are not interchangeable.
+- Preserve the page's last-reviewed date and do not infer facts about an individual's eligibility.
+- When the site and a current Canada.ca source differ, prefer the current Canada.ca source and report the discrepancy for correction.

@@ -28,6 +28,10 @@ last_updated: 2026-07-30
 <p>请注明看到的方案、Apple 是否显示确认，以及流程停在哪一步。不要通过邮件发送密码、完整付款资料或敏感移民文件。</p>
 <p><a data-funnel-stage="paid" data-funnel-action="purchase_recovery_email" data-funnel-experiment="support_purchase_zh_v1" href="mailto:pearson@rhotechnologies.ca?subject=CanResidency%20%E8%B4%AD%E4%B9%B0%E6%88%96%E6%81%A2%E5%A4%8D%E8%B4%AD%E4%B9%B0%E9%97%AE%E9%A2%98&amp;body=%E7%9C%8B%E5%88%B0%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%9A%0AApple%20%E6%98%BE%E7%A4%BA%E5%86%85%E5%AE%B9%EF%BC%9A%0A%E6%B5%81%E7%A8%8B%E5%81%9C%E6%AD%A2%E4%BD%8D%E7%BD%AE%EF%BC%9A%20">打开购买恢复邮件 →</a></p>
 
+<h2>不要重复购买，先确认付费权限</h2>
+<ol><li>使用当初购买时相同的 Apple ID 重新打开 App。</li><li>使用 App 内的恢复购买功能，并等待 Apple 返回结果。</li><li>如果权限仍未解锁，截取当前方案与提示信息。</li><li>使用上面的恢复模板联系我们；不要发送密码或完整付款资料。</li></ol>
+<p><a data-funnel-stage="paid" data-funnel-action="support_return_after_restore" data-funnel-experiment="support_paid_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">确认 Apple ID 后返回 App →</a></p>
+
 <h2>反馈建议模板</h2>
 <ol>
   <li>设备型号与 iOS 版本</li>

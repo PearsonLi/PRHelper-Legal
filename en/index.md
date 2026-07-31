@@ -20,14 +20,14 @@ seo_keywords: Canada PR, PR card renewal, 730 days, citizenship 1095 days, resid
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 ---
 
 <section class="story-panel">
   <p class="story-kicker">A familiar renewal-night problem</p>
   <h2>Five years of travel. One missing weekend.</h2>
   <p>Picture Maya at 11:42 p.m., passport open beside an old calendar. Her PR-card renewal is no longer abstract: a Buffalo weekend is missing, two flights have conflicting dates, and memory is doing work it was never built to do. The difficult part was not remembering “730 days.” It was rebuilding the record behind the number.</p>
-  <a class="btn" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the record before it becomes urgent</a>
+  <a class="btn" data-funnel-stage="download" data-funnel-action="home_story_start_verified_trip" data-funnel-experiment="home_story_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start one verified trip free</a>
 </section>
 
 <div class="kpi-grid">

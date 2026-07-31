@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-trav
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 schema_type: article
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 faq_items:
   - q: What should I do if I cannot remember an exact travel date?
     a: Mark the date as uncertain, compare independent records, and avoid replacing uncertainty with an unsupported guess.
@@ -29,6 +29,10 @@ breadcrumb_items:
   - name: Missing travel dates
     url: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 ---
+
+<div class="content-meta"><span>Last reviewed: July 31, 2026</span><span>Sources: CBSA and current IRCC instructions</span><span>Independent planning guide</span></div>
+
+<div class="direct-answer"><h2>What if you cannot remember an exact travel date?</h2><p>Do not turn an uncertain date into a confident guess. Mark the gap, compare independent records, and retain the source that supports the date you eventually use.</p></div>
 
 <h2>The problem is uncertainty, not memory</h2>
 <p>A blank period often creates pressure to choose a date that “looks right.” That is the wrong goal. A useful reconstruction keeps known dates, uncertain dates, and supporting sources visibly separate until the evidence is strong enough to close the gap.</p>
@@ -59,6 +63,6 @@ breadcrumb_items:
 
 <p><strong>Official starting point:</strong> <a href="https://www.cbsa-asfc.gc.ca/agency-agence/reports-rapports/pia-efvp/atip-aiprp/infosource-eng.html" target="_blank" rel="noopener noreferrer">CBSA information sources and travel-history records</a>.</p>
 
-<div class="conversion-strip"><div><h2>Keep recovered dates in one maintained timeline</h2><p>CanResidency helps you record trips as you verify them and review the rolling PR and citizenship picture without relying on memory next time.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Download CanResidency</a><small>Independent planning tool · Not an official record</small></div></div>
+<div class="conversion-strip"><div><h2>Keep recovered dates in one maintained timeline</h2><p>CanResidency helps you record trips as you verify them and review the rolling PR and citizenship picture without relying on memory next time.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="missing_dates_start_free" data-funnel-experiment="missing_dates_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record one recovered trip free</a><small>Independent planning tool · Not an official record</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Build the ongoing travel journal</a> · <a href="/PRHelper-Legal/en/topics/frequent-border-trips/">Frequent border-trip workflow</a> · <a href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">PR-card renewal checklist</a></p>

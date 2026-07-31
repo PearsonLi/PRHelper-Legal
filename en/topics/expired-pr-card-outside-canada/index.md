@@ -14,7 +14,8 @@ seo_keywords: PR card expired outside Canada, PRTD, return to Canada without PR 
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/
-last_updated: 2026-07-30
+schema_type: article
+last_updated: 2026-07-31
 faq_items:
   - q: Does an expired PR card mean I lost permanent resident status?
     a: No. IRCC states that PR status does not end merely because the card expires.
@@ -22,7 +23,18 @@ faq_items:
     a: IRCC says a PR card cannot be issued and delivered overseas for return travel. A permanent resident outside Canada without a valid PR card normally applies for a PRTD.
   - q: Do I need a PR card or PRTD to board a commercial carrier to Canada?
     a: IRCC says permanent residents need a valid PR card or PRTD when returning by plane, train, bus or boat.
+breadcrumb_items:
+  - name: Home
+    url: https://pearsonli.github.io/PRHelper-Legal/en/
+  - name: Guides
+    url: https://pearsonli.github.io/PRHelper-Legal/en/topics/
+  - name: Expired PR card outside Canada
+    url: https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/
 ---
+
+<div class="content-meta"><span>Last reviewed: July 31, 2026</span><span>Primary sources: IRCC / Canada.ca</span><span>Independent publisher: Rho Technologies Ltd.</span></div>
+
+<div class="direct-answer"><h2>Does an expired PR card cancel permanent resident status?</h2><p><strong>No.</strong> IRCC states that card expiry does not itself end PR status. If you are outside Canada and need to return on a commercial carrier, check the current PRTD route before arranging travel.</p></div>
 
 <section class="story-panel"><p class="story-kicker">The airport check-in problem</p><h2>The card is expired. The status and the boarding document are different questions.</h2><p>Daniel notices the expiry date while checking in for his flight home. The useful next step is not to guess whether his status disappeared. It is to separate three files: proof of PR status, the document required for return travel, and the travel history used to support the residency review.</p></section>
 

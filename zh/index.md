@@ -20,14 +20,14 @@ seo_keywords: 加拿大移民,永居,枫叶卡,730天,入籍1095天,居留计算
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 ---
 
 <section class="story-panel">
   <p class="story-kicker">续卡前夜的常见场景</p>
   <h2>五年旅行记录，偏偏少了一个周末。</h2>
   <p>想象一下：晚上 11:42，Maya 把护照、旧日历和邮箱同时打开。枫叶卡续卡不再是一个遥远的日期——一次去 Buffalo 的周末找不到了，两张机票的日期又对不上。真正让人焦虑的并不是记住“730 天”，而是重新拼出这个数字背后的完整记录。</p>
-  <a class="btn" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">趁记录还清楚，现在开始</a>
+  <a class="btn" data-funnel-stage="download" data-funnel-action="home_story_start_verified_trip" data-funnel-experiment="home_story_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已核实行程</a>
 </section>
 
 <div class="kpi-grid">

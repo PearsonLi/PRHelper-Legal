@@ -14,7 +14,8 @@ seo_keywords: Canada PR travel journal, travel history checklist, PR card trip r
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-journal-checklist/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-journal-checklist/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-journal-checklist/
-last_updated: 2026-07-30
+schema_type: article
+last_updated: 2026-07-31
 faq_items:
   - q: Should I record a same-day trip to the United States?
     a: Yes. IRCC's travel-journal guidance says to include day trips, including those under 24 hours to the United States.
@@ -22,7 +23,18 @@ faq_items:
     a: IRCC describes the journal as a personal memory aid, not an official document that must be submitted.
   - q: Does the travel journal replace the citizenship physical presence calculation?
     a: No. IRCC states that applicants who require a physical presence calculation must still submit it.
+breadcrumb_items:
+  - name: Home
+    url: https://pearsonli.github.io/PRHelper-Legal/en/
+  - name: Guides
+    url: https://pearsonli.github.io/PRHelper-Legal/en/topics/
+  - name: Travel journal checklist
+    url: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-journal-checklist/
 ---
+
+<div class="content-meta"><span>Last reviewed: July 31, 2026</span><span>Primary source: IRCC / Canada.ca</span><span>Independent planning guide</span></div>
+
+<div class="direct-answer"><h2>What should a Canada travel journal contain?</h2><p>Record the exit date, return date, countries visited and reason for travel. IRCC also tells travellers to include day trips, including trips under 24 hours to the United States.</p></div>
 
 <section class="story-panel"><p class="story-kicker">The forgotten Sunday drive</p><h2>A short border trip can disappear from memory long before an application.</h2><p>Amira remembers the flights in her inbox, but not every same-day drive to Buffalo. The fix is a small return-home habit: record the exit, return, destination and reason while the trip can still be verified.</p></section>
 
@@ -36,6 +48,9 @@ faq_items:
 
 <h2>Add a verification layer</h2>
 <p>Beside each trip, note the source that supports the date—passport, booking email, calendar or available border record—and whether it is verified or still uncertain. The journal helps you remember; it does not replace IRCC's required application forms or official physical-presence calculation.</p>
+
+<h2>The two-minute return-home routine</h2>
+<ol><li>Record the exit and return before unpacking the supporting emails.</li><li>Attach or note one source that can verify each date later.</li><li>Mark the record verified or uncertain, then schedule one follow-up for any gap.</li></ol>
 
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/record-trips-outside-canada.html" target="_blank" rel="noopener noreferrer">IRCC: record your trips outside Canada</a></p>
 

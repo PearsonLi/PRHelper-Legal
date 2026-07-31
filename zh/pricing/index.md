@@ -14,6 +14,7 @@ seo_keywords: 枫叶卡管家 价格,月订阅,专业版,家庭版,RevenueCat
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
+last_updated: 2026-07-31
 ---
 
 <div class="card-grid">
@@ -39,11 +40,18 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
   </section>
 </div>
 
+<h2>只选择能够解除当前限制的最小方案</h2>
+<div class="card-grid">
+  <section class="plan-card"><h3>第 11 条旅行无法继续录入</h3><p>根据需求是短期还是长期，在 Monthly 与 Pro 买断之间比较。</p></section>
+  <section class="plan-card"><h3>只在近期需要一次导出或规划</h3><p>进阶任务是临时需求时，Monthly 提供更灵活的路径。</p></section>
+  <section class="plan-card"><h3>第二位成员需要独立时间线</h3><p>比较临时使用 Monthly 与永久使用 Family 的差别。</p></section>
+</div>
+
 <h2>先用真实行程验证，再决定方案</h2>
 
 <p>不必在了解产品前就做购买决定。免费版可保存最多 10 条旅行记录；你可以先录入一段真实行程，核对时间线是否符合自己的记录习惯，再判断是否需要更多记录、进阶规划、导出或家庭成员管理。</p>
 
-<div class="conversion-strip"><div><h2>用一段真实行程开始</h2><p>下载后录入最近一次离境和返回，用自己的机票邮件、护照章或边境记录核对。确认这个方法能解决问题后，再按需要升级。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App Store 免费开始</a><small>可先验证基础流程 · 最终价格以 Apple 在 App 内显示为准</small></div></div>
+<div class="conversion-strip"><div><h2>用一段真实行程开始</h2><p>下载后录入最近一次离境和返回，用自己的原始记录核对。只有具体任务受到限制时再升级。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="pricing_test_then_choose" data-funnel-experiment="pricing_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">先免费测试，再查看方案</a><small>可先验证基础流程 · 最终价格以 Apple 在 App 内显示为准</small></div></div>
 
 <h2>购买前常见疑问</h2>
 

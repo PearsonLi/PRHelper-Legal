@@ -14,7 +14,7 @@ seo_keywords: CanResidency free, Canada PR travel tracker, first 10 trip records
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 ---
 
 <section class="story-panel"><p class="story-kicker">A useful first session</p><h2>Do not start by rebuilding five years.</h2><p>Start with the trip you remember best. Enter the exit, the return and the source that confirms each date. Once one record is trustworthy, add the next nine.</p></section>
@@ -45,6 +45,6 @@ last_updated: 2026-07-30
 <p>Return after seven days and answer four yes-or-no questions: Is at least one trip verified from a real source? Is every uncertain date still visibly marked? Can you explain the next date that matters? Did you record any new return while it was fresh? If fewer than three answers are “yes,” repair the record before considering an upgrade.</p>
 <p><a data-funnel-stage="activation" data-funnel-action="day7_check_open_journal" data-funnel-experiment="activation_en_v1" href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Open the travel-journal checklist →</a></p>
 
-<div class="conversion-strip"><div><h2>Make the first record real</h2><p>Use a trip you can verify today. A trustworthy small timeline is more valuable than a complete-looking guess.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start free on the App Store</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
+<div class="conversion-strip"><div><h2>Make the first record real</h2><p>Use a trip you can verify today. Downloading does not require you to choose a paid plan: the first 10 trip records are available to test the workflow.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="starter_begin_10_records" data-funnel-experiment="starter_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the 10-record test free</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/upgrade-guide/">When should I upgrade?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a></p>

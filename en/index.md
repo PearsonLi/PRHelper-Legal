@@ -47,6 +47,7 @@ last_updated: 2026-07-30
 
 <h2>Start with the problem you have today</h2>
 <div class="guide-grid">
+  <a class="guide-card" href="/PRHelper-Legal/en/answers/pr-card-renewal/"><small>Direct answer</small><h3>How do I renew a Canadian PR card?</h3><p>Get the current process, timing, travel-record requirements and official sources in one concise answer.</p><strong>Read the source-linked answer →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/"><small>Renewal preparation</small><h3>PR-card renewal is approaching</h3><p>Turn scattered travel, address, work, and passport records into one reviewable preparation flow.</p><strong>Open the renewal guide →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/missing-travel-dates/"><small>Record recovery</small><h3>Some travel dates are missing</h3><p>Rebuild gaps from passports, bookings, calendars, photos, and border records without quietly guessing.</p><strong>Recover missing dates →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/frequent-border-trips/"><small>Frequent travel</small><h3>Canada–US crossings keep piling up</h3><p>Use a repeatable workflow for same-day and high-volume travel before the timeline becomes unauditable.</p><strong>Organize frequent crossings →</strong></a>

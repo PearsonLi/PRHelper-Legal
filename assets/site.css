@@ -356,6 +356,38 @@ html[data-lang='en'] .lang-zh {
   margin: 12px 0;
 }
 
+.direct-answer {
+  margin: 16px 0;
+  padding: 18px;
+  border: 1px solid #9eb2df;
+  border-radius: 14px;
+  background: linear-gradient(145deg, #f7f9ff, #eef3ff);
+}
+
+.direct-answer > :first-child {
+  margin-top: 0;
+}
+
+.direct-answer > :last-child {
+  margin-bottom: 0;
+}
+
+.source-list li {
+  margin-bottom: 8px;
+}
+
+.content-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin: 0 0 16px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  color: var(--text-muted);
+  background: var(--surface-soft);
+  font-size: 13px;
+}
+
 .story-panel {
   margin: 18px 0;
   padding: clamp(20px, 4vw, 38px);

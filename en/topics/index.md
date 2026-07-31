@@ -14,7 +14,7 @@ seo_keywords: PR card guide, citizenship guide, 730 day rule, trip planning
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 ---
 
 <p>Choose the record problem you need to solve. Each guide explains one issue, links to the relevant official source, and shows where ongoing record-keeping can reduce last-minute reconstruction.</p>
@@ -25,6 +25,13 @@ last_updated: 2026-07-30
   <p>Use the free 10-trip workflow to test the record with dates you can confirm today. If the method fits, the upgrade guide explains Monthly, Pro, and Family by the task each plan solves.</p>
   <p><a href="/PRHelper-Legal/en/getting-started/"><strong>Open the 10-trip starter workflow →</strong></a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare upgrade paths</a></p>
 </section>
+
+<h2>Choose by the next decision, not by the rule name</h2>
+<div class="card-grid">
+  <section class="plan-card"><h3>I am preparing a renewal</h3><p>Start with the renewal checklist, then close missing travel-date gaps.</p><p><a data-funnel-stage="download" data-funnel-action="topic_hub_choose_renewal" data-funnel-experiment="topic_hub_en_v2" href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">Open the renewal path →</a></p></section>
+  <section class="plan-card"><h3>I am choosing a citizenship date</h3><p>Review the 1,095-day rule and any eligible pre-PR period separately.</p><p><a data-funnel-stage="download" data-funnel-action="topic_hub_choose_citizenship" data-funnel-experiment="topic_hub_en_v2" href="/PRHelper-Legal/en/topics/citizenship-1095-rule/">Open the citizenship path →</a></p></section>
+  <section class="plan-card"><h3>I am planning travel</h3><p>Test the absence before booking and keep the factual trip record current.</p><p><a data-funnel-stage="download" data-funnel-action="topic_hub_choose_travel" data-funnel-experiment="topic_hub_en_v2" href="/PRHelper-Legal/en/topics/travel-planning-impact/">Open the travel path →</a></p></section>
+</div>
 
 <div class="guide-grid">
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-730-rule/"><small>PR obligation</small><h3>PR 730-day rule</h3><p>Understand the rolling five-year window and why the card expiry date is not the calculation.</p><strong>Read guide →</strong></a>
@@ -39,4 +46,4 @@ last_updated: 2026-07-30
   <a class="guide-card" href="/PRHelper-Legal/en/topics/family-multi-member-guide/"><small>Family</small><h3>Multi-member records</h3><p>Keep each family member’s status, trips, and planning dates separate and explainable.</p><strong>Read guide →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>Keep the source record current</h2><p>The official calculator is essential at application time. CanResidency helps maintain the travel history you need before that moment arrives.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Download CanResidency</a><small>Independent tool · Not IRCC · General planning only</small></div></div>
+<div class="conversion-strip"><div><h2>Keep the source record current</h2><p>The official calculator is essential at application time. CanResidency helps maintain the travel history you need before that moment arrives.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="topic_hub_start_free" data-funnel-experiment="topic_hub_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record one verified trip free</a><small>Independent tool · Not IRCC · General planning only</small></div></div>

@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-rene
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-31
 faq_items:
   - q: 枫叶卡到期日等于居住义务计算日吗？
     a: 不等于。卡片有效期与永久居民身份是不同问题，应针对法律上相关日期评估居住义务，并遵循最新 IRCC 指引。
@@ -61,10 +61,13 @@ breadcrumb_items:
 <h2>枫叶卡续卡旅行记录清单</h2>
 <p>每段旅行至少保留离境日、返回日、目的地和日期来源，再与期间使用过的新旧护照、订票邮件、日历及可获得的边境记录逐项核对。没有证据支持的日期应继续标记为“不确定”，不要为了填满表格而猜一个方便的日期。</p>
 
+<h2>只有复核文件成为实际限制时才升级</h2>
+<p>先用免费记录核实最初几段旅行。需要结构化复核文件、超过 10 条旅行，或基础流程无法完成的规划检查时，再考虑导出或进阶能力。比较方案之前先说清受阻任务。</p>
+
 <div class="callout"><strong>重要区别：</strong>枫叶卡过期不等于 PR 身份自动结束；卡片仍有效，也不等于自动证明符合居住义务。具体情况应以最新官方指引为准。</div>
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply.html" target="_blank" rel="noopener noreferrer">IRCC：申请、续期或更换枫叶卡</a>。</p>
 
-<div class="conversion-strip"><div><h2>先用一段真实行程验证方法</h2><p>录入一次离境和返回，并在自己的备注中保留日期来源，看看是否比临时重建五年表格更容易复核。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始旅行记录</a><small>免费版最多支持 10 条旅行记录 · 独立规划工具</small></div></div>
+<div class="conversion-strip"><div><h2>把核对后的时间线变成复核文件</h2><p>先免费测试一段行程。记录容量或导出真正成为限制后，再比较能够完成任务的最小方案。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="renewal_checklist_review_plan" data-funnel-experiment="renewal_checklist_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">先免费测试，再查看导出能力</a><small>最终申请仍使用 IRCC 当前表格与指引</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/getting-started/">使用 10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/">人在境外且卡已过期？</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>

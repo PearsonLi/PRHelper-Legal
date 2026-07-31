@@ -58,9 +58,11 @@ breadcrumb_items:
 <p>CanResidency can help you keep a structured travel timeline, see planning estimates and find missing or conflicting records before renewal becomes urgent. It is an independent iOS app from Rho Technologies Ltd.; it is not affiliated with IRCC, does not submit an application and is not an official legal determination or government calculator.</p>
 
 <div class="conversion-strip">
-  <div><h2>Test it with one verified trip</h2><p>Enter one departure and return that you can confirm from a real source. If the workflow makes the record easier to review, continue before the renewal deadline creates pressure.</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_free" data-funnel-experiment="answer_pr_renewal_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start a free travel record</a><small>Up to 10 trip records free · Independent planning tool</small></div>
+  <div><h2>Test it with one verified trip</h2><p>After tapping, enter one exit, one return and the source that confirms them. You can test up to 10 trip records before deciding whether a paid feature is useful.</p></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_free" data-funnel-experiment="answer_pr_renewal_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the one-trip test free</a><small>No five-year reconstruction required to start · Independent planning tool</small></div>
 </div>
+
+<p><a data-funnel-stage="download" data-funnel-action="answer_pr_renewal_preview_steps" data-funnel-experiment="answer_pr_renewal_en_v2" href="/PRHelper-Legal/en/getting-started/">Preview the exact 15-minute first session before downloading →</a></p>
 
 <h2>Primary official sources</h2>
 <ul class="source-list">

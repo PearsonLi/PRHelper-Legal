@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-bor
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-border-trips/
 schema_type: article
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 faq_items:
   - q: Should I keep records of same-day Canada–US trips?
     a: Keep a complete travel history and follow the current application instructions for how each trip must be reported and calculated.
@@ -29,6 +29,10 @@ breadcrumb_items:
   - name: Frequent border trips
     url: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-border-trips/
 ---
+
+<div class="content-meta"><span>Last reviewed: July 31, 2026</span><span>Official-source links checked</span><span>Independent planning guide</span></div>
+
+<div class="direct-answer"><h2>How should frequent Canada–US trips be tracked?</h2><p>Record each exit and return while the evidence is still easy to retrieve, keep same-day movements visible, and run a monthly check for missing pairs or overlaps. Apply the current program instructions only after the factual timeline is complete.</p></div>
 
 <h2>High-volume travel needs a review system</h2>
 <p>For someone who crosses the border a few times a year, a calendar may be enough. For weekly crossings, the risk is cumulative: similar weekends blur together, land crossings may leave no passport stamp, and one wrong return date can overlap the next trip.</p>
@@ -49,6 +53,6 @@ breadcrumb_items:
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC permanent resident status and residency obligation</a>.</p>
 
-<div class="conversion-strip"><div><h2>Turn crossings into a maintained timeline</h2><p>CanResidency keeps exits, returns, rolling progress, and planned-trip impact together—especially useful when the trip count becomes too large for memory.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start tracking trips</a><small>Independent planning tool · Not legal advice</small></div></div>
+<div class="conversion-strip"><div><h2>Turn crossings into a maintained timeline</h2><p>CanResidency keeps exits, returns, rolling progress, and planned-trip impact together—especially useful when the trip count becomes too large for memory.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="frequent_crossings_start_free" data-funnel-experiment="frequent_crossings_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record the latest crossing free</a><small>Independent planning tool · Not legal advice</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Use the IRCC-aligned journal checklist</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

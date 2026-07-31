@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-plann
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-planning-impact/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-planning-impact/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-31
 faq_items:
   - q: Can the same future trip affect PR and citizenship differently?
     a: Yes. PR residency obligation and citizenship physical presence use different rules and timelines, so review both separately.
@@ -48,10 +48,13 @@ breadcrumb_items:
 <h2>Plan with a buffer</h2>
 <p>Flights change, records are corrected, and intended application dates move. A plan that works only on an exact boundary is fragile. Use official tools to verify the final result, and consider whether extra in-Canada time creates a more resilient plan.</p>
 
+<h2>Pay for planning only when a real booking decision is blocked</h2>
+<p>First keep the current timeline accurate with the free record. Consider an advanced planning option only when you need to compare a specific future absence or evaluation date before committing money to travel. Define that trip before opening the plan screen.</p>
+
 <div class="callout"><strong>Planning signals are not legal determinations.</strong> They depend on the dates entered. Verify final eligibility with current IRCC guidance and seek licensed advice where the margin is close or an exception matters.</div>
 
 <p><strong>Official sources:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">PR residency obligation</a> · <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html" target="_blank" rel="noopener noreferrer">Citizenship physical presence</a>.</p>
 
-<div class="conversion-strip"><div><h2>Model the trip before committing</h2><p>CanResidency lets you add planned travel, change the evaluation date, and see both PR and citizenship progress from the same maintained record.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Plan a trip in CanResidency</a><small>Independent planning tool · Not legal advice</small></div></div>
+<div class="conversion-strip"><div><h2>Model the trip before committing</h2><p>CanResidency lets you add planned travel, change the evaluation date, and see both PR and citizenship progress from the same maintained record.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="travel_planning_review_plan" data-funnel-experiment="travel_planning_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Compare planning access in the app</a><small>Define one future trip first · Final prices shown by Apple</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/topics/pr-730-rule/">PR 730-day guide</a> · <a href="/PRHelper-Legal/en/topics/citizenship-1095-rule/">Citizenship 1,095-day guide</a></p>

@@ -17,7 +17,10 @@ seo_keywords: Canada PR residency tracker, 730 day calculator, citizenship physi
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
+last_updated: 2026-07-31
 ---
+
+<section class="story-panel"><p class="story-kicker">Sunday night, three sources</p><h2>The spreadsheet total looked finished. The dates behind it did not.</h2><p>Alex finds one return date in a booking email, another in a calendar and no stamp in the passport. Instead of forcing a total to look complete, he verifies one trip, records its source and builds outward from there.</p></section>
 
 <h2>Replace the residency spreadsheet</h2>
 <p>CanResidency is an independent iPhone and iPad app for Canadian permanent residents who travel. Record absences once, then use the same travel history to monitor PR residency-obligation progress, plan citizenship physical presence, and prepare exportable records.</p>
@@ -47,7 +50,7 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
   <li><a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Check how a future trip affects your timeline</a></li>
 </ul>
 
-<p><a href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Download CanResidency free on the App Store</strong></a></p>
+<div class="conversion-strip"><div><h2>Test the workflow with one date you trust</h2><p>Start with one verified exit and return. The free version supports up to 10 trip records, so no paid decision is required to learn whether the method fits.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="marketing_verify_one_trip" data-funnel-experiment="marketing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Verify one trip free</a><small>Independent planning app · Not an IRCC service</small></div></div>
 
 <p><strong>Official references:</strong>
   <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">Permanent resident status and the 730-day obligation</a> ·

@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-bor
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-border-trips/
 schema_type: article
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 faq_items:
   - q: 加美同日往返也需要保留记录吗？
     a: 应维护完整旅行历史，并根据当前申请指引确认每次旅行如何申报和计算。
@@ -29,6 +29,10 @@ breadcrumb_items:
   - name: 频繁过境
     url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/
 ---
+
+<div class="content-meta"><span>最近核查：2026 年 7 月 31 日</span><span>官方来源链接已检查</span><span>独立规划指南</span></div>
+
+<div class="direct-answer"><h2>频繁加美过境应该怎样记录？</h2><p>在证据仍容易找到时记录每次离境和返回，让同日往返保持可见，并每月检查未配对日期与重叠。先完成事实时间线，再应用当前项目指引。</p></div>
 
 <h2>高频旅行需要的是核验系统</h2>
 <p>一年只过境几次，日历可能够用；每周往返时，问题会不断累积：相似周末混在一起、陆路过境没有护照印章、一个错误返回日期还可能与下一次旅行重叠。</p>
@@ -49,6 +53,6 @@ breadcrumb_items:
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC 永久居民身份与居住义务说明</a>。</p>
 
-<div class="conversion-strip"><div><h2>把每次过境变成持续维护的时间线</h2><p>CanResidency 把离境、返回、滚动进度和计划旅行影响放在一起，尤其适合行程数量已经超出记忆能力的情况。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">开始记录旅行</a><small>独立规划工具 · 不构成法律意见</small></div></div>
+<div class="conversion-strip"><div><h2>把每次过境变成持续维护的时间线</h2><p>CanResidency 把离境、返回、滚动进度和计划旅行影响放在一起，尤其适合行程数量已经超出记忆能力的情况。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="frequent_crossings_start_free" data-funnel-experiment="frequent_crossings_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录最近一次过境</a><small>独立规划工具 · 不构成法律意见</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">使用 IRCC 字段旅行日志清单</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>

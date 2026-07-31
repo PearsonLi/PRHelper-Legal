@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-plann
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-planning-impact/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-planning-impact/
 schema_type: article
-last_updated: 2026-07-29
+last_updated: 2026-07-31
 faq_items:
   - q: 同一次未来旅行会对 PR 和入籍产生不同影响吗？
     a: 会。PR 居住义务与入籍 physical presence 使用不同规则和时间线，应分别检查。
@@ -48,10 +48,13 @@ breadcrumb_items:
 <h2>为变化留出缓冲</h2>
 <p>航班会改变、历史记录会被更正、计划申请日期也会移动。只有在精确边界上才成立的方案非常脆弱。最终应使用官方工具核验，并评估增加加拿大境内天数是否能让计划更稳健。</p>
 
+<h2>只有真实订票决定受到阻碍时，才为规划能力付费</h2>
+<p>先用免费记录保持当前时间线准确。只有需要在付机票费用前比较一次具体未来离境或评估日期时，再考虑进阶规划能力。打开方案页之前，先把这趟旅行写清楚。</p>
+
 <div class="callout"><strong>规划信号不是法律结论。</strong>它取决于录入日期。接近边界或涉及例外时，应对照最新 IRCC 指引并咨询持牌专业人士。</div>
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">PR 居住义务</a> · <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html" target="_blank" rel="noopener noreferrer">入籍 physical presence</a>。</p>
 
-<div class="conversion-strip"><div><h2>订票前先模拟行程</h2><p>CanResidency 支持录入计划旅行、改变评估日期，并从同一份持续维护的记录中查看 PR 与入籍进度。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 CanResidency 中规划</a><small>独立规划工具 · 不构成法律意见</small></div></div>
+<div class="conversion-strip"><div><h2>订票前先模拟行程</h2><p>CanResidency 支持录入计划旅行、改变评估日期，并从同一份持续维护的记录中查看 PR 与入籍进度。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="travel_planning_review_plan" data-funnel-experiment="travel_planning_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内比较规划能力</a><small>先定义一趟未来旅行 · 最终价格以 Apple 显示为准</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/pr-730-rule/">PR 730 天指南</a> · <a href="/PRHelper-Legal/zh/topics/citizenship-1095-rule/">入籍 1095 天指南</a></p>

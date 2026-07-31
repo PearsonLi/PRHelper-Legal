@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1095-rule/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-1095-rule/
 schema_type: article
-last_updated: 2026-07-28
+last_updated: 2026-07-31
 faq_items:
   - q: How many days of physical presence are normally required for Canadian citizenship?
     a: An adult applicant generally needs at least 1,095 days of physical presence in Canada during the five years immediately before applying.
@@ -32,8 +32,12 @@ breadcrumb_items:
     url: https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-1095-rule/
 ---
 
-<h2>Quick answer</h2>
-<p>An adult citizenship applicant generally needs at least 1,095 days of physical presence in Canada during the five years immediately before signing the application. IRCC recommends applying with more than the minimum because your calculation may differ from its assessment.</p>
+<div class="content-meta"><span>Last reviewed: July 31, 2026</span><span>Primary source: IRCC / Canada.ca</span><span>Independent planning guide</span></div>
+
+<div class="direct-answer"><h2>How many days do you need for Canadian citizenship?</h2><p>An adult applicant generally needs at least 1,095 days of physical presence in Canada during the five years immediately before signing the application. IRCC recommends applying with more than the minimum because its assessment may differ from yours.</p></div>
+
+<h2>Recheck these three dates before choosing an application day</h2>
+<ol><li>The start of the five-year eligibility period.</li><li>Every exit and return within that period, including short trips.</li><li>The intended signing date, because moving it changes the window.</li></ol>
 
 <h2>Why PR and citizenship totals differ</h2>
 <p>PR residency obligations and citizenship physical presence are different tests. They use different legal purposes and calculation rules, so a person can have one result for PR compliance and a different timeline for citizenship eligibility.</p>
@@ -62,6 +66,6 @@ breadcrumb_items:
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html" target="_blank" rel="noopener noreferrer">IRCC: Physical presence for citizenship</a>.</p>
 
-<div class="conversion-strip"><div><h2>Build the source record before the application date</h2><p>Add a recent trip, set a planning date and review the citizenship timeline. Verify the final calculation with IRCC before filing.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Track citizenship days free</a><small>Up to 10 trip records in the free version · Not an official calculator</small></div></div>
+<div class="conversion-strip"><div><h2>Build the source record before the application date</h2><p>Add a recent trip, set a planning date and review the citizenship timeline. Verify the final calculation with IRCC before filing.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="citizenship_1095_start_free" data-funnel-experiment="citizenship_1095_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Track one verified trip free</a><small>Up to 10 trip records in the free version · Not an official calculator</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/getting-started/">10-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/pre-pr-credit/">Pre-PR credit guide</a> · <a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Future-trip planning</a></p>

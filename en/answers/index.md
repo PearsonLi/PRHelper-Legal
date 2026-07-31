@@ -32,4 +32,6 @@ breadcrumb_items:
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-730-rule/"><small>Residency obligation</small><h3>How does the 730-day rule work?</h3><p>Review the rolling five-year concept and why special situations need official or professional review.</p><strong>Understand the rule →</strong></a>
 </div>
 
+<div class="conversion-strip"><div><h2>Already have one date you trust?</h2><p>Use that trip to test the record flow before rebuilding years of history.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_center_start_free" data-funnel-experiment="answer_center_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record one trip free</a><small>Up to 10 records free · Independent planning app</small></div></div>
+
 <p>See <a href="/PRHelper-Legal/en/editorial-policy/">how these answers are sourced and updated</a>. For application decisions, follow the current instructions on Canada.ca.</p>

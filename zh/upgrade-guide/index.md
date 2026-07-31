@@ -30,9 +30,13 @@ last_updated: 2026-07-30
 <h2>付费前先回答三个问题</h2>
 <ol><li>是否已录入足够真实行程来信任这个流程？</li><li>当前限制是否正在阻碍你需要完成的任务？</li><li>需要个人记录还是多成员记录？</li></ol>
 
+<h2>先定义付费后的第一个结果</h2>
+<p>升级前先写下要立即完成的一件事：添加第 11 条已核实行程、测试一次未来离境、导出一份复核文件，或为一位家人建立独立记录。七天后复查；如果仍未完成，应先使用支持清单，而不是继续更换方案。</p>
+<p><a data-funnel-stage="paid" data-funnel-action="upgrade_define_first_outcome" data-funnel-experiment="upgrade_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内查看刚好匹配的方案 →</a></p>
+
 <h2>只有任务变化时，才重新考虑方案</h2>
 <p>如果免费验证后暂时停用，出现以下信号再回来：需要第 11 条旅行、需要模拟续卡或入籍日期、需要保存导出，或者第二位家庭成员拥有不同时间线。只选择能够解除这个具体限制的最小方案，不要因为时间过去了就付费。</p>
 <p><a data-funnel-stage="paid" data-funnel-action="reactivation_open_starter" data-funnel-experiment="reactivation_zh_v1" href="/PRHelper-Legal/zh/getting-started/">先重新检查免费流程 →</a></p>
 <p>如果 Apple 没有显示确认，或者恢复购买没有完成，不要盲目重复购买。<a data-funnel-stage="paid" data-funnel-action="upgrade_open_purchase_recovery" data-funnel-experiment="purchase_recovery_zh_v1" href="/PRHelper-Legal/zh/support/">打开购买恢复清单 →</a></p>
 
-<div class="conversion-strip"><div><h2>先用真实数据验证</h2><p>免费开始，然后选择刚好能够解除实际限制的最小方案。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内查看方案</a><small>最终价格与资格以 Apple 显示为准</small></div></div>
+<div class="conversion-strip"><div><h2>先用真实数据验证</h2><p>免费开始，然后选择刚好能够解除实际限制的最小方案。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="upgrade_review_plans" data-funnel-experiment="upgrade_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内查看方案</a><small>最终价格与资格以 Apple 显示为准</small></div></div>

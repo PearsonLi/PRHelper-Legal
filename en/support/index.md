@@ -28,6 +28,10 @@ last_updated: 2026-07-30
 <p>Include the plan shown, whether Apple displayed a confirmation, and the exact point where the flow stopped. Do not email passwords, full payment details, or sensitive immigration documents.</p>
 <p><a data-funnel-stage="paid" data-funnel-action="purchase_recovery_email" data-funnel-experiment="support_purchase_en_v1" href="mailto:pearson@rhotechnologies.ca?subject=CanResidency%20purchase%20or%20restore%20issue&amp;body=Plan%20shown%3A%0AWhat%20Apple%20displayed%3A%0AWhere%20the%20flow%20stopped%3A%20">Open a purchase-recovery email →</a></p>
 
+<h2>Confirm paid access without purchasing twice</h2>
+<ol><li>Reopen the app with the same Apple ID used for the purchase.</li><li>Use the in-app restore option and wait for Apple’s result.</li><li>Capture the plan and message shown if access remains locked.</li><li>Send the recovery template above; never include a password or full payment details.</li></ol>
+<p><a data-funnel-stage="paid" data-funnel-action="support_return_after_restore" data-funnel-experiment="support_paid_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Return to the app after checking the Apple ID →</a></p>
+
 <h2>Recommended report details</h2>
 <ol>
   <li>Device model and iOS version</li>

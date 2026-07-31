@@ -14,7 +14,8 @@ seo_keywords: 境外枫叶卡过期,PRTD,永久居民旅行证件,没有有效�
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/
-last_updated: 2026-07-30
+schema_type: article
+last_updated: 2026-07-31
 faq_items:
   - q: 枫叶卡过期是否等于失去永久居民身份？
     a: 不是。IRCC 明确说明，枫叶卡过期本身不会自动终止永久居民身份。
@@ -22,7 +23,18 @@ faq_items:
     a: IRCC 说明，枫叶卡不能寄到境外供返加使用；境外没有有效枫叶卡的永久居民通常需要申请 PRTD。
   - q: 搭乘飞机返回加拿大需要什么？
     a: IRCC 说明，永久居民乘飞机、火车、巴士或船返加时需要有效枫叶卡或 PRTD。
+breadcrumb_items:
+  - name: 首页
+    url: https://pearsonli.github.io/PRHelper-Legal/zh/
+  - name: 指南
+    url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/
+  - name: 境外枫叶卡过期
+    url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/
 ---
+
+<div class="content-meta"><span>最近核查：2026 年 7 月 31 日</span><span>主要来源：IRCC / Canada.ca</span><span>独立发布方：Rho Technologies Ltd.</span></div>
+
+<div class="direct-answer"><h2>枫叶卡过期是否等于失去永久居民身份？</h2><p><strong>不是。</strong>IRCC 明确说明，卡片过期本身不会终止 PR 身份。如果人在加拿大境外并准备乘商业交通工具返加，应先核对当前 PRTD 办理路径。</p></div>
 
 <section class="story-panel"><p class="story-kicker">值机柜台前的问题</p><h2>卡过期了，但身份与登机证件是两个问题。</h2><p>Daniel 在回程值机时才发现有效期已经过去。此时最有用的动作不是猜测身份是否消失，而是分开整理三件事：永久居民身份证明、返加需要的旅行证件、以及用于居住义务审查的旅行历史。</p></section>
 

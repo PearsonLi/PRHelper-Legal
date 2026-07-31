@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-trav
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 schema_type: article
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 faq_items:
   - q: 完全记不起准确日期怎么办？
     a: 先把日期标记为待核验，比较多份独立记录，不要用没有证据的猜测填补空白。
@@ -29,6 +29,10 @@ breadcrumb_items:
   - name: 缺失旅行日期
     url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
 ---
+
+<div class="content-meta"><span>最近核查：2026 年 7 月 31 日</span><span>来源：CBSA 与 IRCC 当前指引</span><span>独立规划指南</span></div>
+
+<div class="direct-answer"><h2>完全记不起准确旅行日期怎么办？</h2><p>不要把不确定日期写成肯定答案。先标记缺口，用多份独立记录交叉核对，并保留最终采用日期的来源。</p></div>
 
 <h2>真正的问题是不确定，而不是记性差</h2>
 <p>旅行史出现空白时，人很容易填一个“看起来差不多”的日期。更可靠的做法，是把确定日期、待核验日期和支持证据分开保存，直到证据足以关闭这个缺口。</p>
@@ -59,6 +63,6 @@ breadcrumb_items:
 
 <p><strong>官方起点：</strong><a href="https://www.cbsa-asfc.gc.ca/agency-agence/reports-rapports/pia-efvp/atip-aiprp/infosource-eng.html" target="_blank" rel="noopener noreferrer">CBSA 信息来源与旅行历史记录说明</a>。</p>
 
-<div class="conversion-strip"><div><h2>把恢复后的日期放进持续维护的时间线</h2><p>CanResidency 帮助你边核验边记录旅行，并持续查看滚动的 PR 与入籍进度，避免下次再次依赖记忆重建。</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">下载 CanResidency</a><small>独立规划工具 · 不能替代官方记录</small></div></div>
+<div class="conversion-strip"><div><h2>把恢复后的日期放进持续维护的时间线</h2><p>CanResidency 帮助你边核验边记录旅行，并持续查看滚动的 PR 与入籍进度，避免下次再次依赖记忆重建。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="missing_dates_start_free" data-funnel-experiment="missing_dates_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已恢复行程</a><small>独立规划工具 · 不能替代官方记录</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">建立持续维护的旅行日志</a> · <a href="/PRHelper-Legal/zh/topics/frequent-border-trips/">频繁过境记录方法</a> · <a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">枫叶卡续卡清单</a></p>

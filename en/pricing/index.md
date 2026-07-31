@@ -14,6 +14,7 @@ seo_keywords: CanResidency pricing, monthly subscription, pro lifetime, family l
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
+last_updated: 2026-07-31
 ---
 
 <div class="card-grid">
@@ -39,11 +40,18 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
   </section>
 </div>
 
+<h2>Choose the smallest plan that removes the block</h2>
+<div class="card-grid">
+  <section class="plan-card"><h3>My 11th trip is blocked</h3><p>Compare Monthly with Pro Lifetime based on whether the need is short-term or ongoing.</p></section>
+  <section class="plan-card"><h3>I need one export or planning period</h3><p>Monthly is the flexible route when the advanced task is temporary.</p></section>
+  <section class="plan-card"><h3>A second person needs a separate timeline</h3><p>Compare temporary Monthly access with permanent Family access.</p></section>
+</div>
+
 <h2>Start with the record, then choose</h2>
 
 <p>You do not need to decide before you know whether the workflow fits. The free version supports up to 10 trip records, so you can enter a real journey, review the timeline, and see whether ongoing tracking solves the problem you have.</p>
 
-<div class="conversion-strip"><div><h2>Make one real trip your test</h2><p>Download the app, add a recent exit and return, then compare the result with your own records. Upgrade only when you need more trips, advanced planning, exports, or family-member management.</p></div><div class="conversion-actions"><a class="btn btn-primary" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start free on the App Store</a><small>No account required to evaluate the basic workflow · Final prices are shown by Apple</small></div></div>
+<div class="conversion-strip"><div><h2>Make one real trip your test</h2><p>Download the app, add a recent exit and return, then compare the result with your own records. Upgrade only when a specific task is blocked.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="pricing_test_then_choose" data-funnel-experiment="pricing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Test free, then review plans</a><small>No account required to evaluate the basic workflow · Final prices are shown by Apple</small></div></div>
 
 <h2>Common purchase questions</h2>
 

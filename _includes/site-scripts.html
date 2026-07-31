@@ -24,6 +24,29 @@
     }
   }
 
+  function identifyAIPlatform(value) {
+    var source = (value || '').toLowerCase();
+    var platforms = [
+      { match: ['chatgpt.com', 'chat.openai.com', 'openai.com'], name: 'chatgpt' },
+      { match: ['perplexity.ai'], name: 'perplexity' },
+      { match: ['gemini.google.com', 'bard.google.com'], name: 'gemini' },
+      { match: ['copilot.microsoft.com'], name: 'microsoft_copilot' },
+      { match: ['claude.ai'], name: 'claude' },
+      { match: ['qianwen', 'tongyi', 'qwen', 'quark.cn'], name: 'qianwen_quark' },
+      { match: ['doubao.com', 'doubao.cn'], name: 'doubao' },
+      { match: ['deepseek.com'], name: 'deepseek' },
+      { match: ['yuanbao.tencent.com'], name: 'tencent_yuanbao' },
+      { match: ['yiyan.baidu.com', 'wenxiaoyan.com'], name: 'baidu_ernie' },
+      { match: ['kimi.com', 'moonshot.cn'], name: 'kimi' }
+    ];
+    for (var i = 0; i < platforms.length; i += 1) {
+      for (var j = 0; j < platforms[i].match.length; j += 1) {
+        if (source.indexOf(platforms[i].match[j]) !== -1) return platforms[i].name;
+      }
+    }
+    return '(not ai)';
+  }
+
   function readAttribution() {
     var existing = safeStorage(sessionStorage, 'get', ATTRIBUTION_KEY);
     if (existing) {
@@ -33,6 +56,7 @@
     var query = new URLSearchParams(window.location.search);
     var source = query.get('utm_source') || referrerHost();
     var medium = query.get('utm_medium') || (source === '(direct)' ? '(none)' : 'referral');
+    var aiPlatform = identifyAIPlatform(source + ' ' + referrerHost());
     var attribution = {
       traffic_source: source,
       traffic_medium: medium,
@@ -41,7 +65,9 @@
       traffic_term: query.get('utm_term') || '(not set)',
       referrer_host: referrerHost(),
       landing_path: window.location.pathname,
-      page_language: document.documentElement.lang || lang
+      page_language: document.documentElement.lang || lang,
+      traffic_channel: aiPlatform === '(not ai)' ? 'standard' : 'ai_referral',
+      ai_platform: aiPlatform
     };
     safeStorage(sessionStorage, 'set', ATTRIBUTION_KEY, JSON.stringify(attribution));
     if (!safeStorage(localStorage, 'get', FIRST_TOUCH_KEY)) {

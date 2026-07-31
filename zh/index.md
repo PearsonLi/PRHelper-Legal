@@ -47,6 +47,7 @@ last_updated: 2026-07-30
 
 <h2>从你现在遇到的问题开始</h2>
 <div class="guide-grid">
+  <a class="guide-card" href="/PRHelper-Legal/zh/answers/pr-card-renewal/"><small>直接答案</small><h3>加拿大枫叶卡怎么续卡？</h3><p>在一页中查看当前流程、申请时机、旅行记录要求和官方来源。</p><strong>查看有来源的直接答案 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/"><small>续卡准备</small><h3>枫叶卡续卡已经临近</h3><p>把旅行、地址、工作和护照资料整理成一条可核对的准备流程。</p><strong>打开续卡指南 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/missing-travel-dates/"><small>补齐记录</small><h3>有些出入境日期找不到了</h3><p>用护照、订票邮件、日历、照片和边境记录逐个关闭缺口，而不是悄悄猜日期。</p><strong>恢复缺失日期 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/frequent-border-trips/"><small>高频旅行</small><h3>加美往返越来越多</h3><p>为同日往返和高频过境建立固定流程，避免时间线最终无法核对。</p><strong>整理频繁过境记录 →</strong></a>

@@ -20,7 +20,15 @@
   {% endif %}
 {% endif %}
 
-{% if page.seo_noindex == true or is_version_legal %}
+{% assign is_non_search_page = false %}
+{% if page.url and page.url contains '/release/' %}
+  {% assign is_non_search_page = true %}
+{% endif %}
+{% if page.url and page.url contains '/legal/releases/' %}
+  {% assign is_non_search_page = true %}
+{% endif %}
+
+{% if page.seo_noindex == true or is_version_legal or is_non_search_page %}
   {% assign robots_value = 'noindex,follow' %}
 {% else %}
   {% assign robots_value = 'index,follow' %}
@@ -161,13 +169,31 @@
 {% endif %}
 
 {% if page.schema_type %}
+{% assign schema_value = page.schema_type %}
+{% if page.schema_type == 'article' %}
+  {% assign schema_value = 'Article' %}
+{% elsif page.schema_type == 'webpage' %}
+  {% assign schema_value = 'WebPage' %}
+{% endif %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{ page.schema_type | capitalize }}",
-  "name": "{{ page_title | default: site.title | strip_html | strip_newlines | escape }}",
+  "@type": "{{ schema_value }}",
+  "headline": "{{ page_title | default: site.title | strip_html | strip_newlines | escape }}",
+  "description": "{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}",
   "url": "{{ canonical_url }}",
-  "inLanguage": "{{ page.lang | default: site.lang | default: 'zh-CN' }}"
+  "mainEntityOfPage": "{{ canonical_url }}",
+  "inLanguage": "{{ page.lang | default: site.lang | default: 'zh-CN' }}",
+  {% if page.last_updated %}"dateModified": "{{ page.last_updated }}",{% endif %}
+  "author": {
+    "@type": "Organization",
+    "name": "Rho Technologies Ltd."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rho Technologies Ltd.",
+    "url": "{{ site.url }}{{ site.baseurl }}/"
+  }
 }
 </script>
 {% endif %}

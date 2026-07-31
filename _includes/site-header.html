@@ -28,6 +28,9 @@
       <a class="nav-link {% if page.nav_key == 'features' %}active{% endif %}" href="{{ lang_prefix | append: '/features/' | relative_url }}">
         <span class="lang-zh">功能</span><span class="lang-en">Features</span>
       </a>
+      <a class="nav-link {% if page.nav_key == 'answers' %}active{% endif %}" href="{{ lang_prefix | append: '/answers/' | relative_url }}">
+        <span class="lang-zh">答案</span><span class="lang-en">Answers</span>
+      </a>
       <a class="nav-link {% if page.nav_key == 'topics' %}active{% endif %}" href="{{ lang_prefix | append: '/topics/' | relative_url }}">
         <span class="lang-zh">指南</span><span class="lang-en">Guides</span>
       </a>
@@ -39,15 +42,6 @@
       </a>
       <a class="nav-link {% if page.nav_key == 'support' %}active{% endif %}" href="{{ lang_prefix | append: '/support/' | relative_url }}">
         <span class="lang-zh">支持</span><span class="lang-en">Support</span>
-      </a>
-      <a class="nav-link {% if page.nav_key == 'terms' %}active{% endif %}" href="{{ terms_link | relative_url }}">
-        <span class="lang-zh">条款</span><span class="lang-en">Terms</span>
-      </a>
-      <a class="nav-link {% if page.nav_key == 'privacy' %}active{% endif %}" href="{{ privacy_link | relative_url }}">
-        <span class="lang-zh">隐私</span><span class="lang-en">Privacy</span>
-      </a>
-      <a class="nav-link {% if page.nav_key == 'marketing' %}active{% endif %}" href="{{ lang_prefix | append: '/marketing/' | relative_url }}">
-        <span class="lang-zh">介绍</span><span class="lang-en">Marketing</span>
       </a>
     </nav>
     <div class="header-actions">

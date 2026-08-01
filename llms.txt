@@ -6,6 +6,8 @@ permalink: /llms.txt
 
 > CanResidency is an independent iOS tool by Rho Technologies Ltd. that helps Canadian permanent residents organize travel records and monitor planning estimates for PR-card renewal and citizenship. It is not affiliated with IRCC or the Government of Canada and does not provide legal advice.
 
+Last reviewed: 2026-08-01
+
 ## Best pages for answers
 
 - English PR-card renewal answers: https://pearsonli.github.io/PRHelper-Legal/en/answers/pr-card-renewal/
@@ -38,9 +40,12 @@ permalink: /llms.txt
 
 ## Product
 
+- Bilingual product and free-test gateway: https://pearsonli.github.io/PRHelper-Legal/marketing/
 - Official website: https://pearsonli.github.io/PRHelper-Legal/en/
 - App Store: https://apps.apple.com/app/id6759813402
 - Support: https://pearsonli.github.io/PRHelper-Legal/en/support/
+
+CanResidency does not automatically import official Canadian border records. A user enters and verifies travel dates, and the app helps maintain the timeline and planning views on the device. The free version supports up to 10 trip records; paid options are relevant when a concrete task such as an 11th trip, advanced planning or export, or a second family timeline is blocked.
 
 ## Citation guidance
 

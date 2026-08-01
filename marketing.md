@@ -71,6 +71,21 @@ faq_items:
   <div class="feature-card"><h3><span class="lang-zh">计划下一次旅行</span><span class="lang-en">Plan a future trip</span></h3><p><span class="lang-zh">订票前先查看计划离境对滚动窗口的影响。</span><span class="lang-en">Review how a planned absence affects the rolling window before booking.</span></p><p><a class="lang-zh" data-funnel-stage="download" data-funnel-action="developer_gateway_travel_intent_zh" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/zh/topics/travel-planning-impact/">打开旅行规划 →</a><a class="lang-en" data-funnel-stage="download" data-funnel-action="developer_gateway_travel_intent_en" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/en/topics/travel-planning-impact/">Open travel planning →</a></p></div>
 </div>
 
+<div class="conversion-strip">
+  <div><h2><span class="lang-zh">已经知道自己的任务？</span><span class="lang-en">Know which job you need to finish?</span></h2><p><span class="lang-zh">不必先读完所有指南。下载后只录入一段能核实的离境和返加日期。</span><span class="lang-en">You do not need to read every guide first. Download and enter one exit and return you can verify.</span></p></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="developer_gateway_after_intent" data-funnel-experiment="developer_gateway_placement_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">继续免费测试一段行程</span><span class="lang-en">Continue with one free trip</span></a><small><span class="lang-zh">最多10条记录 · 无需先选择方案</span><span class="lang-en">Up to 10 records · No plan choice first</span></small></div>
+</div>
+
+<h2><span class="lang-zh">开始前准备度检查</span><span class="lang-en">Ready for the first record?</span></h2>
+<div class="readiness-checklist">
+  <label><input type="checkbox" data-readiness-check="exit" /> <span class="lang-zh">我有一次离境日期或明确的“不确定”标记</span><span class="lang-en">I have one exit date or a clear “uncertain” marker</span></label>
+  <label><input type="checkbox" data-readiness-check="return" /> <span class="lang-zh">我有对应返加日期或待核实标记</span><span class="lang-en">I have the return date or a marker to verify it</span></label>
+  <label><input type="checkbox" data-readiness-check="source" /> <span class="lang-zh">我知道用哪份邮件、护照章、日历或记录核对</span><span class="lang-en">I know which email, stamp, calendar or record to check</span></label>
+</div>
+<p class="readiness-status" data-readiness-status><span class="lang-zh">三项都勾选后，就可以开始一条可复核的记录。</span><span class="lang-en">When all three are checked, you are ready to start one reviewable record.</span></p>
+<p><a class="btn" data-reminder-days="7" data-funnel-stage="retention" data-funnel-action="developer_gateway_day7_reminder" data-funnel-experiment="developer_gateway_activation_v1" href="#"><span class="lang-zh">添加私密的第7天复查提醒</span><span class="lang-en">Add a private day-7 review reminder</span></a></p>
+<p><span class="lang-zh">第一次记录卡住了？</span><span class="lang-en">Stuck before the first record?</span> <a data-funnel-stage="activation" data-funnel-action="developer_gateway_activation_rescue" data-funnel-experiment="developer_gateway_activation_v1" href="mailto:pearson@rhotechnologies.ca?subject=CanResidency%20first-record%20feedback&amp;body=The%20step%20where%20I%20got%20stuck%3A%20"><span class="lang-zh">只告诉我们卡在哪一步 →</span><span class="lang-en">Tell us the one blocked step →</span></a></p>
+
 <div class="callout">
   <strong><span class="lang-zh">关于数据与准确性</span><span class="lang-en">About data and accuracy</span></strong><br />
   <span class="lang-zh">CanResidency 不会声称自动导入你的官方边境记录。你录入并核实日期，App 在设备上帮助维护时间线和规划视图；提交申请前请使用当时有效的 IRCC 官方工具。</span>

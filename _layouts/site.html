@@ -16,9 +16,9 @@
 
     <aside class="mobile-trip-cta" data-mobile-trip-cta aria-label="CanResidency free trip test">
       <button type="button" class="mobile-trip-cta-close" data-mobile-trip-cta-close aria-label="Dismiss">×</button>
-      <span class="lang-zh"><strong>先免费核实一段行程</strong><small>最多10条旅行记录</small></span>
-      <span class="lang-en"><strong>Verify one trip free</strong><small>Up to 10 trip records</small></span>
-      <a data-funnel-stage="download" data-funnel-action="mobile_sticky_start_one_trip" data-funnel-experiment="mobile_sticky_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">打开 App Store</span><span class="lang-en">Open App Store</span></a>
+      <span class="lang-zh"><strong>{% if page.url == '/marketing/' %}续卡前先核实一段行程{% else %}先免费核实一段行程{% endif %}</strong><small>最多10条旅行记录</small></span>
+      <span class="lang-en"><strong>{% if page.url == '/marketing/' %}Verify one trip before renewal{% else %}Verify one trip free{% endif %}</strong><small>Up to 10 trip records</small></span>
+      <a data-funnel-stage="download" data-funnel-action="{% if page.url == '/marketing/' %}developer_gateway_mobile_sticky{% else %}mobile_sticky_start_one_trip{% endif %}" data-funnel-experiment="{% if page.url == '/marketing/' %}developer_gateway_mobile_v1{% else %}mobile_sticky_v1{% endif %}" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">打开 App Store</span><span class="lang-en">Open App Store</span></a>
     </aside>
 
     {% include site-footer.html %}

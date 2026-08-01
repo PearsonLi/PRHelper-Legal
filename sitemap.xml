@@ -27,7 +27,7 @@ layout: null
   {% if p.url == '/terms/' or p.url == '/privacy/' %}
     {% assign skip_page = true %}
   {% endif %}
-  {% if p.url == '/features/' or p.url == '/pricing/' or p.url == '/faq/' or p.url == '/support/' or p.url == '/marketing/' or p.url == '/topics/' %}
+  {% if p.url == '/features/' or p.url == '/pricing/' or p.url == '/faq/' or p.url == '/support/' or p.url == '/topics/' %}
     {% assign skip_page = true %}
   {% endif %}
   {% if p.url == '/robots.txt' or p.url == '/sitemap.xml' or p.url == '/llms.txt' %}

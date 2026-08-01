@@ -16,6 +16,15 @@ seo_description: Prepare a Canada PR card renewal travel timeline with CanReside
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/marketing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
+faq_items:
+  - q: Can I test CanResidency before paying?
+    a: Yes. The free version supports up to 10 trip records, so you can test the core travel-timeline workflow with verified dates before choosing a paid plan.
+  - q: Does CanResidency automatically import official Canadian border records?
+    a: No. You enter and verify travel dates using records available to you; CanResidency helps maintain and review the timeline on your device.
+  - q: When might a paid CanResidency plan be useful?
+    a: Compare plans when a specific task is blocked, such as adding an 11th trip, using advanced planning or export, or maintaining a separate family-member timeline.
+  - q: Is CanResidency affiliated with IRCC?
+    a: No. CanResidency is an independent planning and record-organizing app. Use current IRCC instructions and official tools before filing.
 ---
 
 <div class="callout">
@@ -24,6 +33,12 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
   <span class="lang-en">Find your most recent exit and return dates, then verify them with an email, passport stamp, calendar or available border record.</span>
   <a data-funnel-stage="download" data-funnel-action="developer_gateway_starter_zh" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/zh/getting-started/">中文 15 分钟流程</a> · <a data-funnel-stage="download" data-funnel-action="developer_gateway_starter_en" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/en/getting-started/">15-minute English workflow</a>
 </div>
+
+<h2><span class="lang-zh">下载前常见问题</span><span class="lang-en">Questions before downloading</span></h2>
+<details class="faq-item"><summary><span class="lang-zh">可以先免费测试吗？</span><span class="lang-en">Can I test CanResidency before paying?</span></summary><p><span class="lang-zh">可以。免费版最多支持 10 条旅行记录，可先用已核实日期测试核心流程。</span><span class="lang-en">Yes. The free version supports up to 10 trip records, so you can test the core workflow with verified dates.</span></p></details>
+<details class="faq-item"><summary><span class="lang-zh">会自动导入加拿大官方边境记录吗？</span><span class="lang-en">Does it automatically import official Canadian border records?</span></summary><p><span class="lang-zh">不会。你使用可取得的材料录入并核实日期，CanResidency 在设备上帮助维护和检查时间线。</span><span class="lang-en">No. You enter and verify dates using records available to you; CanResidency helps maintain and review the timeline on your device.</span></p></details>
+<details class="faq-item"><summary><span class="lang-zh">什么时候可能需要付费方案？</span><span class="lang-en">When might a paid plan be useful?</span></summary><p><span class="lang-zh">当第 11 条旅行、规划或导出任务，或第二位家庭成员的独立时间线受到限制时，再比较方案。</span><span class="lang-en">Compare plans when a specific task is blocked: an 11th trip, advanced planning or export, or a second family-member timeline.</span></p></details>
+<details class="faq-item"><summary><span class="lang-zh">CanResidency 与 IRCC 有关联吗？</span><span class="lang-en">Is CanResidency affiliated with IRCC?</span></summary><p><span class="lang-zh">没有。它是独立的记录和规划 App；提交申请前应使用当前 IRCC 指引与官方工具。</span><span class="lang-en">No. It is an independent record and planning app; use current IRCC instructions and official tools before filing.</span></p></details>
 
 <div class="app-store-cta">
   <div class="app-store-cta-title"><span class="lang-zh">iOS 下载</span><span class="lang-en">Download on App Store</span></div>

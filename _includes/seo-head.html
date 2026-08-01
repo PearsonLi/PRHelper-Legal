@@ -42,6 +42,7 @@
 <meta name="robots" content="{{ robots_value }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="theme-color" content="#0f172a" />
+<meta name="apple-itunes-app" content="app-id=6759813402, app-argument=https://apps.apple.com/app/id6759813402" />
 <link rel="canonical" href="{{ canonical_url }}" />
 {% if site.google_site_verification and site.google_site_verification != '' %}
 <meta name="google-site-verification" content="{{ site.google_site_verification | escape }}" />
@@ -107,11 +108,27 @@
     },
     {
       "@type": "SoftwareApplication",
-      "name": "CanResidency（枫叶卡管家）",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#softwareapplication",
+      "name": "CanResidency: Canada PR & IRCC",
+      "alternateName": ["CanResidency", "枫叶卡管家"],
       "applicationCategory": "UtilitiesApplication",
+      "applicationSubCategory": "Canadian residency and travel record planner",
       "operatingSystem": "iOS",
       "url": "{{ site.url }}{{ site.baseurl }}/",
       "downloadUrl": "https://apps.apple.com/app/id6759813402",
+      "sameAs": ["https://apps.apple.com/app/id6759813402"],
+      "image": "{{ og_image_url }}",
+      "featureList": [
+        "Canadian permanent resident travel record tracking",
+        "730-day residency obligation planning",
+        "1,095-day citizenship physical presence planning",
+        "Family member timelines",
+        "Local-first data storage"
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Canadian permanent residents and citizenship applicants"
+      },
       "publisher": {
         "@type": "Organization",
         "name": "Rho Technologies Ltd."
@@ -127,6 +144,28 @@
   ]
 }
 </script>
+
+{% if page.howto_steps %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "{{ page.howto_name | default: page_title | strip_html | strip_newlines | escape }}",
+  "description": "{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}",
+  "totalTime": "PT15M",
+  "step": [
+    {% for step in page.howto_steps %}
+    {
+      "@type": "HowToStep",
+      "position": {{ forloop.index }},
+      "name": "{{ step.name | strip_html | strip_newlines | escape }}",
+      "text": "{{ step.text | strip_html | strip_newlines | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 
 {% if page.faq_items %}
 <script type="application/ld+json">

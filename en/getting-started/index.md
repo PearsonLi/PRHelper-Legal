@@ -14,7 +14,19 @@ seo_keywords: CanResidency free, Canada PR travel tracker, first 10 trip records
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
-last_updated: 2026-07-31
+last_updated: 2026-08-01
+howto_name: Verify your first CanResidency trip record
+howto_steps:
+  - name: Set the planning context
+    text: Add your current status and the date you want to evaluate.
+  - name: Choose one trustworthy trip
+    text: Select a recent exit and return you can confirm from a booking, passport or calendar.
+  - name: Record the source
+    text: Keep the source beside each date and leave uncertain dates visibly marked.
+  - name: Review separate timelines
+    text: Review permanent resident and citizenship timelines separately.
+  - name: Return after seven days
+    text: Resolve one uncertainty with an additional source before adding more history.
 ---
 
 <section class="story-panel"><p class="story-kicker">A useful first session</p><h2>Do not start by rebuilding five years.</h2><p>Start with the trip you remember best. Enter the exit, the return and the source that confirms each date. Once one record is trustworthy, add the next nine.</p></section>
@@ -27,6 +39,14 @@ last_updated: 2026-07-31
   <li>Review the PR and citizenship timelines separately.</li>
   <li>Keep uncertain dates flagged until another source confirms them.</li>
 </ol>
+
+<div class="readiness-checklist" aria-labelledby="first-trip-readiness-en">
+  <h3 id="first-trip-readiness-en">Is one real trip ready to test?</h3>
+  <label><input type="checkbox" data-readiness-check /> I have one exit date from a source I can reopen.</label>
+  <label><input type="checkbox" data-readiness-check /> I have the matching return date or have marked it uncertain.</label>
+  <label><input type="checkbox" data-readiness-check /> I know which email, passport page or calendar entry supports the record.</label>
+  <p class="readiness-status" data-readiness-status>If all three are checked, this is a useful first record—not a five-year reconstruction.</p>
+</div>
 
 <h2>Your free-version success test</h2>
 <p>The workflow succeeds if you can answer three questions: Which dates are verified? Which trips remain uncertain? What should you maintain after the next return to Canada? Upgrade only when you need more than 10 records, advanced planning, exports or family-member management.</p>
@@ -44,6 +64,7 @@ last_updated: 2026-07-31
 <h2>Your seven-day activation check</h2>
 <p>Return after seven days and answer four yes-or-no questions: Is at least one trip verified from a real source? Is every uncertain date still visibly marked? Can you explain the next date that matters? Did you record any new return while it was fresh? If fewer than three answers are “yes,” repair the record before considering an upgrade.</p>
 <p><a data-funnel-stage="activation" data-funnel-action="day7_check_open_journal" data-funnel-experiment="activation_en_v1" href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Open the travel-journal checklist →</a></p>
+<p><a class="btn" data-reminder-days="7" data-funnel-stage="retention" data-funnel-action="create_day7_record_reminder" data-funnel-experiment="day7_reminder_en_v1" href="#">Add a private Day-7 calendar reminder</a></p>
 
 <div class="conversion-strip"><div><h2>Make the first record real</h2><p>Use a trip you can verify today. Downloading does not require you to choose a paid plan: the first 10 trip records are available to test the workflow.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="starter_begin_10_records" data-funnel-experiment="starter_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the 10-record test free</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
 

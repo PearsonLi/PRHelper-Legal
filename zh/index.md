@@ -20,7 +20,7 @@ seo_keywords: 加拿大移民,永居,枫叶卡,730天,入籍1095天,居留计算
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
-last_updated: 2026-07-31
+last_updated: 2026-08-01
 ---
 
 <section class="story-panel">
@@ -29,6 +29,11 @@ last_updated: 2026-07-31
   <p>想象一下：晚上 11:42，Maya 把护照、旧日历和邮箱同时打开。枫叶卡续卡不再是一个遥远的日期——一次去 Buffalo 的周末找不到了，两张机票的日期又对不上。真正让人焦虑的并不是记住“730 天”，而是重新拼出这个数字背后的完整记录。</p>
   <a class="btn" data-funnel-stage="download" data-funnel-action="home_story_start_verified_trip" data-funnel-experiment="home_story_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已核实行程</a>
 </section>
+
+<div class="direct-answer">
+  <h2>CanResidency（枫叶卡管家）是什么？</h2>
+  <p><strong>CanResidency 是一款用于整理加拿大 PR 与入籍旅行记录的独立 iPhone App。</strong>它把出入境日期、滚动的 PR 730 天规划、入籍 1095 天规划和家庭成员独立时间线放在一起；它不会代交申请、判定法律身份，也不能替代 IRCC 当前指引。</p>
+</div>
 
 <div class="kpi-grid">
   <div class="kpi-card">

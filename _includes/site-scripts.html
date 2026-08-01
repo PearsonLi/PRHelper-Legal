@@ -77,6 +77,8 @@
   }
 
   var attribution = readAttribution();
+  var pageStartedAt = Date.now();
+  var maxScrollQuartile = 0;
 
   function track(eventName, params) {
     try {
@@ -86,6 +88,25 @@
       }
     } catch (e) {}
   }
+
+  window.setTimeout(function () {
+    track('engaged_30_seconds', {
+      page_path: window.location.pathname,
+      engagement_seconds: 30
+    });
+  }, 30000);
+
+  function recordScrollQuartile() {
+    var available = document.documentElement.scrollHeight - window.innerHeight;
+    if (available <= 0) return;
+    var percent = Math.round((window.scrollY / available) * 100);
+    var quartile = percent >= 75 ? 75 : (percent >= 50 ? 50 : (percent >= 25 ? 25 : 0));
+    if (quartile > maxScrollQuartile) {
+      maxScrollQuartile = quartile;
+      track('content_depth', { page_path: window.location.pathname, scroll_percent: quartile });
+    }
+  }
+  window.addEventListener('scroll', recordScrollQuartile, { passive: true });
 
   function oldPathToLangPath(pathname, targetLang) {
     var map = {
@@ -236,6 +257,32 @@
     var linkUrl = link.href || link.getAttribute('href') || '';
     var funnelAction = link.getAttribute('data-funnel-action');
 
+    if (link.hasAttribute('data-reminder-days')) {
+      event.preventDefault();
+      var reminderDays = parseInt(link.getAttribute('data-reminder-days'), 10) || 7;
+      var reminderDate = new Date();
+      reminderDate.setDate(reminderDate.getDate() + reminderDays);
+      var stamp = reminderDate.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z');
+      var isZh = document.documentElement.lang.toLowerCase().indexOf('zh') === 0;
+      var title = isZh ? 'CanResidency：复查一段旅行记录' : 'CanResidency: review one verified trip';
+      var description = isZh ? '核对一段旅行的离境、返回和证据来源；不确定日期继续标记。' : 'Review one trip’s exit, return, and source. Keep uncertain dates marked.';
+      var calendar = ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//CanResidency//Activation Reminder//EN','BEGIN:VEVENT','UID:' + Date.now() + '@canresidency','DTSTAMP:' + new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z'),'DTSTART:' + stamp,'SUMMARY:' + title,'DESCRIPTION:' + description,'END:VEVENT','END:VCALENDAR'].join('\r\n');
+      var calendarUrl = URL.createObjectURL(new Blob([calendar], { type: 'text/calendar;charset=utf-8' }));
+      var downloadLink = document.createElement('a');
+      downloadLink.href = calendarUrl;
+      downloadLink.download = 'canresidency-day-' + reminderDays + '-check.ics';
+      downloadLink.click();
+      URL.revokeObjectURL(calendarUrl);
+      track('activation_reminder_created', { reminder_days: reminderDays, page_path: window.location.pathname });
+      track('funnel_action', {
+        funnel_stage: link.getAttribute('data-funnel-stage') || 'retention',
+        funnel_action: funnelAction || 'create_activation_reminder',
+        funnel_experiment: link.getAttribute('data-funnel-experiment') || '(not set)',
+        source_path: window.location.pathname
+      });
+      return;
+    }
+
     if (funnelAction) {
       track('funnel_action', {
         funnel_stage: link.getAttribute('data-funnel-stage') || '(not set)',
@@ -275,7 +322,9 @@
         link_url: linkUrl,
         link_position: linkPosition,
         source_path: window.location.pathname,
-        page_title: document.title
+        page_title: document.title,
+        seconds_before_click: Math.round((Date.now() - pageStartedAt) / 1000),
+        max_scroll_percent: maxScrollQuartile
       });
       return;
     }
@@ -303,5 +352,25 @@
     var label = details.getAttribute('data-faq-id') || 'unknown';
     track('faq_expand', { faq_id: label, page_path: window.location.pathname });
   }, true);
+
+  var readinessChecks = Array.prototype.slice.call(document.querySelectorAll('[data-readiness-check]'));
+  readinessChecks.forEach(function (check) {
+    check.addEventListener('change', function () {
+      var checked = readinessChecks.filter(function (item) { return item.checked; }).length;
+      track('readiness_check', { checked_count: checked, total_count: readinessChecks.length, page_path: window.location.pathname });
+      var status = document.querySelector('[data-readiness-status]');
+      if (status) status.setAttribute('data-complete', checked === readinessChecks.length ? 'true' : 'false');
+      if (checked === readinessChecks.length) track('readiness_complete', { page_path: window.location.pathname });
+    });
+  });
+
+  var sticky = document.querySelector('[data-mobile-trip-cta]');
+  var stickyClose = document.querySelector('[data-mobile-trip-cta-close]');
+  if (sticky && stickyClose) {
+    stickyClose.addEventListener('click', function () {
+      sticky.hidden = true;
+      track('mobile_sticky_dismiss', { page_path: window.location.pathname });
+    });
+  }
 })();
 </script>

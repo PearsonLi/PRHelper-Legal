@@ -14,7 +14,7 @@ seo_keywords: CanResidency升级,CanResidency Pro,家庭版,枫叶卡管家价�
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/upgrade-guide/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/upgrade-guide/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/upgrade-guide/
-last_updated: 2026-07-30
+last_updated: 2026-08-01
 ---
 
 <h2>基础记录已经够用，就继续使用免费版</h2>
@@ -33,6 +33,13 @@ last_updated: 2026-07-30
 <h2>先定义付费后的第一个结果</h2>
 <p>升级前先写下要立即完成的一件事：添加第 11 条已核实行程、测试一次未来离境、导出一份复核文件，或为一位家人建立独立记录。七天后复查；如果仍未完成，应先使用支持清单，而不是继续更换方案。</p>
 <p><a data-funnel-stage="paid" data-funnel-action="upgrade_define_first_outcome" data-funnel-experiment="upgrade_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内查看刚好匹配的方案 →</a></p>
+
+<h3>打开购买页面前，先选择要完成的结果</h3>
+<div class="guide-grid">
+  <a class="guide-card" data-funnel-stage="paid" data-funnel-action="paid_outcome_add_trip_11" data-funnel-experiment="paid_outcome_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><small>容量</small><h3>添加第11条已核实行程</h3><p>真正阻碍下一步的是记录数量限制，而不是对功能的好奇。</p><strong>打开匹配方案 →</strong></a>
+  <a class="guide-card" data-funnel-stage="paid" data-funnel-action="paid_outcome_export_review" data-funnel-experiment="paid_outcome_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><small>复核</small><h3>生成一份复核导出</h3><p>现在已经有一项具体的记录复核任务需要完成。</p><strong>打开匹配方案 →</strong></a>
+  <a class="guide-card" data-funnel-stage="paid" data-funnel-action="paid_outcome_family_timeline" data-funnel-experiment="paid_outcome_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><small>家庭</small><h3>创建第二条独立时间线</h3><p>另一位成员需要不同的日期与身份设置。</p><strong>打开匹配方案 →</strong></a>
+</div>
 
 <h2>只有任务变化时，才重新考虑方案</h2>
 <p>如果免费验证后暂时停用，出现以下信号再回来：需要第 11 条旅行、需要模拟续卡或入籍日期、需要保存导出，或者第二位家庭成员拥有不同时间线。只选择能够解除这个具体限制的最小方案，不要因为时间过去了就付费。</p>

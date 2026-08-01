@@ -20,7 +20,7 @@ seo_keywords: Canada PR, PR card renewal, 730 days, citizenship 1095 days, resid
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
-last_updated: 2026-07-31
+last_updated: 2026-08-01
 ---
 
 <section class="story-panel">
@@ -29,6 +29,11 @@ last_updated: 2026-07-31
   <p>Picture Maya at 11:42 p.m., passport open beside an old calendar. Her PR-card renewal is no longer abstract: a Buffalo weekend is missing, two flights have conflicting dates, and memory is doing work it was never built to do. The difficult part was not remembering “730 days.” It was rebuilding the record behind the number.</p>
   <a class="btn" data-funnel-stage="download" data-funnel-action="home_story_start_verified_trip" data-funnel-experiment="home_story_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start one verified trip free</a>
 </section>
+
+<div class="direct-answer">
+  <h2>What is CanResidency?</h2>
+  <p><strong>CanResidency is an independent iPhone app for organizing Canadian PR and citizenship travel records.</strong> It keeps trip dates, rolling 730-day PR planning, 1,095-day citizenship planning and separate family timelines together. It does not file an application, determine legal status or replace current IRCC instructions.</p>
+</div>
 
 <div class="kpi-grid">
   <div class="kpi-card">

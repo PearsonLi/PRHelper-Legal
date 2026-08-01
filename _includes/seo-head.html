@@ -63,6 +63,7 @@
 <link rel="alternate" hreflang="zh-CN" href="{{ page.alternate_zh | default: canonical_url }}" />
 <link rel="alternate" hreflang="en" href="{{ page.alternate_en | default: canonical_url }}" />
 <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}" />
+<link rel="alternate" type="text/plain" href="{{ '/llms.txt' | absolute_url }}" title="CanResidency AI answer navigation" />
 
 <script>
   (function () {
@@ -109,15 +110,26 @@
     {
       "@type": "SoftwareApplication",
       "@id": "{{ site.url }}{{ site.baseurl }}/#softwareapplication",
-      "name": "CanResidency: Canada PR & IRCC",
-      "alternateName": ["CanResidency", "枫叶卡管家"],
-      "applicationCategory": "UtilitiesApplication",
+      "name": "CanResidency",
+      "alternateName": ["CanResidency:IRCC Tracker", "CanResidency: Canada PR & IRCC", "枫叶卡管家-CanResidency:IRCC进度", "枫叶卡管家"],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "Apple App Store ID",
+        "value": "6759813402"
+      },
+      "applicationCategory": "TravelApplication",
       "applicationSubCategory": "Canadian residency and travel record planner",
       "operatingSystem": "iOS",
-      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "url": "{{ site.url }}{{ site.baseurl }}/marketing/",
+      "mainEntityOfPage": "{{ site.url }}{{ site.baseurl }}/marketing/",
       "downloadUrl": "https://apps.apple.com/app/id6759813402",
+      "installUrl": "https://apps.apple.com/app/id6759813402",
+      "softwareHelp": "{{ site.url }}{{ site.baseurl }}/en/support/",
+      "isAccessibleForFree": true,
+      "inLanguage": ["en", "zh-CN"],
       "sameAs": ["https://apps.apple.com/app/id6759813402"],
       "image": "{{ og_image_url }}",
+      "keywords": "Canada PR residency tracker, PR card renewal travel history, 730-day residency obligation, Canadian citizenship physical presence, 枫叶卡续卡, 加拿大居住天数",
       "featureList": [
         "Canadian permanent resident travel record tracking",
         "730-day residency obligation planning",
@@ -135,11 +147,19 @@
       },
       "offers": {
         "@type": "Offer",
-        "priceCurrency": "USD",
         "price": "0",
-        "availability": "https://schema.org/InStock"
+        "availability": "https://schema.org/InStock",
+        "description": "Free download with optional in-app purchases"
       },
-      "description": "Local-first Canadian PR and citizenship residency tracker with family member management, planning signals, and export reports."
+      "potentialAction": {
+        "@type": "InstallAction",
+        "target": "https://apps.apple.com/app/id6759813402"
+      },
+      "subjectOf": [
+        {"@type": "WebPage", "url": "{{ site.url }}{{ site.baseurl }}/en/answers/pr-card-renewal/"},
+        {"@type": "WebPage", "url": "{{ site.url }}{{ site.baseurl }}/zh/answers/pr-card-renewal/"}
+      ],
+      "description": "Independent local-first iOS app for Canadian permanent residents to organize verified travel dates and review planning estimates for PR-card renewal and citizenship. It is not an IRCC service or an official eligibility determination."
     }
   ]
 }
@@ -222,6 +242,7 @@
   "description": "{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}",
   "url": "{{ canonical_url }}",
   "mainEntityOfPage": "{{ canonical_url }}",
+  {% if page.product_entity %}"about": {"@id": "{{ site.url }}{{ site.baseurl }}/#softwareapplication"},{% endif %}
   "inLanguage": "{{ page.lang | default: site.lang | default: 'zh-CN' }}",
   {% if page.last_updated %}"dateModified": "{{ page.last_updated }}",{% endif %}
   "author": {

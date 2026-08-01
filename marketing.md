@@ -1,41 +1,76 @@
 ---
-title: Marketing / 产品介绍
+title: CanResidency for Canada PR Card Renewal / 加拿大枫叶卡续卡旅行记录
 permalink: /marketing/
 layout: site
-hero_title_zh: 产品介绍
-hero_title_en: Product Overview
-hero_subtitle_zh: 以“家庭版 + 规划能力”为核心，帮助用户更清晰地管理保卡与入籍进度。
-hero_subtitle_en: Family-first planning for clear PR card and citizenship progress management.
-last_updated: 2026-03-20
+hero_title_zh: 续枫叶卡前，先把出入境日期整理清楚
+hero_title_en: Rebuild your travel timeline before PR card renewal
+hero_subtitle_zh: 从一段能核实的旅行开始，免费测试最多 10 条记录；不必先凭记忆重建五年。
+hero_subtitle_en: Start with one trip you can verify and test up to 10 records free—without rebuilding five years from memory first.
+last_updated: 2026-08-01
 nav_key: marketing
 cta_url: https://apps.apple.com/app/id6759813402
 cta_label_zh: 下载 App
 cta_label_en: Download App
-seo_title: CanResidency Marketing | 枫叶卡管家产品介绍
-seo_description: CanResidency 产品介绍：单引擎官方口径、旅行规划信号、临时居留折算、家庭管理、导出能力与本地优先隐私。
-seo_noindex: true
-canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
+seo_title: CanResidency | Canada PR Card Renewal Travel Record App
+seo_description: Prepare a Canada PR card renewal travel timeline with CanResidency. Test up to 10 verified trip records free, then upgrade only when a specific task requires it. 加拿大枫叶卡续卡旅行记录工具。
+canonical_url: https://pearsonli.github.io/PRHelper-Legal/marketing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
 ---
 
 <div class="callout">
-  <span class="lang-zh">稳定兼容入口：请优先使用语言页。</span>
-  <span class="lang-en">Stable compatibility entry: use language pages first.</span>
-  <a href="/PRHelper-Legal/zh/marketing/">中文</a> · <a href="/PRHelper-Legal/en/marketing/">English</a>
+  <strong><span class="lang-zh">先做一件具体的事：</span><span class="lang-en">Do one concrete thing first:</span></strong>
+  <span class="lang-zh">找到最近一次离境和返加日期，并用邮件、护照章、日历或可取得的边境记录核实。</span>
+  <span class="lang-en">Find your most recent exit and return dates, then verify them with an email, passport stamp, calendar or available border record.</span>
+  <a data-funnel-stage="download" data-funnel-action="developer_gateway_starter_zh" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/zh/getting-started/">中文 15 分钟流程</a> · <a data-funnel-stage="download" data-funnel-action="developer_gateway_starter_en" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/en/getting-started/">15-minute English workflow</a>
 </div>
 
 <div class="app-store-cta">
   <div class="app-store-cta-title"><span class="lang-zh">iOS 下载</span><span class="lang-en">Download on App Store</span></div>
   <div class="app-store-cta-body">
-    <a class="app-store-badge-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download CanResidency on the App Store">
+    <a class="app-store-badge-link" data-funnel-stage="download" data-funnel-action="developer_gateway_badge" data-funnel-experiment="developer_gateway_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Download CanResidency on the App Store">
       <img class="app-store-badge" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" />
     </a>
-    <a class="app-store-qr-link" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Scan QR to download on App Store">
+    <a class="app-store-qr-link" data-funnel-stage="download" data-funnel-action="developer_gateway_qr" data-funnel-experiment="developer_gateway_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer" aria-label="Scan QR to download on App Store">
       <img class="app-store-qr" src="/PRHelper-Legal/assets/app-store-qr.png" alt="App Store download QR code" />
       <span><span class="lang-zh">扫码下载</span><span class="lang-en">Scan QR</span></span>
     </a>
   </div>
+</div>
+
+<div class="conversion-strip">
+  <div>
+    <h2><span class="lang-zh">先免费验证一段真实行程</span><span class="lang-en">Test one real trip before paying</span></h2>
+    <p><span class="lang-zh">下载后录入一组已核实的离境与返加日期。免费版最多支持 10 条旅行记录，先确认这种记录方式是否适合你。</span><span class="lang-en">After downloading, enter one verified exit and return. The free version supports up to 10 trip records, so you can confirm the workflow fits before choosing a plan.</span></p>
+  </div>
+  <div class="conversion-actions">
+    <a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="developer_gateway_start_free" data-funnel-experiment="developer_gateway_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">免费记录一段已核实行程</span><span class="lang-en">Record one verified trip free</span></a>
+    <small><span class="lang-zh">无需账户 · 本地优先 · 独立工具</span><span class="lang-en">No account required · Local-first · Independent tool</span></small>
+  </div>
+</div>
+
+<h2><span class="lang-zh">你现在要完成哪项任务？</span><span class="lang-en">What are you trying to finish?</span></h2>
+<div class="feature-grid">
+  <div class="feature-card"><h3><span class="lang-zh">准备续枫叶卡</span><span class="lang-en">Prepare a PR card renewal</span></h3><p><span class="lang-zh">先看 730 天规则和旅行记录清单。</span><span class="lang-en">Start with the 730-day rule and the travel-record checklist.</span></p><p><a class="lang-zh" data-funnel-stage="download" data-funnel-action="developer_gateway_renewal_intent_zh" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/zh/answers/pr-card-renewal/">打开续卡路径 →</a><a class="lang-en" data-funnel-stage="download" data-funnel-action="developer_gateway_renewal_intent_en" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/en/answers/pr-card-renewal/">Open the renewal path →</a></p></div>
+  <div class="feature-card"><h3><span class="lang-zh">核对入籍时间</span><span class="lang-en">Review citizenship timing</span></h3><p><span class="lang-zh">了解 1095 天规则并保持同一份旅行时间线。</span><span class="lang-en">Review the 1,095-day rule and maintain the same travel timeline.</span></p><p><a class="lang-zh" data-funnel-stage="download" data-funnel-action="developer_gateway_citizenship_intent_zh" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/zh/topics/citizenship-1095-rule/">打开入籍路径 →</a><a class="lang-en" data-funnel-stage="download" data-funnel-action="developer_gateway_citizenship_intent_en" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/en/topics/citizenship-1095-rule/">Open the citizenship path →</a></p></div>
+  <div class="feature-card"><h3><span class="lang-zh">计划下一次旅行</span><span class="lang-en">Plan a future trip</span></h3><p><span class="lang-zh">订票前先查看计划离境对滚动窗口的影响。</span><span class="lang-en">Review how a planned absence affects the rolling window before booking.</span></p><p><a class="lang-zh" data-funnel-stage="download" data-funnel-action="developer_gateway_travel_intent_zh" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/zh/topics/travel-planning-impact/">打开旅行规划 →</a><a class="lang-en" data-funnel-stage="download" data-funnel-action="developer_gateway_travel_intent_en" data-funnel-experiment="developer_gateway_v1" href="/PRHelper-Legal/en/topics/travel-planning-impact/">Open travel planning →</a></p></div>
+</div>
+
+<div class="callout">
+  <strong><span class="lang-zh">关于数据与准确性</span><span class="lang-en">About data and accuracy</span></strong><br />
+  <span class="lang-zh">CanResidency 不会声称自动导入你的官方边境记录。你录入并核实日期，App 在设备上帮助维护时间线和规划视图；提交申请前请使用当时有效的 IRCC 官方工具。</span>
+  <span class="lang-en">CanResidency does not claim to import your official border history automatically. You enter and verify dates; the app helps maintain the timeline and planning view on your device. Use the current official IRCC tools before filing.</span>
+</div>
+
+<h2><span class="lang-zh">什么时候才需要考虑付费？</span><span class="lang-en">When should you consider a paid plan?</span></h2>
+<p><span class="lang-zh">只有具体任务被限制时再比较方案：添加第 11 条已核实行程、完成一次规划或导出任务，或为第二位家庭成员建立独立时间线。</span><span class="lang-en">Compare plans only when a concrete task is blocked: adding the 11th verified trip, completing a planning or export task, or creating a separate timeline for a second family member.</span></p>
+<p><a class="lang-zh" data-funnel-stage="paid" data-funnel-action="developer_gateway_compare_by_job_zh" data-funnel-experiment="developer_gateway_paid_v1" href="/PRHelper-Legal/zh/upgrade-guide/"><strong>按任务比较最小可用方案 →</strong></a><a class="lang-en" data-funnel-stage="paid" data-funnel-action="developer_gateway_compare_by_job_en" data-funnel-experiment="developer_gateway_paid_v1" href="/PRHelper-Legal/en/upgrade-guide/"><strong>Compare the smallest plan by job →</strong></a></p>
+
+<div class="callout">
+  <strong><span class="lang-zh">已经购买但未显示权益？</span><span class="lang-en">Already paid but access is missing?</span></strong><br />
+  <span class="lang-zh">不要重复购买。先用同一 Apple ID 恢复购买；仍未恢复时打开购买恢复清单。</span>
+  <span class="lang-en">Do not buy again blindly. Restore Purchases with the same Apple ID first; if access is still missing, open the purchase-recovery checklist.</span>
+  <a class="lang-zh" data-funnel-stage="paid" data-funnel-action="developer_gateway_purchase_recovery_zh" data-funnel-experiment="developer_gateway_paid_v1" href="/PRHelper-Legal/zh/support/">打开恢复与支持 →</a><a class="lang-en" data-funnel-stage="paid" data-funnel-action="developer_gateway_purchase_recovery_en" data-funnel-experiment="developer_gateway_paid_v1" href="/PRHelper-Legal/en/support/">Open recovery and support →</a>
 </div>
 
 <div class="feature-grid">

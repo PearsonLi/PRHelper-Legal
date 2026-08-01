@@ -14,7 +14,18 @@ seo_keywords: 枫叶卡管家 价格,月订阅,专业版,家庭版,RevenueCat
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
-last_updated: 2026-07-31
+last_updated: 2026-08-01
+faq_items:
+  - q: CanResidency 可以先体验再付费吗？
+    a: 可以。免费版最多支持10条旅行记录，可以先用真实日期验证核心流程。
+  - q: 月订阅和买断方案怎么选？
+    a: Monthly 适合短期灵活使用，Pro 买断适合永久个人使用，Family 买断增加永久多成员管理。
+  - q: 旅行记录会发送到开发者服务器吗？
+    a: 不会。数据默认本地保存，可选择使用 Apple 账户下的 iCloud 同步。
+  - q: 付费权限没有显示时需要重新买吗？
+    a: 不需要。先用购买时相同的 Apple ID 恢复购买，仍未恢复时使用购买恢复清单。
+  - q: 停止月订阅后会怎样？
+    a: 订阅期限和续订状态以 App 内 Apple 当前显示为准，买断产品是不同的购买项目。
 ---
 
 <div class="card-grid">
@@ -42,9 +53,9 @@ last_updated: 2026-07-31
 
 <h2>只选择能够解除当前限制的最小方案</h2>
 <div class="card-grid">
-  <section class="plan-card"><h3>第 11 条旅行无法继续录入</h3><p>根据需求是短期还是长期，在 Monthly 与 Pro 买断之间比较。</p></section>
-  <section class="plan-card"><h3>只在近期需要一次导出或规划</h3><p>进阶任务是临时需求时，Monthly 提供更灵活的路径。</p></section>
-  <section class="plan-card"><h3>第二位成员需要独立时间线</h3><p>比较临时使用 Monthly 与永久使用 Family 的差别。</p></section>
+  <section class="plan-card"><h3>第 11 条旅行无法继续录入</h3><p>根据需求是短期还是长期，在 Monthly 与 Pro 买断之间比较。</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_trip_11" data-funnel-experiment="pricing_jobs_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">查看容量方案 →</a></section>
+  <section class="plan-card"><h3>只在近期需要一次导出或规划</h3><p>进阶任务是临时需求时，Monthly 提供更灵活的路径。</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_export_plan" data-funnel-experiment="pricing_jobs_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">查看短期使用方案 →</a></section>
+  <section class="plan-card"><h3>第二位成员需要独立时间线</h3><p>比较临时使用 Monthly 与永久使用 Family 的差别。</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_second_member" data-funnel-experiment="pricing_jobs_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">查看家庭方案 →</a></section>
 </div>
 
 <h2>先用真实行程验证，再决定方案</h2>
@@ -58,6 +69,8 @@ last_updated: 2026-07-31
 <details class="faq-item" data-faq-id="pricing-free-first"><summary>可以先体验再付费吗？</summary><p>可以。免费版最多保存 10 条旅行记录，足以用真实日期验证核心记录流程。</p></details>
 <details class="faq-item" data-faq-id="pricing-monthly-or-lifetime"><summary>月订阅和买断应该怎么选？</summary><p>短期灵活使用 Pro + Family 可选 Monthly；长期个人使用可选 Pro 买断；需要永久管理多名家庭成员可选 Family 买断。</p></details>
 <details class="faq-item" data-faq-id="pricing-privacy"><summary>旅行记录会上传到开发者服务器吗？</summary><p>不会。数据默认本地保存，可选择使用你 Apple 账户下的 iCloud 同步。</p></details>
+<details class="faq-item" data-faq-id="pricing-restore"><summary>付费权限没有显示时需要重新买吗？</summary><p>不需要。先用购买时相同的 Apple ID 执行“恢复购买”；仍未恢复时保留 Apple 提示，并使用购买恢复清单。</p></details>
+<details class="faq-item" data-faq-id="pricing-cancel"><summary>停止月订阅后会怎样？</summary><p>订阅期限与续订状态以 App 内 Apple 当前显示为准；修改方案前先查看 Apple 订阅页面，买断产品与月订阅是不同购买项目。</p></details>
 
 <p><a href="/PRHelper-Legal/zh/getting-started/">使用免费 10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">按任务比较 Monthly、Pro 与 Family</a></p>
 

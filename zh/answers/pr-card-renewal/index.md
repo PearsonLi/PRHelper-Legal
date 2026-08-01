@@ -55,7 +55,7 @@ breadcrumb_items:
 <p>IRCC 说明，卡片到期本身不会终止永久居民身份，但过期卡不是有效旅行证件。如果人在加拿大境外、没有有效枫叶卡，并准备乘坐飞机、火车、巴士或船等商业交通工具返回，IRCC 通常要求永久居民使用永久居民旅行证件（PRTD）流程。枫叶卡申请本身不能在加拿大境外办理。</p>
 
 <h2>CanResidency 能做什么，不能做什么</h2>
-<p>CanResidency 可以帮助你保存结构化旅行时间线、查看规划估算，并在续卡变得紧急之前发现缺失或冲突的记录。它是 Rho Technologies Ltd. 开发的独立 iOS App，与 IRCC 无隶属关系；它不会代交申请，也不是官方法律结论或政府计算器。</p>
+<p><a data-funnel-stage="reach" data-funnel-action="renewal_answer_open_product_gateway" data-funnel-experiment="renewal_internal_discovery_v1" href="/PRHelper-Legal/marketing/">CanResidency</a> 可以帮助你保存结构化旅行时间线、查看规划估算，并在续卡变得紧急之前发现缺失或冲突的记录。它是 Rho Technologies Ltd. 开发的独立 iOS App，与 IRCC 无隶属关系；它不会代交申请，也不是官方法律结论或政府计算器。</p>
 
 <div class="conversion-strip">
   <div><h2>先用一段已核实行程测试</h2><p>点击后只录入一次离境、一次返回和确认它们的来源。先用最多 10 条旅行记录验证，再决定付费功能是否有用。</p></div>

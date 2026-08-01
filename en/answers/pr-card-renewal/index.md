@@ -55,7 +55,7 @@ breadcrumb_items:
 <p>IRCC says card expiry does not, by itself, end permanent resident status. It does mean the expired card is not a valid travel document. If you are outside Canada without a valid card and plan to return by a commercial carrier, IRCC generally directs permanent residents to the permanent resident travel document (PRTD) process. A PR-card application itself cannot be made from outside Canada.</p>
 
 <h2>Where CanResidency fits—and where it does not</h2>
-<p>CanResidency can help you keep a structured travel timeline, see planning estimates and find missing or conflicting records before renewal becomes urgent. It is an independent iOS app from Rho Technologies Ltd.; it is not affiliated with IRCC, does not submit an application and is not an official legal determination or government calculator.</p>
+<p><a data-funnel-stage="reach" data-funnel-action="renewal_answer_open_product_gateway" data-funnel-experiment="renewal_internal_discovery_v1" href="/PRHelper-Legal/marketing/">CanResidency</a> can help you keep a structured travel timeline, see planning estimates and find missing or conflicting records before renewal becomes urgent. It is an independent iOS app from Rho Technologies Ltd.; it is not affiliated with IRCC, does not submit an application and is not an official legal determination or government calculator.</p>
 
 <div class="conversion-strip">
   <div><h2>Test it with one verified trip</h2><p>After tapping, enter one exit, one return and the source that confirms them. You can test up to 10 trip records before deciding whether a paid feature is useful.</p></div>

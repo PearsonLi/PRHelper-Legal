@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-plann
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-planning-impact/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-planning-impact/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: 同一次未来旅行会对 PR 和入籍产生不同影响吗？
     a: 会。PR 居住义务与入籍 physical presence 使用不同规则和时间线，应分别检查。
@@ -23,6 +23,8 @@ faq_items:
     a: 订票前先测试；旅行日期或计划申请日期变化后，再重新检查。
   - q: 绿色规划信号能保证资格吗？
     a: 不能。规划信号是基于录入记录的估算，不能替代官方计算或法律意见。
+  - q: 订票前怎样免费测试一趟计划旅行？
+    a: 先维护一段已确认历史，再写下计划离境、返回和决策日期；只有确实需要比较计划影响时再考虑进阶功能。
 breadcrumb_items:
   - name: 首页
     url: https://pearsonli.github.io/PRHelper-Legal/zh/
@@ -41,6 +43,10 @@ breadcrumb_items:
   <li><strong>计划返回日。</strong> 加入完整离境期间，并考虑行程可能发生的变化。</li>
   <li><strong>未来决策日。</strong> 检查真正重要的日期，例如枫叶卡申请、入籍申请或其他官方评估日。</li>
 </ol>
+
+<p><a data-funnel-stage="download" data-funnel-action="travel_planning_start_history_free" data-funnel-experiment="travel_planning_decision_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>先免费建立一段已确认历史 →</strong></a></p>
+
+<p><a data-funnel-stage="paid" data-funnel-action="travel_planning_define_trip_before_plan" data-funnel-experiment="travel_planning_decision_zh_v3" href="/PRHelper-Legal/zh/upgrade-guide/">写清离境、返回和决策日后，再比较规划方案 →</a></p>
 
 <h2>PR 与入籍必须分开检查</h2>
 <p>同一次旅行可能让两条时间线产生不同变化。PR 依据适用的居住义务期间；入籍 physical presence 使用自己的五年期间，还可能涉及合资格的临时居留折算。一个看起来安全的总数，不能代替两项独立检查。</p>

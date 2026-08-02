@@ -15,7 +15,14 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/family-multi
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/family-multi-member-guide/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/family-multi-member-guide/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
+faq_items:
+  - q: 家庭成员的旅行记录可以合并成一个总数吗？
+    a: 不可以。每个人的 PR 日期、旅行历史和计划评估日都应独立保存和核验。
+  - q: 只有一位成员时需要 Family 方案吗？
+    a: 不需要。先完成一个人的免费记录；另一位成员确实需要独立时间线时再比较家庭方案。
+  - q: CanResidency 会替每位家庭成员判断申请资格吗？
+    a: 不会。它用于分别组织记录，最终申请仍应按照当前官方指引逐人核验。
 breadcrumb_items:
   - name: 首页
     url: https://pearsonli.github.io/PRHelper-Legal/zh/
@@ -40,6 +47,10 @@ breadcrumb_items:
 
 <h2>只有第二条独立时间线真正受阻时才选择 Family</h2>
 <p>只管理一个人时继续使用个人流程。另一位成员确实需要独立 PR 日期、旅行历史或规划结果时，再比较多成员方案；不要仅因为住在同一家庭就升级。</p>
+
+<p><a data-funnel-stage="download" data-funnel-action="family_guide_start_first_member_free" data-funnel-experiment="family_guide_member_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>先免费完成第一位成员的一段行程 →</strong></a></p>
+
+<p><a data-funnel-stage="paid" data-funnel-action="family_guide_name_second_member_job" data-funnel-experiment="family_guide_member_zh_v3" href="/PRHelper-Legal/zh/upgrade-guide/">确认第二位成员的受阻任务后再比较 Family →</a></p>
 
 <div class="callout"><strong>独立规划工具：</strong>每位成员的最终申请仍需按照当前官方指引分别核验。</div>
 

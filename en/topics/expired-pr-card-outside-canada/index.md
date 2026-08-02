@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-c
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/expired-pr-card-outside-canada/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: Does an expired PR card mean I lost permanent resident status?
     a: No. IRCC states that PR status does not end merely because the card expires.
@@ -23,6 +23,8 @@ faq_items:
     a: IRCC says a PR card cannot be issued and delivered overseas for return travel. A permanent resident outside Canada without a valid PR card normally applies for a PRTD.
   - q: Do I need a PR card or PRTD to board a commercial carrier to Canada?
     a: IRCC says permanent residents need a valid PR card or PRTD when returning by plane, train, bus or boat.
+  - q: Can a travel tracker decide whether I qualify for a PRTD?
+    a: No. A tracker can organize dates and supporting records, but only current IRCC instructions and the responsible decision-maker determine the application outcome.
 breadcrumb_items:
   - name: Home
     url: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -47,6 +49,10 @@ breadcrumb_items:
 
 <h2>Build the travel-history file before submitting</h2>
 <p>Make one chronological list of exits and returns, including same-day trips. Mark every uncertain date instead of filling it with a guess. Compare the list with passports, booking emails, calendars and any available border records, then follow the current IRCC PRTD instructions for required evidence.</p>
+
+<p><a data-funnel-stage="download" data-funnel-action="expired_card_start_one_verified_trip" data-funnel-experiment="expired_card_evidence_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Start with one verified exit-and-return pair →</strong></a></p>
+
+<p><a data-reminder-days="3" data-funnel-stage="activation" data-funnel-action="expired_card_day3_document_review" data-funnel-experiment="expired_card_evidence_en_v2" href="#">Add a private three-day document-review reminder</a></p>
 
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/permanent-residents.html" target="_blank" rel="noopener noreferrer">IRCC: travelling to Canada as a permanent resident</a> · <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5529-applying-permanent-resident-travel-document.html" target="_blank" rel="noopener noreferrer">IRCC: PRTD application guide</a></p>
 

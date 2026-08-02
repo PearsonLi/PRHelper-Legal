@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1095-rule/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-1095-rule/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: 加拿大入籍通常需要多少天实际居住？
     a: 成年申请人通常需要在签署申请前五年内累计至少 1,095 天实际居住；IRCC 建议不要卡在最低天数提交。
@@ -23,6 +23,8 @@ faq_items:
     a: 部分符合条件的临时居民或受保护人士时间可按半天计算，最高折算 365 天，应使用 IRCC 官方计算器核验。
   - q: 旅行记录应该怎样核对？
     a: 维护逐次离境与返回清单，并与护照、订票邮件、日历和可获得的官方记录交叉核对。
+  - q: 入籍天数 App 可以代替 IRCC physical presence calculator 吗？
+    a: 不可以。App 适合持续维护记录和尝试计划日期，正式申请前仍应使用 IRCC 当前官方计算器核验。
 breadcrumb_items:
   - name: 首页
     url: https://pearsonli.github.io/PRHelper-Legal/zh/
@@ -38,6 +40,10 @@ breadcrumb_items:
 
 <h2>选择申请日前重新核对三个日期</h2>
 <ol><li>五年资格期间的起始日。</li><li>期间内每一次离境与返回，包括短途旅行。</li><li>计划签署申请的日期，因为日期改变会移动整个窗口。</li></ol>
+
+<p><a data-funnel-stage="download" data-funnel-action="citizenship_1095_test_signing_date" data-funnel-experiment="citizenship_1095_date_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费测试一段行程和计划签署日 →</strong></a></p>
+
+<p><a data-reminder-days="30" data-funnel-stage="retention" data-funnel-action="citizenship_1095_monthly_date_review" data-funnel-experiment="citizenship_1095_date_zh_v3" href="#">添加私密的 30 天计划日期复查提醒</a></p>
 
 <h2>常见问题 1：为什么和PR天数不同？</h2>
 <p>PR 与入籍窗口边界不同，所以同一天可能出现差异。</p>

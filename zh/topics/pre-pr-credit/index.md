@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pre-pr-credi
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pre-pr-credit/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pre-pr-credit/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: 成为永久居民前在加拿大的时间能计入入籍吗？
     a: 相关五年期间内，部分符合条件的临时居民或受保护人士时间可能按半天计算，最高折算 365 天。
@@ -23,6 +23,8 @@ faq_items:
     a: 不能。这项折算属于入籍 physical presence，不属于永久居民居住义务。
   - q: 最终应使用什么工具核验？
     a: 申请前应使用 IRCC 当前 physical presence 计算器和指引。
+  - q: App 能决定某段临时身份是否符合折算资格吗？
+    a: 不能。App 可以保存日期和身份标签，但资格判断必须依据 IRCC 当前规则和个人证据。
 breadcrumb_items:
   - name: 首页
     url: https://pearsonli.github.io/PRHelper-Legal/zh/
@@ -40,6 +42,10 @@ breadcrumb_items:
 
 <h2>保留官方核验所需的输入</h2>
 <ol><li>记录成为 PR 前每段在加拿大的期间和当时身份。</li><li>保留开始与结束日期的支持资料。</li><li>计划申请日期变化后重新计算。</li><li>最终申请结果使用 IRCC 官方计算器核验。</li></ol>
+
+<p><a data-funnel-stage="download" data-funnel-action="pre_pr_credit_test_one_status_period" data-funnel-experiment="pre_pr_credit_status_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费保存一段身份期间和支持日期 →</strong></a></p>
+
+<p><a data-reminder-days="14" data-funnel-stage="activation" data-funnel-action="pre_pr_credit_day14_status_check" data-funnel-experiment="pre_pr_credit_status_zh_v3" href="#">添加私密的 14 天身份资料复核提醒</a></p>
 
 <div class="callout"><strong>独立工具：</strong>CanResidency 可以整理规划输入，但不是 IRCC 官方计算器，也不能决定某段身份期间是否符合折算条件。</div>
 

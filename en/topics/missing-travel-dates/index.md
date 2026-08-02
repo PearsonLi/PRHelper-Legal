@@ -13,7 +13,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-trav
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: What should I do if I cannot remember an exact travel date?
     a: Mark the date as uncertain, compare independent records, and avoid replacing uncertainty with an unsupported guess.
@@ -21,6 +21,8 @@ faq_items:
     a: Passports, booking emails, airline accounts, calendars, photos, card transactions, work records, and official border or travel history can all help.
   - q: Does CanResidency replace official travel records?
     a: No. It is an independent record-keeping tool. Use official records and current IRCC instructions when preparing an application.
+  - q: Can an app recover an unknown border date automatically?
+    a: No app should turn an unknown date into a verified fact. Use the app to keep uncertainty visible while you compare source records.
 breadcrumb_items:
   - name: Home
     url: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -62,6 +64,10 @@ breadcrumb_items:
 <div class="callout"><strong>Application check:</strong> Follow the current IRCC application guide and official calculator. If the missing period could affect eligibility or involves an exception, obtain advice from a licensed professional.</div>
 
 <p><strong>Official starting point:</strong> <a href="https://www.cbsa-asfc.gc.ca/agency-agence/reports-rapports/pia-efvp/atip-aiprp/infosource-eng.html" target="_blank" rel="noopener noreferrer">CBSA information sources and travel-history records</a>.</p>
+
+<p><a data-funnel-stage="download" data-funnel-action="missing_dates_test_uncertain_trip" data-funnel-experiment="missing_dates_evidence_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Test one uncertain trip without marking it verified →</strong></a></p>
+
+<p><a data-reminder-days="7" data-funnel-stage="retention" data-funnel-action="missing_dates_day7_evidence_reminder" data-funnel-experiment="missing_dates_evidence_en_v1" href="#">Add a private seven-day reminder to recheck this gap</a></p>
 
 <div class="conversion-strip"><div><h2>Keep recovered dates in one maintained timeline</h2><p>CanResidency helps you record trips as you verify them and review the rolling PR and citizenship picture without relying on memory next time.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="missing_dates_start_free" data-funnel-experiment="missing_dates_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record one recovered trip free</a><small>Independent planning tool · Not an official record</small></div></div>
 

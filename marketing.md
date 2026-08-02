@@ -110,6 +110,7 @@ faq_items:
   <strong><span class="lang-zh">关于数据与准确性</span><span class="lang-en">About data and accuracy</span></strong><br />
   <span class="lang-zh">CanResidency 不会声称自动导入你的官方边境记录。你录入并核实日期，App 在设备上帮助维护时间线和规划视图；提交申请前请使用当时有效的 IRCC 官方工具。</span>
   <span class="lang-en">CanResidency does not claim to import your official border history automatically. You enter and verify dates; the app helps maintain the timeline and planning view on your device. Use the current official IRCC tools before filing.</span>
+  <a data-funnel-stage="reach" data-funnel-action="product_facts_open" data-funnel-experiment="entity_accuracy_v1" href="/PRHelper-Legal/product-facts/"><span class="lang-zh">查看可引用的产品事实 →</span><span class="lang-en">Open the citable product facts →</span></a>
 </div>
 
 <h2><span class="lang-zh">什么时候才需要考虑付费？</span><span class="lang-en">When should you consider a paid plan?</span></h2>

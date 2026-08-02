@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-journ
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/travel-journal-checklist/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/travel-journal-checklist/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: Should I record a same-day trip to the United States?
     a: Yes. IRCC's travel-journal guidance says to include day trips, including those under 24 hours to the United States.
@@ -23,6 +23,8 @@ faq_items:
     a: IRCC describes the journal as a personal memory aid, not an official document that must be submitted.
   - q: Does the travel journal replace the citizenship physical presence calculation?
     a: No. IRCC states that applicants who require a physical presence calculation must still submit it.
+  - q: What is the best first trip to enter in a travel-journal app?
+    a: Use the most recent trip whose exit, return, destination and purpose you can verify from a source you can reopen.
 breadcrumb_items:
   - name: Home
     url: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -51,6 +53,10 @@ breadcrumb_items:
 
 <h2>The two-minute return-home routine</h2>
 <ol><li>Record the exit and return before unpacking the supporting emails.</li><li>Attach or note one source that can verify each date later.</li><li>Mark the record verified or uncertain, then schedule one follow-up for any gap.</li></ol>
+
+<p><a data-funnel-stage="download" data-funnel-action="travel_journal_test_latest_return" data-funnel-experiment="travel_journal_return_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Test the latest return in CanResidency →</strong></a></p>
+
+<p><a data-reminder-days="7" data-funnel-stage="retention" data-funnel-action="travel_journal_day7_habit_reminder" data-funnel-experiment="travel_journal_return_en_v2" href="#">Add a private seven-day journal-habit reminder</a></p>
 
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/record-trips-outside-canada.html" target="_blank" rel="noopener noreferrer">IRCC: record your trips outside Canada</a></p>
 

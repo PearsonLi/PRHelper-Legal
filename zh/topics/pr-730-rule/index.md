@@ -15,12 +15,14 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-730-rule/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-730-rule/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-730-rule/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: 加拿大永久居民通常需要满足多少天居住义务？
     a: 通常需要在适用的五年期间内累计至少 730 天；天数不必连续，部分符合条件的境外时间可能计入。
   - q: 枫叶卡到期日就是居住义务计算终点吗？
     a: 不是。居住义务与卡片有效期不是同一个问题，应按实际评估日期与 IRCC 当前规则核对。
+  - q: CanResidency 可以替代 IRCC 判断是否满足 730 天吗？
+    a: 不可以。它用于维护旅行事实和规划时间线，最终判断必须依据 IRCC 当前规则、官方材料和个人情况。
 breadcrumb_items:
   - name: 首页
     url: https://pearsonli.github.io/PRHelper-Legal/zh/
@@ -39,6 +41,10 @@ breadcrumb_items:
 
 <h2>常见问题 2：为什么不能只看枫叶卡到期日？</h2>
 <p>卡片有效期与永久居民身份、居住义务是不同问题。适用期间取决于成为永久居民的时间和实际评估日期，因此不能只用卡片到期日推算结果。</p>
+
+<p><a data-funnel-stage="download" data-funnel-action="rule_730_test_evaluation_date" data-funnel-experiment="rule_730_window_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费用一段已确认行程测试滚动窗口 →</strong></a></p>
+
+<p><a data-reminder-days="30" data-funnel-stage="retention" data-funnel-action="rule_730_monthly_window_review" data-funnel-experiment="rule_730_window_zh_v3" href="#">添加一个私密的 30 天窗口复查提醒</a></p>
 
 <h2>常见问题 3：如何用 App 规避风险？</h2>
 <p>先录入计划旅行，再看每条计划行右侧风险灯，提前调整行程。</p>

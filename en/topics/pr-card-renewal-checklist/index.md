@@ -15,7 +15,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-rene
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-02
 faq_items:
   - q: Is the PR-card expiry date the same as the residency-obligation calculation date?
     a: No. Card validity and permanent resident status are different. Assess residency compliance for the legally relevant date and follow current IRCC instructions.
@@ -23,6 +23,8 @@ faq_items:
     a: Keep a complete travel timeline, passports and identity documents, address and work or study history, and supporting records relevant to the application.
   - q: Should someone apply with a very small residency margin?
     a: A close calculation deserves careful verification against official guidance and may warrant advice from a licensed professional.
+  - q: Can CanResidency submit a PR-card renewal application?
+    a: No. CanResidency organizes a reviewable travel timeline; filing still uses the current IRCC application process and required documents.
 breadcrumb_items:
   - name: Home
     url: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -63,6 +65,10 @@ breadcrumb_items:
 
 <h2>Upgrade only when the review copy becomes the block</h2>
 <p>Use the free record to verify the first trips. Consider export or advanced access when you need a structured review copy, more than 10 trips, or a planning check that the basic workflow cannot complete. Name the blocked task before comparing plans.</p>
+
+<p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_start_first_trip_free" data-funnel-experiment="renewal_checklist_jobs_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Start the first renewal trip free →</strong></a></p>
+
+<p><a data-funnel-stage="paid" data-funnel-action="renewal_checklist_choose_blocked_job" data-funnel-experiment="renewal_checklist_jobs_en_v3" href="/PRHelper-Legal/en/upgrade-guide/">Compare access only after naming the blocked task →</a></p>
 
 <div class="callout"><strong>Important distinction:</strong> An expired PR card does not automatically mean PR status has ended, and a valid card does not by itself prove residency-obligation compliance. Use current official guidance for your situation.</div>
 

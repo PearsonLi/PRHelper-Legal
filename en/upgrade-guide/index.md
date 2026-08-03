@@ -33,6 +33,7 @@ last_updated: 2026-08-01
 <h2>Define the first paid-session outcome</h2>
 <p>Before upgrading, write down one outcome to complete immediately: add the 6th verified trip, test one future absence, export one review copy, or create one separate family record. Recheck that outcome within seven days; if it is still incomplete, use the support checklist instead of changing plans.</p>
 <p><a data-funnel-stage="paid" data-funnel-action="upgrade_define_first_outcome" data-funnel-experiment="upgrade_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review the smallest matching plan in the app →</a></p>
+<div class="callout"><strong>Seven-day paid-success check:</strong> Keep the result you named, the date you completed it and the source you verified. If access—not the task—is blocking completion, <a data-funnel-stage="paid" data-funnel-action="upgrade_open_seven_day_support" data-funnel-experiment="paid_success_en_v1" href="/PRHelper-Legal/en/support/">use the recovery checklist before changing plans →</a></div>
 
 <h3>Choose the outcome before opening the purchase screen</h3>
 <div class="guide-grid">

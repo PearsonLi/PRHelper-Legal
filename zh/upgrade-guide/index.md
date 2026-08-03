@@ -33,6 +33,7 @@ last_updated: 2026-08-01
 <h2>先定义付费后的第一个结果</h2>
 <p>升级前先写下要立即完成的一件事：添加第 6 条已核实行程、测试一次未来离境、导出一份复核文件，或为一位家人建立独立记录。七天后复查；如果仍未完成，应先使用支持清单，而不是继续更换方案。</p>
 <p><a data-funnel-stage="paid" data-funnel-action="upgrade_define_first_outcome" data-funnel-experiment="upgrade_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">在 App 内查看刚好匹配的方案 →</a></p>
+<div class="callout"><strong>付费后七天成功检查：</strong>保留已定义的结果、完成日期和核实来源。如果阻碍来自权限而不是任务本身，<a data-funnel-stage="paid" data-funnel-action="upgrade_open_seven_day_support" data-funnel-experiment="paid_success_zh_v1" href="/PRHelper-Legal/zh/support/">先使用恢复清单，再考虑更换方案 →</a></div>
 
 <h3>打开购买页面前，先选择要完成的结果</h3>
 <div class="guide-grid">

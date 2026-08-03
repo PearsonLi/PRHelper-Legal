@@ -62,6 +62,8 @@ faq_items:
 
 <p>不必在了解产品前就做购买决定。免费版可保存最多 5 条旅行记录；你可以先录入一段真实行程，核对时间线是否符合自己的记录习惯，再判断是否需要更多记录、进阶规划、导出或家庭成员管理。</p>
 
+<div class="callout"><strong>免费准备度检查：</strong>查看方案前，先录入一段能够核实的行程，并确认时间线与原始来源一致。<a data-funnel-stage="paid" data-funnel-action="pricing_complete_free_readiness" data-funnel-experiment="pricing_readiness_zh_v1" href="/PRHelper-Legal/zh/getting-started/">完成免费准备度检查 →</a></div>
+
 <div class="conversion-strip"><div><h2>用一段真实行程开始</h2><p>下载后录入最近一次离境和返回，用自己的原始记录核对。只有具体任务受到限制时再升级。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="pricing_test_then_choose" data-funnel-experiment="pricing_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">先免费测试，再查看方案</a><small>可先验证基础流程 · 最终价格以 Apple 在 App 内显示为准</small></div></div>
 
 <h2>购买前常见疑问</h2>

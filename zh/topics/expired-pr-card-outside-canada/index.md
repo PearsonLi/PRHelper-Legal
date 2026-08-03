@@ -50,6 +50,6 @@ breadcrumb_items:
 
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/permanent-residents.html" target="_blank" rel="noopener noreferrer">IRCC：永久居民返加证件</a> · <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5529-applying-permanent-resident-travel-document.html" target="_blank" rel="noopener noreferrer">IRCC：PRTD 申请指南</a></p>
 
-<div class="conversion-strip"><div><h2>把分散行程变成可核对时间线</h2><p>先免费录入最多 10 条已核实行程。CanResidency 帮助整理记录；最终决定由 IRCC 作出。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="expired_card_start_free" data-funnel-experiment="expired_card_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始整理时间线</a><small>独立规划工具 · 不是法律意见或 IRCC 服务</small></div></div>
+<div class="conversion-strip"><div><h2>把分散行程变成可核对时间线</h2><p>先免费录入最多 5 条已核实行程。CanResidency 帮助整理记录；最终决定由 IRCC 作出。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="expired_card_start_free" data-funnel-experiment="expired_card_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始整理时间线</a><small>独立规划工具 · 不是法律意见或 IRCC 服务</small></div></div>
 
-<p><a data-funnel-stage="activation" data-funnel-action="expired_card_open_starter" data-funnel-experiment="expired_card_zh_v1" href="/PRHelper-Legal/zh/getting-started/">打开 10 条记录起步流程 →</a></p>
+<p><a data-funnel-stage="activation" data-funnel-action="expired_card_open_starter" data-funnel-experiment="expired_card_zh_v1" href="/PRHelper-Legal/zh/getting-started/">打开 5 条记录起步流程 →</a></p>

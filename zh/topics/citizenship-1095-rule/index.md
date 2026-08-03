@@ -56,6 +56,6 @@ breadcrumb_items:
 
 <div class="callout"><strong>独立工具：</strong>CanResidency 与 IRCC 或加拿大政府没有关联，不提供法律意见；最终申请应使用官方计算器和最新指引。</div>
 
-<div class="conversion-strip"><div><h2>在计划申请日前建立原始记录</h2><p>先录入一段近期旅行并设置计划日期，查看入籍时间线；正式提交前再用 IRCC 官方计算器核验。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="citizenship_1095_start_free" data-funnel-experiment="citizenship_1095_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已核实行程</a><small>免费版最多 10 条旅行记录 · 不是官方计算器</small></div></div>
+<div class="conversion-strip"><div><h2>在计划申请日前建立原始记录</h2><p>先录入一段近期旅行并设置计划日期，查看入籍时间线；正式提交前再用 IRCC 官方计算器核验。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="citizenship_1095_start_free" data-funnel-experiment="citizenship_1095_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已核实行程</a><small>免费版最多 5 条旅行记录 · 不是官方计算器</small></div></div>
 
-<p><a href="/PRHelper-Legal/zh/getting-started/">10 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/pre-pr-credit/">临时居留折算</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>
+<p><a href="/PRHelper-Legal/zh/getting-started/">5 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/pre-pr-credit/">临时居留折算</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>

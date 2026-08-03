@@ -54,6 +54,6 @@ breadcrumb_items:
 
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/record-trips-outside-canada.html" target="_blank" rel="noopener noreferrer">IRCC：记录境外旅行</a></p>
 
-<div class="conversion-strip"><div><h2>下一次返加就记录，不要等到需要重建</h2><p>先用一段已核实行程验证流程，然后在每次返加后保持习惯。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="travel_journal_start_free" data-funnel-experiment="travel_journal_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段旅行</a><small>免费版最多 10 条记录 · 独立规划工具</small></div></div>
+<div class="conversion-strip"><div><h2>下一次返加就记录，不要等到需要重建</h2><p>先用一段已核实行程验证流程，然后在每次返加后保持习惯。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="travel_journal_start_free" data-funnel-experiment="travel_journal_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段旅行</a><small>免费版最多 5 条记录 · 独立规划工具</small></div></div>
 
 <p><a data-funnel-stage="activation" data-funnel-action="journal_open_starter" data-funnel-experiment="travel_journal_zh_v1" href="/PRHelper-Legal/zh/getting-started/">打开首次使用清单 →</a></p>

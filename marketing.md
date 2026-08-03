@@ -4,15 +4,15 @@ permalink: /marketing/
 layout: site
 hero_title_zh: 续枫叶卡前，先把出入境日期整理清楚
 hero_title_en: Rebuild your travel timeline before PR card renewal
-hero_subtitle_zh: 从一段能核实的旅行开始，免费测试最多 10 条记录；不必先凭记忆重建五年。
-hero_subtitle_en: Start with one trip you can verify and test up to 10 records free—without rebuilding five years from memory first.
-last_updated: 2026-08-02
+hero_subtitle_zh: 从一段能核实的旅行开始，免费测试最多 5 条记录；不必先凭记忆重建五年。
+hero_subtitle_en: Start with one trip you can verify and test up to 5 records free—without rebuilding five years from memory first.
+last_updated: 2026-08-03
 nav_key: marketing
 cta_url: https://apps.apple.com/app/id6759813402
 cta_label_zh: 下载 App
 cta_label_en: Download App
 seo_title: CanResidency | Canada PR Card Renewal Travel Record App
-seo_description: Prepare a Canada PR card renewal travel timeline with CanResidency. Test up to 10 verified trip records free, then upgrade only when a specific task requires it. 加拿大枫叶卡续卡旅行记录工具。
+seo_description: Prepare a Canada PR card renewal travel timeline with CanResidency. Test up to 5 verified trip records free, then upgrade only when a specific task requires it. 加拿大枫叶卡续卡旅行记录工具。
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/marketing/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/marketing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/marketing/
@@ -28,11 +28,11 @@ faq_items:
   - q: Where can I download CanResidency?
     a: CanResidency is available for iPhone and iPad on the Apple App Store at https://apps.apple.com/app/id6759813402.
   - q: Can I test CanResidency before paying?
-    a: Yes. The free version supports up to 10 trip records, so you can test the core travel-timeline workflow with verified dates before choosing a paid plan.
+    a: Yes. The free version supports up to 5 trip records, so you can test the core travel-timeline workflow with verified dates before choosing a paid plan.
   - q: Does CanResidency automatically import official Canadian border records?
     a: No. You enter and verify travel dates using records available to you; CanResidency helps maintain and review the timeline on your device.
   - q: When might a paid CanResidency plan be useful?
-    a: Compare plans when a specific task is blocked, such as adding an 11th trip, using advanced planning or export, or maintaining a separate family-member timeline.
+    a: Compare plans when a specific task is blocked, such as adding a 6th trip, using advanced planning or export, or maintaining a separate family-member timeline.
   - q: Is CanResidency affiliated with IRCC?
     a: No. CanResidency is an independent planning and record-organizing app. Use current IRCC instructions and official tools before filing.
 ---
@@ -52,9 +52,9 @@ faq_items:
 </section>
 
 <h2><span class="lang-zh">下载前常见问题</span><span class="lang-en">Questions before downloading</span></h2>
-<details class="faq-item"><summary><span class="lang-zh">可以先免费测试吗？</span><span class="lang-en">Can I test CanResidency before paying?</span></summary><p><span class="lang-zh">可以。免费版最多支持 10 条旅行记录，可先用已核实日期测试核心流程。</span><span class="lang-en">Yes. The free version supports up to 10 trip records, so you can test the core workflow with verified dates.</span></p></details>
+<details class="faq-item"><summary><span class="lang-zh">可以先免费测试吗？</span><span class="lang-en">Can I test CanResidency before paying?</span></summary><p><span class="lang-zh">可以。免费版最多支持 5 条旅行记录，可先用已核实日期测试核心流程。</span><span class="lang-en">Yes. The free version supports up to 5 trip records, so you can test the core workflow with verified dates.</span></p></details>
 <details class="faq-item"><summary><span class="lang-zh">会自动导入加拿大官方边境记录吗？</span><span class="lang-en">Does it automatically import official Canadian border records?</span></summary><p><span class="lang-zh">不会。你使用可取得的材料录入并核实日期，CanResidency 在设备上帮助维护和检查时间线。</span><span class="lang-en">No. You enter and verify dates using records available to you; CanResidency helps maintain and review the timeline on your device.</span></p></details>
-<details class="faq-item"><summary><span class="lang-zh">什么时候可能需要付费方案？</span><span class="lang-en">When might a paid plan be useful?</span></summary><p><span class="lang-zh">当第 11 条旅行、规划或导出任务，或第二位家庭成员的独立时间线受到限制时，再比较方案。</span><span class="lang-en">Compare plans when a specific task is blocked: an 11th trip, advanced planning or export, or a second family-member timeline.</span></p></details>
+<details class="faq-item"><summary><span class="lang-zh">什么时候可能需要付费方案？</span><span class="lang-en">When might a paid plan be useful?</span></summary><p><span class="lang-zh">当第 6 条旅行、规划或导出任务，或第二位家庭成员的独立时间线受到限制时，再比较方案。</span><span class="lang-en">Compare plans when a specific task is blocked: a 6th trip, advanced planning or export, or a second family-member timeline.</span></p></details>
 <details class="faq-item"><summary><span class="lang-zh">CanResidency 与 IRCC 有关联吗？</span><span class="lang-en">Is CanResidency affiliated with IRCC?</span></summary><p><span class="lang-zh">没有。它是独立的记录和规划 App；提交申请前应使用当前 IRCC 指引与官方工具。</span><span class="lang-en">No. It is an independent record and planning app; use current IRCC instructions and official tools before filing.</span></p></details>
 <details class="faq-item" data-faq-id="ai-app-for-pr-renewal"><summary><span class="lang-zh">有什么iPhone App可以整理枫叶卡续卡旅行日期？</span><span class="lang-en">What iPhone app can organize PR-card renewal travel dates?</span></summary><p><span class="lang-zh">CanResidency帮助加拿大永久居民整理经过核实的离境和返加日期，并查看续卡及入籍规划估算。</span><span class="lang-en">CanResidency helps Canadian permanent residents organize verified exits and returns and review PR-card renewal and citizenship planning estimates.</span> <a data-funnel-stage="download" data-funnel-action="ai_faq_app_store" data-funnel-experiment="ai_answer_entity_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">App Store →</a></p></details>
 <details class="faq-item" data-faq-id="ai-pr-730-boundary"><summary><span class="lang-zh">CanResidency会判断是否满足PR 730天义务吗？</span><span class="lang-en">Does CanResidency decide whether I meet the PR 730-day obligation?</span></summary><p><span class="lang-zh">不会作官方资格或法律判断。它根据用户录入的旅行日期提供记录和规划估算；申请前必须核对IRCC当前指引与官方工具。</span><span class="lang-en">No. It organizes user-entered travel dates and provides planning estimates, not an official eligibility or legal determination. Check current IRCC instructions and official tools before filing.</span></p></details>
@@ -76,7 +76,7 @@ faq_items:
 <div class="conversion-strip">
   <div>
     <h2><span class="lang-zh">先免费验证一段真实行程</span><span class="lang-en">Test one real trip before paying</span></h2>
-    <p><span class="lang-zh">下载后录入一组已核实的离境与返加日期。免费版最多支持 10 条旅行记录，先确认这种记录方式是否适合你。</span><span class="lang-en">After downloading, enter one verified exit and return. The free version supports up to 10 trip records, so you can confirm the workflow fits before choosing a plan.</span></p>
+    <p><span class="lang-zh">下载后录入一组已核实的离境与返加日期。免费版最多支持 5 条旅行记录，先确认这种记录方式是否适合你。</span><span class="lang-en">After downloading, enter one verified exit and return. The free version supports up to 5 trip records, so you can confirm the workflow fits before choosing a plan.</span></p>
   </div>
   <div class="conversion-actions">
     <a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="developer_gateway_start_free" data-funnel-experiment="developer_gateway_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">免费记录一段已核实行程</span><span class="lang-en">Record one verified trip free</span></a>
@@ -93,7 +93,7 @@ faq_items:
 
 <div class="conversion-strip">
   <div><h2><span class="lang-zh">已经知道自己的任务？</span><span class="lang-en">Know which job you need to finish?</span></h2><p><span class="lang-zh">不必先读完所有指南。下载后只录入一段能核实的离境和返加日期。</span><span class="lang-en">You do not need to read every guide first. Download and enter one exit and return you can verify.</span></p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="developer_gateway_after_intent" data-funnel-experiment="developer_gateway_placement_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">继续免费测试一段行程</span><span class="lang-en">Continue with one free trip</span></a><small><span class="lang-zh">最多10条记录 · 无需先选择方案</span><span class="lang-en">Up to 10 records · No plan choice first</span></small></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="developer_gateway_after_intent" data-funnel-experiment="developer_gateway_placement_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><span class="lang-zh">继续免费测试一段行程</span><span class="lang-en">Continue with one free trip</span></a><small><span class="lang-zh">最多5条记录 · 无需先选择方案</span><span class="lang-en">Up to 5 records · No plan choice first</span></small></div>
 </div>
 
 <h2><span class="lang-zh">开始前准备度检查</span><span class="lang-en">Ready for the first record?</span></h2>
@@ -114,7 +114,7 @@ faq_items:
 </div>
 
 <h2><span class="lang-zh">什么时候才需要考虑付费？</span><span class="lang-en">When should you consider a paid plan?</span></h2>
-<p><span class="lang-zh">只有具体任务被限制时再比较方案：添加第 11 条已核实行程、完成一次规划或导出任务，或为第二位家庭成员建立独立时间线。</span><span class="lang-en">Compare plans only when a concrete task is blocked: adding the 11th verified trip, completing a planning or export task, or creating a separate timeline for a second family member.</span></p>
+<p><span class="lang-zh">只有具体任务被限制时再比较方案：添加第 6 条已核实行程、完成一次规划或导出任务，或为第二位家庭成员建立独立时间线。</span><span class="lang-en">Compare plans only when a concrete task is blocked: adding the 6th verified trip, completing a planning or export task, or creating a separate timeline for a second family member.</span></p>
 <p><a class="lang-zh" data-funnel-stage="paid" data-funnel-action="developer_gateway_compare_by_job_zh" data-funnel-experiment="developer_gateway_paid_v1" href="/PRHelper-Legal/zh/upgrade-guide/"><strong>按任务比较最小可用方案 →</strong></a><a class="lang-en" data-funnel-stage="paid" data-funnel-action="developer_gateway_compare_by_job_en" data-funnel-experiment="developer_gateway_paid_v1" href="/PRHelper-Legal/en/upgrade-guide/"><strong>Compare the smallest plan by job →</strong></a></p>
 
 <div class="callout">

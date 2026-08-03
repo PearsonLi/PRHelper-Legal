@@ -77,7 +77,7 @@ last_updated: 2026-08-01
 <section class="story-panel">
   <p class="story-kicker">下载之后会发生什么？</p>
   <h2>先核实一段旅行，不要先重建五年。</h2>
-  <p>打开 App，设置身份与计划评估日，然后录入一段能够用真实来源确认的离境和返回。免费版最多支持 10 条旅行记录，可以先验证流程，再判断任何付费方案是否真的有用。</p>
+  <p>打开 App，设置身份与计划评估日，然后录入一段能够用真实来源确认的离境和返回。免费版最多支持 5 条旅行记录，可以先验证流程，再判断任何付费方案是否真的有用。</p>
   <p><a data-funnel-stage="download" data-funnel-action="home_open_starter" data-funnel-experiment="home_readiness_zh_v1" href="/PRHelper-Legal/zh/getting-started/"><strong>预览 15 分钟起步流程 →</strong></a></p>
 </section>
 
@@ -87,5 +87,5 @@ last_updated: 2026-08-01
 
 <div class="conversion-strip">
   <div><h2>保留完整时间线，不只是一个总数</h2><p>CanResidency 把旅行记录、滚动的 PR/入籍进度、计划行程影响和家庭成员资料放在一个本地优先的 App 中。</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="home_start_first_trip" data-funnel-experiment="home_readiness_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始一段已核实行程</a><small>免费版最多 10 条旅行记录 · 不必先重建五年</small></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="home_start_first_trip" data-funnel-experiment="home_readiness_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始一段已核实行程</a><small>免费版最多 5 条旅行记录 · 不必先重建五年</small></div>
 </div>

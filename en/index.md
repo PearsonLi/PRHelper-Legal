@@ -33,6 +33,7 @@ last_updated: 2026-08-01
 <div class="direct-answer">
   <h2>What is CanResidency?</h2>
   <p><strong>CanResidency is an independent iPhone app for organizing Canadian PR and citizenship travel records.</strong> It keeps trip dates, rolling 730-day PR planning, 1,095-day citizenship planning and separate family timelines together. It does not file an application, determine legal status or replace current IRCC instructions.</p>
+  <p><a data-funnel-stage="download" data-funnel-action="home_direct_answer_app_store" data-funnel-experiment="home_entity_answer_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Open CanResidency in the App Store →</strong></a></p>
 </div>
 
 <div class="kpi-grid">

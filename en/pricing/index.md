@@ -62,6 +62,8 @@ faq_items:
 
 <p>You do not need to decide before you know whether the workflow fits. The free version supports up to 5 trip records, so you can enter a real journey, review the timeline, and see whether ongoing tracking solves the problem you have.</p>
 
+<div class="callout"><strong>Free readiness check:</strong> Before reviewing a plan, enter one trip you can verify and confirm that the timeline matches your source. <a data-funnel-stage="paid" data-funnel-action="pricing_complete_free_readiness" data-funnel-experiment="pricing_readiness_en_v1" href="/PRHelper-Legal/en/getting-started/">Complete the free readiness check →</a></div>
+
 <div class="conversion-strip"><div><h2>Make one real trip your test</h2><p>Download the app, add a recent exit and return, then compare the result with your own records. Upgrade only when a specific task is blocked.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="pricing_test_then_choose" data-funnel-experiment="pricing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Test free, then review plans</a><small>No account required to evaluate the basic workflow · Final prices are shown by Apple</small></div></div>
 
 <h2>Common purchase questions</h2>

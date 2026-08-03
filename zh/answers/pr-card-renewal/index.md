@@ -35,6 +35,7 @@ breadcrumb_items:
 <div class="direct-answer">
   <h2>直接答案</h2>
   <p><strong>如果你人在加拿大，枫叶卡已过期或将在九个月内过期，应使用 IRCC 当前流程申请新卡。</strong>提交前先核验申请要求，整理并交叉核对所需期间的旅行和个人历史，填写当前版本申请，并按 IRCC 要求提供文件、照片和费用。不要仅因为卡片以后会到期就过早申请：IRCC 当前说明，除列明的例外情况外，现有卡片仍有九个月以上有效期的申请通常会被退回。</p>
+  <p><a data-funnel-stage="download" data-funnel-action="renewal_direct_answer_app_store" data-funnel-experiment="renewal_answer_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>在 CanResidency 免费整理一段已核实行程 →</strong></a></p>
 </div>
 
 <h2>打开申请表之前，先准备什么</h2>

@@ -35,6 +35,7 @@ breadcrumb_items:
 <div class="direct-answer">
   <h2>Direct answer</h2>
   <p><strong>If you are in Canada and your PR card expires in less than nine months—or has already expired—use the current IRCC process to apply for a new card.</strong> Before applying, verify that you meet the requirements, reconcile the requested travel and personal-history periods, complete the current application and provide the documents, photo and fee IRCC requests. Do not submit early merely because the card will eventually expire: IRCC currently says applications are normally returned when the existing card is valid for more than nine months, unless a listed exception applies.</p>
+  <p><a data-funnel-stage="download" data-funnel-action="renewal_direct_answer_app_store" data-funnel-experiment="renewal_answer_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Organize one verified trip in CanResidency free →</strong></a></p>
 </div>
 
 <h2>What to prepare before you open the form</h2>

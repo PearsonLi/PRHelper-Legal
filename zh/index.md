@@ -33,6 +33,7 @@ last_updated: 2026-08-01
 <div class="direct-answer">
   <h2>CanResidency（枫叶卡管家）是什么？</h2>
   <p><strong>CanResidency 是一款用于整理加拿大 PR 与入籍旅行记录的独立 iPhone App。</strong>它把出入境日期、滚动的 PR 730 天规划、入籍 1095 天规划和家庭成员独立时间线放在一起；它不会代交申请、判定法律身份，也不能替代 IRCC 当前指引。</p>
+  <p><a data-funnel-stage="download" data-funnel-action="home_direct_answer_app_store" data-funnel-experiment="home_entity_answer_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>在 App Store 打开 CanResidency →</strong></a></p>
 </div>
 
 <div class="kpi-grid">

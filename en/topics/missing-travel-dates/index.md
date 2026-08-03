@@ -34,7 +34,7 @@ breadcrumb_items:
 
 <div class="content-meta"><span>Last reviewed: July 31, 2026</span><span>Sources: CBSA and current IRCC instructions</span><span>Independent planning guide</span></div>
 
-<div class="direct-answer"><h2>What if you cannot remember an exact travel date?</h2><p>Do not turn an uncertain date into a confident guess. Mark the gap, compare independent records, and retain the source that supports the date you eventually use.</p></div>
+<div class="direct-answer"><h2>What if you cannot remember an exact travel date?</h2><p>Do not turn an uncertain date into a confident guess. Mark the gap, compare independent records, and retain the source that supports the date you eventually use.</p><p><a data-funnel-stage="download" data-funnel-action="missing_dates_direct_answer_app_store" data-funnel-experiment="missing_dates_answer_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Keep one uncertain trip visible in CanResidency →</strong></a></p></div>
 
 <h2>The problem is uncertainty, not memory</h2>
 <p>A blank period often creates pressure to choose a date that “looks right.” That is the wrong goal. A useful reconstruction keeps known dates, uncertain dates, and supporting sources visibly separate until the evidence is strong enough to close the gap.</p>

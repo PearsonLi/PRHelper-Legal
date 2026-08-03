@@ -8,8 +8,8 @@ hero_title_en: PR Card Renewal Checklist
 hero_subtitle_zh: 面向加拿大永居与入籍规划的专题说明。
 hero_subtitle_en: A practical checklist to prepare PR card renewal materials and avoid preventable delays.
 nav_key: topics
-seo_title: PR Card Renewal Checklist | CanResidency
-seo_description: "PR card renewal travel-history checklist: reconcile exits, returns, passports, addresses and work records before completing the application."
+seo_title: Canada PR Card Renewal Checklist | Travel History & Records
+seo_description: "Renew a Canadian PR card with a source-linked checklist for travel dates, passports, address and work history before opening the current IRCC application."
 seo_keywords: PR card renewal travel history, Canada PR renewal checklist, PR card travel dates, residency obligation records
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/
@@ -36,6 +36,8 @@ breadcrumb_items:
 
 <h2>Start with the timeline, not the form</h2>
 <p>The slowest part of renewal preparation is often not completing fields. It is discovering that travel, address, work, and passport histories were maintained separately and no longer agree. Build one evidence-backed timeline before copying dates into an application.</p>
+
+<p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_direct_answer_app_store" data-funnel-experiment="gsc_renewal_query_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Organize the first verified renewal trip free →</strong></a></p>
 
 <section class="story-panel">
   <p class="story-kicker">The week-before-renewal trap</p>

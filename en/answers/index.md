@@ -4,13 +4,13 @@ permalink: /en/answers/
 layout: site
 lang: en
 nav_key: answers
-seo_title: Canadian PR Answers | Renewal, Travel Records & Residency
-seo_description: Direct, source-linked answers to Canadian PR-card renewal, travel-record and residency-obligation questions, with clear links to current IRCC guidance.
+seo_title: Canada PR Card Renewal Answers | Travel Records & 730 Days
+seo_description: Direct answers for renewing a Canadian PR card, rebuilding travel dates and understanding the 730-day obligation, with current IRCC sources.
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/answers/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/answers/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/answers/
 schema_type: webpage
-last_updated: 2026-07-31
+last_updated: 2026-08-03
 breadcrumb_items:
   - name: Home
     url: https://pearsonli.github.io/PRHelper-Legal/en/
@@ -23,6 +23,7 @@ breadcrumb_items:
 <div class="direct-answer">
   <h2>Start with the decision you need to make</h2>
   <p>This answer centre gives the conclusion first, then the official source, the records to organize and the point at which a planning tool stops being enough. It does not replace IRCC instructions or individualized advice.</p>
+  <p><a data-funnel-stage="download" data-funnel-action="answer_center_renewal_intent_app_store" data-funnel-experiment="gsc_renewal_hub_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Already know one trip date? Test it in CanResidency free →</strong></a></p>
 </div>
 
 <div class="guide-grid">

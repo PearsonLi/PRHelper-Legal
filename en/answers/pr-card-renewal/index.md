@@ -4,14 +4,14 @@ permalink: /en/answers/pr-card-renewal/
 layout: site
 lang: en
 nav_key: answers
-seo_title: How to Renew a Canadian PR Card | Direct 2026 Answer
-seo_description: "A direct, source-linked answer to Canadian PR-card renewal: when to apply, what records to prepare, what expiry means and how CanResidency can organize travel dates."
-seo_keywords: how to renew Canadian PR card, PR card renewal 2026, Canada permanent resident card renewal, PR renewal travel history
+seo_title: How Can I Renew My Canadian PR Card? | 2026 IRCC Steps
+seo_description: "How to renew a Canadian PR card: check the nine-month timing rule, reconcile travel history, prepare current documents, then apply through IRCC."
+seo_keywords: how can I renew my PR card, how to renew Canada PR card, Canada renew PR card, renew maple leaf card Canada
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/answers/pr-card-renewal/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/answers/pr-card-renewal/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/answers/pr-card-renewal/
 schema_type: article
-last_updated: 2026-07-31
+last_updated: 2026-08-03
 faq_items:
   - q: How do I renew a Canadian PR card?
     a: If you are in Canada and your card expires in less than nine months or has expired, follow the current IRCC PR-card application instructions, verify eligibility, complete the required application and provide the requested documents and fee.

@@ -50,6 +50,7 @@ howto_steps:
 
 <h2>Your free-version success test</h2>
 <p>The workflow succeeds if you can answer three questions: Which dates are verified? Which trips remain uncertain? What should you maintain after the next return to Canada? Upgrade only when you need more than 5 records, advanced planning, exports or family-member management.</p>
+<p>If the first record is still unfinished after 15 minutes, do not add more history. <a data-funnel-stage="activation" data-funnel-action="starter_open_first_record_rescue" data-funnel-experiment="starter_rescue_en_v1" href="/PRHelper-Legal/en/support/">Identify whether setup, date entry, verification or the result screen caused the stop →</a></p>
 
 <h2>Day 1, Day 7, and the next return</h2>
 <div class="card-grid">

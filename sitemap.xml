@@ -1,59 +1,60 @@
 ---
 layout: null
+sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% assign all_pages = site.pages | sort: 'url' %}
-{% for p in all_pages %}
-  {% assign skip_page = false %}
-  {% if p.url == '/404.html' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url and p.url contains '/assets/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url and p.url contains '/release/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url and p.url contains '/legal/releases/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url and p.url contains '/terms/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url and p.url contains '/privacy/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url == '/terms/' or p.url == '/privacy/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url == '/features/' or p.url == '/pricing/' or p.url == '/faq/' or p.url == '/support/' or p.url == '/topics/' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url == '/robots.txt' or p.url == '/sitemap.xml' or p.url == '/llms.txt' %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.url and p.url contains '/v' %}
-    {% if p.url contains '/terms/' %}
-      {% assign skip_page = true %}
-    {% endif %}
-    {% if p.url contains '/privacy/' %}
-      {% assign skip_page = true %}
-    {% endif %}
-  {% endif %}
-  {% if p.sitemap == false %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% if p.seo_noindex == true %}
-    {% assign skip_page = true %}
-  {% endif %}
-  {% unless skip_page %}
+{%- assign all_pages = site.pages | sort: 'url' -%}
+{%- for p in all_pages -%}
+  {%- assign skip_page = false -%}
+  {%- if p.url == '/404.html' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url and p.url contains '/assets/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url and p.url contains '/release/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url and p.url contains '/legal/releases/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url and p.url contains '/terms/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url and p.url contains '/privacy/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url == '/terms/' or p.url == '/privacy/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url == '/features/' or p.url == '/pricing/' or p.url == '/faq/' or p.url == '/support/' or p.url == '/topics/' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url == '/robots.txt' or p.url == '/sitemap.xml' or p.url == '/llms.txt' -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.url and p.url contains '/v' -%}
+    {%- if p.url contains '/terms/' -%}
+      {%- assign skip_page = true -%}
+    {%- endif -%}
+    {%- if p.url contains '/privacy/' -%}
+      {%- assign skip_page = true -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if p.sitemap == false -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- if p.seo_noindex == true -%}
+    {%- assign skip_page = true -%}
+  {%- endif -%}
+  {%- unless skip_page -%}
   <url>
-    <loc>{{ p.url | absolute_url }}</loc>
-    {% if p.last_updated %}
+    <loc>{{ p.url | absolute_url | xml_escape }}</loc>
+    {%- if p.last_updated %}
     <lastmod>{{ p.last_updated }}</lastmod>
-    {% endif %}
+    {%- endif %}
   </url>
-  {% endunless %}
-{% endfor %}
+  {%- endunless -%}
+{%- endfor %}
 </urlset>

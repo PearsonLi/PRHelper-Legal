@@ -50,7 +50,7 @@ last_updated: 2026-07-31
   <li><a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Check how a future trip affects your timeline</a></li>
 </ul>
 
-<div class="conversion-strip"><div><h2>Test the workflow with one date you trust</h2><p>Start with one verified exit and return. The free version supports up to 10 trip records, so no paid decision is required to learn whether the method fits.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="marketing_verify_one_trip" data-funnel-experiment="marketing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Verify one trip free</a><small>Independent planning app · Not an IRCC service</small></div></div>
+<div class="conversion-strip"><div><h2>Test the workflow with one date you trust</h2><p>Start with one verified exit and return. The free version supports up to 5 trip records, so no paid decision is required to learn whether the method fits.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="marketing_verify_one_trip" data-funnel-experiment="marketing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Verify one trip free</a><small>Independent planning app · Not an IRCC service</small></div></div>
 
 <p><strong>Official references:</strong>
   <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">Permanent resident status and the 730-day obligation</a> ·

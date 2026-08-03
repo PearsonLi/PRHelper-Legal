@@ -58,7 +58,7 @@ breadcrumb_items:
 <p><a data-funnel-stage="reach" data-funnel-action="renewal_answer_open_product_gateway" data-funnel-experiment="renewal_internal_discovery_v1" href="/PRHelper-Legal/marketing/">CanResidency</a> 可以帮助你保存结构化旅行时间线、查看规划估算，并在续卡变得紧急之前发现缺失或冲突的记录。它是 Rho Technologies Ltd. 开发的独立 iOS App，与 IRCC 无隶属关系；它不会代交申请，也不是官方法律结论或政府计算器。</p>
 
 <div class="conversion-strip">
-  <div><h2>先用一段已核实行程测试</h2><p>点击后只录入一次离境、一次返回和确认它们的来源。先用最多 10 条旅行记录验证，再决定付费功能是否有用。</p></div>
+  <div><h2>先用一段已核实行程测试</h2><p>点击后只录入一次离境、一次返回和确认它们的来源。先用最多 5 条旅行记录验证，再决定付费功能是否有用。</p></div>
   <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_free" data-funnel-experiment="answer_pr_renewal_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始一段行程测试</a><small>开始时无需重建五年 · 独立规划工具</small></div>
 </div>
 

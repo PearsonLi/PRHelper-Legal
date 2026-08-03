@@ -33,6 +33,6 @@ last_updated: 2026-07-31
   <a class="guide-card" href="/PRHelper-Legal/zh/upgrade-guide/"><small>家庭记录</small><h3>需要分别管理家庭成员</h3><p>根据真正受阻的任务，比较个人与多成员方案。</p><strong>按任务选择 →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>比较方案之前，先测试核心记录</h2><p>从可靠来源录入一次离境和返回。免费版最多支持 10 条旅行记录。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="features_test_core_record" data-funnel-experiment="features_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费测试一段行程</a><small>开始时无需选择付费方案</small></div></div>
+<div class="conversion-strip"><div><h2>比较方案之前，先测试核心记录</h2><p>从可靠来源录入一次离境和返回。免费版最多支持 5 条旅行记录。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="features_test_core_record" data-funnel-experiment="features_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费测试一段行程</a><small>开始时无需选择付费方案</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">查看：旅行计划如何影响永居/入籍</a></p>

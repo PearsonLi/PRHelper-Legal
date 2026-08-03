@@ -58,7 +58,7 @@ breadcrumb_items:
 <p><a data-funnel-stage="reach" data-funnel-action="renewal_answer_open_product_gateway" data-funnel-experiment="renewal_internal_discovery_v1" href="/PRHelper-Legal/marketing/">CanResidency</a> can help you keep a structured travel timeline, see planning estimates and find missing or conflicting records before renewal becomes urgent. It is an independent iOS app from Rho Technologies Ltd.; it is not affiliated with IRCC, does not submit an application and is not an official legal determination or government calculator.</p>
 
 <div class="conversion-strip">
-  <div><h2>Test it with one verified trip</h2><p>After tapping, enter one exit, one return and the source that confirms them. You can test up to 10 trip records before deciding whether a paid feature is useful.</p></div>
+  <div><h2>Test it with one verified trip</h2><p>After tapping, enter one exit, one return and the source that confirms them. You can test up to 5 trip records before deciding whether a paid feature is useful.</p></div>
   <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_free" data-funnel-experiment="answer_pr_renewal_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the one-trip test free</a><small>No five-year reconstruction required to start · Independent planning tool</small></div>
 </div>
 

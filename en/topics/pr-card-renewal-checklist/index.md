@@ -64,7 +64,7 @@ breadcrumb_items:
 <p>For every trip, record the departure date, return date, destination and the source you used to verify it. Then compare the sequence with every passport used during the period, booking emails, calendar entries and any available border records. A blank or uncertain date should stay flagged until it is supported—it should not be replaced with a convenient guess.</p>
 
 <h2>Upgrade only when the review copy becomes the block</h2>
-<p>Use the free record to verify the first trips. Consider export or advanced access when you need a structured review copy, more than 10 trips, or a planning check that the basic workflow cannot complete. Name the blocked task before comparing plans.</p>
+<p>Use the free record to verify the first trips. Consider export or advanced access when you need a structured review copy, more than 5 trips, or a planning check that the basic workflow cannot complete. Name the blocked task before comparing plans.</p>
 
 <p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_start_first_trip_free" data-funnel-experiment="renewal_checklist_jobs_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Start the first renewal trip free →</strong></a></p>
 
@@ -76,4 +76,4 @@ breadcrumb_items:
 
 <div class="conversion-strip"><div><h2>Turn the checked timeline into a review copy</h2><p>Start free with one trip. When record capacity or export becomes the real limitation, compare the smallest plan that completes that task.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="renewal_checklist_review_plan" data-funnel-experiment="renewal_checklist_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Test free, then review export access</a><small>Final filing still uses current IRCC forms and instructions</small></div></div>
 
-<p><a href="/PRHelper-Legal/en/getting-started/">Use the 10-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/">Card already expired outside Canada?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>
+<p><a href="/PRHelper-Legal/en/getting-started/">Use the 5-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/">Card already expired outside Canada?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

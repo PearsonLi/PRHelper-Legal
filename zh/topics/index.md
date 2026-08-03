@@ -22,8 +22,8 @@ last_updated: 2026-07-31
 <section class="story-panel">
   <p class="story-kicker">第一次使用？</p>
   <h2>从一段已核实的旅行开始，不要先重建五年。</h2>
-  <p>使用免费 10 条记录流程，以今天就能确认的日期验证方法。确认适合之后，再通过升级指南按 Monthly、Pro 和 Family 各自解决的任务做选择。</p>
-  <p><a href="/PRHelper-Legal/zh/getting-started/"><strong>打开 10 条记录起步流程 →</strong></a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">比较升级路径</a></p>
+  <p>使用免费 5 条记录流程，以今天就能确认的日期验证方法。确认适合之后，再通过升级指南按 Monthly、Pro 和 Family 各自解决的任务做选择。</p>
+  <p><a href="/PRHelper-Legal/zh/getting-started/"><strong>打开 5 条记录起步流程 →</strong></a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">比较升级路径</a></p>
 </section>
 
 <h2>按下一项决定选择，不要只按规则名称选择</h2>

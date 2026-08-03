@@ -22,8 +22,8 @@ last_updated: 2026-07-31
 <section class="story-panel">
   <p class="story-kicker">New to the app?</p>
   <h2>Start with one verified trip, not five reconstructed years.</h2>
-  <p>Use the free 10-trip workflow to test the record with dates you can confirm today. If the method fits, the upgrade guide explains Monthly, Pro, and Family by the task each plan solves.</p>
-  <p><a href="/PRHelper-Legal/en/getting-started/"><strong>Open the 10-trip starter workflow →</strong></a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare upgrade paths</a></p>
+  <p>Use the free 5-trip workflow to test the record with dates you can confirm today. If the method fits, the upgrade guide explains Monthly, Pro, and Family by the task each plan solves.</p>
+  <p><a href="/PRHelper-Legal/en/getting-started/"><strong>Open the 5-trip starter workflow →</strong></a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare upgrade paths</a></p>
 </section>
 
 <h2>Choose by the next decision, not by the rule name</h2>

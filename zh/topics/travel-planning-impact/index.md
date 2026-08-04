@@ -23,7 +23,7 @@ faq_items:
     a: 订票前先测试；旅行日期或计划申请日期变化后，再重新检查。
   - q: 绿色规划信号能保证资格吗？
     a: 不能。规划信号是基于录入记录的估算，不能替代官方计算或法律意见。
-  - q: 订票前怎样免费测试一趟计划旅行？
+  - q: 订票前怎样评估一趟计划旅行？
     a: 先维护一段已确认历史，再写下计划离境、返回和决策日期；只有确实需要比较计划影响时再考虑进阶功能。
 breadcrumb_items:
   - name: 首页
@@ -44,7 +44,7 @@ breadcrumb_items:
   <li><strong>未来决策日。</strong> 检查真正重要的日期，例如枫叶卡申请、入籍申请或其他官方评估日。</li>
 </ol>
 
-<p><a data-funnel-stage="download" data-funnel-action="travel_planning_start_history_free" data-funnel-experiment="travel_planning_decision_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>先免费建立一段已确认历史 →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="travel_planning_start_history" data-funnel-experiment="travel_planning_decision_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>先建立一段已确认旅行历史 →</strong></a></p>
 
 <p><a data-funnel-stage="paid" data-funnel-action="travel_planning_define_trip_before_plan" data-funnel-experiment="travel_planning_decision_zh_v3" href="/PRHelper-Legal/zh/upgrade-guide/">写清离境、返回和决策日后，再比较规划方案 →</a></p>
 
@@ -55,7 +55,7 @@ breadcrumb_items:
 <p>航班会改变、历史记录会被更正、计划申请日期也会移动。只有在精确边界上才成立的方案非常脆弱。最终应使用官方工具核验，并评估增加加拿大境内天数是否能让计划更稳健。</p>
 
 <h2>只有真实订票决定受到阻碍时，才为规划能力付费</h2>
-<p>先用免费记录保持当前时间线准确。只有需要在付机票费用前比较一次具体未来离境或评估日期时，再考虑进阶规划能力。打开方案页之前，先把这趟旅行写清楚。</p>
+<p>先保持当前时间线准确；需要在付机票费用前比较具体未来离境或评估日期时，使用进阶规划能力。打开方案页之前，先把这趟旅行写清楚。</p>
 
 <div class="callout"><strong>规划信号不是法律结论。</strong>它取决于录入日期。接近边界或涉及例外时，应对照最新 IRCC 指引并咨询持牌专业人士。</div>
 

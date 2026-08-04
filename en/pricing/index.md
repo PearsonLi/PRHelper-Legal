@@ -16,8 +16,8 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/pricing/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
 last_updated: 2026-08-03
 faq_items:
-  - q: Can I try CanResidency before paying?
-    a: Yes. The free version supports up to 5 trip records so you can test the core workflow with real dates.
+  - q: How should I choose a CanResidency plan?
+    a: Choose by the job you need to complete—short-term full access, permanent individual planning and exports, or permanent multi-member management.
   - q: Should I choose Monthly or a lifetime plan?
     a: Monthly is flexible short-term access. Pro Lifetime is permanent individual access. Family Lifetime adds permanent multi-member management.
   - q: Is my travel history sent to a developer server?
@@ -53,29 +53,29 @@ faq_items:
 
 <h2>Choose the smallest plan that removes the block</h2>
 <div class="card-grid">
-  <section class="plan-card"><h3>My 6th trip is blocked</h3><p>Compare Monthly with Pro Lifetime based on whether the need is short-term or ongoing.</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_trip_11" data-funnel-experiment="pricing_jobs_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review capacity options →</a></section>
+  <section class="plan-card"><h3>I maintain an ongoing travel history</h3><p>Compare Monthly with Pro Lifetime based on whether the need is short-term or ongoing.</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_trip_11" data-funnel-experiment="pricing_jobs_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review individual options →</a></section>
   <section class="plan-card"><h3>I need one export or planning period</h3><p>Monthly is the flexible route when the advanced task is temporary.</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_export_plan" data-funnel-experiment="pricing_jobs_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review short-term access →</a></section>
   <section class="plan-card"><h3>A second person needs a separate timeline</h3><p>Compare temporary Monthly access with permanent Family access.</p><a data-funnel-stage="paid" data-funnel-action="pricing_job_second_member" data-funnel-experiment="pricing_jobs_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review family access →</a></section>
 </div>
 
 <h2>Start with the record, then choose</h2>
 
-<p>You do not need to decide before you know whether the workflow fits. The free version supports up to 5 trip records, so you can enter a real journey, review the timeline, and see whether ongoing tracking solves the problem you have.</p>
+<p>Start by entering a real journey and reviewing the timeline against your source. Then choose the plan whose capabilities match the work you need: ongoing records, future-trip planning, exports, or family-member timelines.</p>
 
-<div class="callout"><strong>Free readiness check:</strong> Before reviewing a plan, enter one trip you can verify and confirm that the timeline matches your source. <a data-funnel-stage="paid" data-funnel-action="pricing_complete_free_readiness" data-funnel-experiment="pricing_readiness_en_v1" href="/PRHelper-Legal/en/getting-started/">Complete the free readiness check →</a></div>
+<div class="callout"><strong>Workflow readiness check:</strong> Before reviewing a plan, identify the record, planning, export, or family task you need to complete. <a data-funnel-stage="paid" data-funnel-action="pricing_complete_workflow_readiness" data-funnel-experiment="pricing_readiness_en_v1" href="/PRHelper-Legal/en/getting-started/">Build a verified first record →</a></div>
 
-<p><a data-funnel-stage="paid" data-funnel-action="pricing_continue_free_no_block" data-funnel-experiment="pricing_no_block_en_v1" href="/PRHelper-Legal/en/getting-started/"><strong>No task is blocked? Continue free instead of choosing a plan →</strong></a></p>
+<p><a data-funnel-stage="paid" data-funnel-action="pricing_continue_core_workflow" data-funnel-experiment="pricing_no_block_en_v1" href="/PRHelper-Legal/en/getting-started/"><strong>Not sure which task matters most? Start with the verified-trip workflow →</strong></a></p>
 
-<div class="conversion-strip"><div><h2>Make one real trip your test</h2><p>Download the app, add a recent exit and return, then compare the result with your own records. Upgrade only when a specific task is blocked.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="pricing_test_then_choose" data-funnel-experiment="pricing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Test free, then review plans</a><small>No account required to evaluate the basic workflow · Final prices are shown by Apple</small></div></div>
+<div class="conversion-strip"><div><h2>Choose capabilities around a real task</h2><p>Use Monthly for a focused planning period, Pro for a permanent individual record with advanced planning and exports, or Family for separate member timelines.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="pricing_test_then_choose" data-funnel-experiment="pricing_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Review plans in the app</a><small>Final prices and eligibility are shown by Apple</small></div></div>
 
 <h2>Common purchase questions</h2>
 
-<details class="faq-item" data-faq-id="pricing-free-first"><summary>Can I try the workflow before paying?</summary><p>Yes. Free users can keep up to 5 trip records, which is enough to test the core record-keeping flow with real dates.</p></details>
+<details class="faq-item" data-faq-id="pricing-capabilities"><summary>How should I choose a plan?</summary><p>Choose Monthly for focused short-term access, Pro Lifetime for permanent individual planning and exports, or Family Lifetime for permanent multi-member management.</p></details>
 <details class="faq-item" data-faq-id="pricing-monthly-or-lifetime"><summary>Should I choose Monthly or a lifetime plan?</summary><p>Choose Monthly for flexible short-term access to Pro + Family. Choose Pro Lifetime for permanent individual access, or Family Lifetime when you need permanent multi-member management.</p></details>
 <details class="faq-item" data-faq-id="pricing-privacy"><summary>Do I have to send my travel history to a developer server?</summary><p>No. Data is local-first, with optional iCloud sync under your Apple account.</p></details>
 <details class="faq-item" data-faq-id="pricing-restore"><summary>Should I buy again if paid access is not shown?</summary><p>No. First use Restore Purchases with the same Apple ID. If access is still missing, keep Apple’s message and use the purchase-recovery checklist.</p></details>
 <details class="faq-item" data-faq-id="pricing-cancel"><summary>What happens if I stop a monthly subscription?</summary><p>Apple controls the subscription term and renewal status shown in the app. Review the current Apple subscription screen before changing a plan; lifetime purchases are separate products.</p></details>
 
-<p><a href="/PRHelper-Legal/en/getting-started/">Start with the free 5-trip workflow</a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare Monthly, Pro, and Family by task</a></p>
+<p><a href="/PRHelper-Legal/en/getting-started/">Build a verified travel record</a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare Monthly, Pro, and Family by task</a></p>
 
 <div class="callout"><strong>Note:</strong> final price, trial eligibility, active status, and expiry are determined by Apple and RevenueCat responses shown in the app.</div>

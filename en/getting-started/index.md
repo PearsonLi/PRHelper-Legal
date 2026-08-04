@@ -1,16 +1,16 @@
 ---
-title: Start CanResidency with 5 Real Trip Records
+title: Start CanResidency with a Verified Trip
 permalink: /en/getting-started/
 layout: site
 lang: en
-hero_title_en: Start with 5 real trip records
-hero_title_zh: 免费起步
-hero_subtitle_en: A 15-minute workflow to test the record before deciding whether to upgrade.
+hero_title_en: Start with a verified trip
+hero_title_zh: 开始整理
+hero_subtitle_en: A focused workflow for turning one verified trip into a dependable travel timeline.
 hero_subtitle_zh: 用真实旅行记录验证核心流程。
 nav_key: features
-seo_title: CanResidency Getting Started | First 5 Trip Records
-seo_description: "Test CanResidency free with up to 5 real trip records: enter, verify, review and decide whether Pro or Family fits."
-seo_keywords: CanResidency free, Canada PR travel tracker, first 5 trip records, citizenship day tracker
+seo_title: CanResidency Getting Started | Build a Verified Travel Timeline
+seo_description: "Start CanResidency with a verified trip: enter the dates, retain the source, review PR and citizenship planning, and maintain the timeline after each return."
+seo_keywords: CanResidency getting started, Canada PR travel tracker, verified travel timeline, citizenship day tracker
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
@@ -41,15 +41,15 @@ howto_steps:
 </ol>
 
 <div class="readiness-checklist" aria-labelledby="first-trip-readiness-en">
-  <h3 id="first-trip-readiness-en">Is one real trip ready to test?</h3>
+  <h3 id="first-trip-readiness-en">Is one real trip ready to record?</h3>
   <label><input type="checkbox" data-readiness-check /> I have one exit date from a source I can reopen.</label>
   <label><input type="checkbox" data-readiness-check /> I have the matching return date or have marked it uncertain.</label>
   <label><input type="checkbox" data-readiness-check /> I know which email, passport page or calendar entry supports the record.</label>
   <p class="readiness-status" data-readiness-status>If all three are checked, this is a useful first record—not a five-year reconstruction.</p>
 </div>
 
-<h2>Your free-version success test</h2>
-<p>The workflow succeeds if you can answer three questions: Which dates are verified? Which trips remain uncertain? What should you maintain after the next return to Canada? Upgrade only when you need more than 5 records, advanced planning, exports or family-member management.</p>
+<h2>What a useful first record should prove</h2>
+<p>The workflow succeeds if you can answer three questions: Which dates are verified? Which trips remain uncertain? What should you maintain after the next return to Canada? The value is a record you can review and continue—not a one-time total.</p>
 <p>If the first record is still unfinished after 15 minutes, do not add more history. <a data-funnel-stage="activation" data-funnel-action="starter_open_first_record_rescue" data-funnel-experiment="starter_rescue_en_v1" href="/PRHelper-Legal/en/support/">Identify whether setup, date entry, verification or the result screen caused the stop →</a></p>
 
 <h2>Day 1, Day 7, and the next return</h2>
@@ -59,14 +59,14 @@ howto_steps:
   <section class="plan-card"><span class="plan-badge">Next return</span><h3>Create the lasting habit</h3><p>Record the trip when you return to Canada, while the date and evidence are still easy to retrieve.</p></section>
 </div>
 
-<h2>Do not upgrade until a real limitation appears</h2>
-<p>Continue free while the 5-record workflow is enough. When a real task is blocked, name it before opening the purchase screen: more trip capacity, advanced planning, an export, or separate family-member records. That answer determines whether you need Monthly, Pro, Family—or no upgrade yet.</p>
+<h2>Choose capabilities around the job you need</h2>
+<p>Name the outcome before opening the purchase screen: maintain a longer history, use advanced planning, create an export, or manage separate family-member records. That answer determines whether Monthly, Pro or Family fits the work.</p>
 
 <h2>Your seven-day activation check</h2>
 <p>Return after seven days and answer four yes-or-no questions: Is at least one trip verified from a real source? Is every uncertain date still visibly marked? Can you explain the next date that matters? Did you record any new return while it was fresh? If fewer than three answers are “yes,” repair the record before considering an upgrade.</p>
 <p><a data-funnel-stage="activation" data-funnel-action="day7_check_open_journal" data-funnel-experiment="activation_en_v1" href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Open the travel-journal checklist →</a></p>
 <p><a class="btn" data-reminder-days="7" data-funnel-stage="retention" data-funnel-action="create_day7_record_reminder" data-funnel-experiment="day7_reminder_en_v1" href="#">Add a private Day-7 calendar reminder</a></p>
 
-<div class="conversion-strip"><div><h2>Make the first record real</h2><p>Use a trip you can verify today. Downloading does not require you to choose a paid plan: the first 5 trip records are available to test the workflow.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="starter_begin_10_records" data-funnel-experiment="starter_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the 5-record test free</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
+<div class="conversion-strip"><div><h2>Make the first record reviewable</h2><p>Use a trip you can verify today, retain the source and let the same timeline support PR, citizenship and future-travel planning.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="starter_begin_10_records" data-funnel-experiment="starter_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Build the first verified record</a><small>Independent planning app · Final filing decisions use official tools</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/upgrade-guide/">When should I upgrade?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a></p>

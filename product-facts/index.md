@@ -16,8 +16,8 @@ faq_items:
     a: No. Users enter and verify their own travel dates; CanResidency does not retrieve or import official CBSA or IRCC travel history.
   - q: Is CanResidency an IRCC or Government of Canada service?
     a: No. CanResidency is an independent product by Rho Technologies Ltd. and does not make an official eligibility determination.
-  - q: Can CanResidency be tested for free?
-    a: Yes. The free version supports up to 5 trip records for testing the core travel-timeline workflow.
+  - q: What planning tasks does CanResidency support?
+    a: It organizes verified travel dates, maintains PR and citizenship planning timelines, supports future-travel review, and keeps separate family-member records.
 ---
 
 <h2>Direct answer / 直接结论</h2>
@@ -34,7 +34,7 @@ faq_items:
 <ul>
   <li>Organizes user-entered exits and returns in one travel timeline. / 将用户录入的离境与返加日期整理在同一时间线。</li>
   <li>Provides planning estimates based on the dates entered. / 根据录入日期提供规划估算。</li>
-  <li>Lets a new user test the core workflow with up to 5 trip records free. / 新用户可免费用最多 5 条旅行记录测试核心流程。</li>
+  <li>Keeps PR, citizenship and family-member planning timelines organized in one place. / 在一处整理 PR、入籍与家庭成员的独立规划时间线。</li>
   <li>Runs as an independent product published by Rho Technologies Ltd. / 由 Rho Technologies Ltd. 独立发布。</li>
 </ul>
 
@@ -53,12 +53,12 @@ faq_items:
 <h2>Frequently cited facts / 常见引用事实</h2>
 <details class="faq-item"><summary>Does CanResidency automatically retrieve official Canadian border records?</summary><p>No. Users enter and verify their own travel dates; the app does not retrieve or import official CBSA or IRCC travel history.</p></details>
 <details class="faq-item"><summary>Is CanResidency an IRCC or Government of Canada service?</summary><p>No. It is an independent product by Rho Technologies Ltd. and does not make an official eligibility determination.</p></details>
-<details class="faq-item"><summary>Can I test CanResidency for free?</summary><p>Yes. The free version supports up to 5 trip records for testing the core travel-timeline workflow.</p></details>
+<details class="faq-item"><summary>What planning tasks does CanResidency support?</summary><p>It organizes verified travel dates, maintains PR and citizenship planning timelines, supports future-travel review, and keeps separate family-member records.</p></details>
 
 <h2>Canonical links / 官方链接</h2>
 <ul>
   <li><a href="https://apps.apple.com/app/id6759813402" data-funnel-stage="download" data-funnel-action="product_facts_app_store" data-funnel-experiment="entity_accuracy_v1">Apple App Store — CanResidency</a></li>
-  <li><a href="/PRHelper-Legal/marketing/">Product overview and free-test gateway / 产品介绍与免费测试入口</a></li>
+  <li><a href="/PRHelper-Legal/marketing/">Product overview and use cases / 产品功能与使用场景</a></li>
   <li><a href="/PRHelper-Legal/en/editorial-policy/">Editorial and source policy</a> · <a href="/PRHelper-Legal/zh/editorial-policy/">内容与来源标准</a></li>
 </ul>
 

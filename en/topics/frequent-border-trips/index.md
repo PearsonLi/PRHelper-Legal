@@ -53,12 +53,12 @@ breadcrumb_items:
 
 <div class="callout"><strong>Do not optimize the record for a desired result.</strong> Record what happened, retain the source, and use current IRCC instructions or licensed advice for the application decision.</div>
 
-<p><a data-funnel-stage="download" data-funnel-action="frequent_crossings_test_weekly_batch" data-funnel-experiment="frequent_crossings_batch_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Test this week's latest crossing free →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="frequent_crossings_test_weekly_batch" data-funnel-experiment="frequent_crossings_batch_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Add this week's crossings to one timeline →</strong></a></p>
 
 <p><a data-reminder-days="30" data-funnel-stage="retention" data-funnel-action="frequent_crossings_monthly_gap_review" data-funnel-experiment="frequent_crossings_batch_en_v1" href="#">Add a private 30-day gap-review reminder</a></p>
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC permanent resident status and residency obligation</a>.</p>
 
-<div class="conversion-strip"><div><h2>Turn crossings into a maintained timeline</h2><p>CanResidency keeps exits, returns, rolling progress, and planned-trip impact together—especially useful when the trip count becomes too large for memory.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="frequent_crossings_start_free" data-funnel-experiment="frequent_crossings_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record the latest crossing free</a><small>Independent planning tool · Not legal advice</small></div></div>
+<div class="conversion-strip"><div><h2>Turn crossings into a maintained timeline</h2><p>CanResidency keeps exits, returns, rolling progress, and planned-trip impact together—especially useful when the trip count becomes too large for memory.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="frequent_crossings_start_timeline" data-funnel-experiment="frequent_crossings_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Maintain your crossing history</a><small>Independent planning tool · Not legal advice</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/topics/travel-journal-checklist/">Use the IRCC-aligned journal checklist</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

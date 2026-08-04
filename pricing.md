@@ -40,7 +40,7 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/pricing/
     <h3 class="plan-title"><span class="lang-zh">专业版买断</span><span class="lang-en">Pro Lifetime</span></h3>
     <p class="plan-subtitle"><span class="lang-zh">解锁专业能力（不含多成员）。</span><span class="lang-en">Unlocks Pro features (without multi-member).</span></p>
     <ul>
-      <li><span class="lang-zh">无限出行记录（免费版有上限）</span><span class="lang-en">Unlimited trip records (free has a cap)</span></li>
+      <li><span class="lang-zh">持续维护完整出行历史</span><span class="lang-en">Maintain a complete travel history</span></li>
       <li><span class="lang-zh">进阶统计、规划信号与导出</span><span class="lang-en">Advanced analytics, planning signals, and export</span></li>
     </ul>
   </section>

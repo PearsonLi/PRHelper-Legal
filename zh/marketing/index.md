@@ -37,6 +37,6 @@ last_updated: 2026-07-31
 
 <div class="callout"><strong>重要说明：</strong>CanResidency 与 IRCC 或加拿大政府没有关联，不提供法律意见；最终要求应以 Canada.ca 当前指引为准。</div>
 
-<div class="conversion-strip"><div><h2>用一个可信日期测试流程</h2><p>先录入一段已核实的离境和返回。免费版最多支持 5 条旅行记录，无需先作出付费决定。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="marketing_verify_one_trip" data-funnel-experiment="marketing_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费核实一段行程</a><small>独立规划 App · 不是 IRCC 服务</small></div></div>
+<div class="conversion-strip"><div><h2>把可信日期变成可靠时间线</h2><p>录入已核实的离境和返回，保存来源，并让记录随续卡、入籍与未来旅行规划持续发挥价值。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="marketing_verify_one_trip" data-funnel-experiment="marketing_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">建立旅行时间线</a><small>独立规划 App · 不是 IRCC 服务</small></div></div>
 
 <p><strong>官方参考：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">永久居民身份与居住义务</a> · <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html" target="_blank" rel="noopener noreferrer">入籍 physical presence</a></p>

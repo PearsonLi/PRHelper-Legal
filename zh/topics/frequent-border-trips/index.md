@@ -53,6 +53,6 @@ breadcrumb_items:
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC 永久居民身份与居住义务说明</a>。</p>
 
-<div class="conversion-strip"><div><h2>把每次过境变成持续维护的时间线</h2><p>CanResidency 把离境、返回、滚动进度和计划旅行影响放在一起，尤其适合行程数量已经超出记忆能力的情况。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="frequent_crossings_start_free" data-funnel-experiment="frequent_crossings_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录最近一次过境</a><small>独立规划工具 · 不构成法律意见</small></div></div>
+<div class="conversion-strip"><div><h2>把每次过境变成持续维护的时间线</h2><p>CanResidency 把离境、返回、滚动进度和计划旅行影响放在一起，尤其适合行程数量已经超出记忆能力的情况。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="frequent_crossings_start_timeline" data-funnel-experiment="frequent_crossings_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">持续维护过境历史</a><small>独立规划工具 · 不构成法律意见</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">使用 IRCC 字段旅行日志清单</a> · <a href="/PRHelper-Legal/zh/topics/missing-travel-dates/">恢复缺失日期</a> · <a href="/PRHelper-Legal/zh/topics/pr-730-rule/">理解 730 天规则</a></p>

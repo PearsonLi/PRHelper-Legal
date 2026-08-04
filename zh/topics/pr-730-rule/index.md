@@ -42,7 +42,7 @@ breadcrumb_items:
 <h2>常见问题 2：为什么不能只看枫叶卡到期日？</h2>
 <p>卡片有效期与永久居民身份、居住义务是不同问题。适用期间取决于成为永久居民的时间和实际评估日期，因此不能只用卡片到期日推算结果。</p>
 
-<p><a data-funnel-stage="download" data-funnel-action="rule_730_test_evaluation_date" data-funnel-experiment="rule_730_window_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费用一段已确认行程测试滚动窗口 →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="rule_730_test_evaluation_date" data-funnel-experiment="rule_730_window_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>用已确认行程查看滚动窗口 →</strong></a></p>
 
 <p><a data-reminder-days="30" data-funnel-stage="retention" data-funnel-action="rule_730_monthly_window_review" data-funnel-experiment="rule_730_window_zh_v3" href="#">添加一个私密的 30 天窗口复查提醒</a></p>
 
@@ -55,4 +55,4 @@ breadcrumb_items:
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC：了解永久居民身份</a>。</p>
 
-<p><a data-funnel-stage="download" data-funnel-action="rule_730_start_free" data-funnel-experiment="rule_730_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费核对一段已确认行程</strong></a> · <a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">枫叶卡续卡清单</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>
+<p><a data-funnel-stage="download" data-funnel-action="rule_730_start_timeline" data-funnel-experiment="rule_730_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>查看滚动 730 天时间线</strong></a> · <a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">枫叶卡续卡清单</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>

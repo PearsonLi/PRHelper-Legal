@@ -32,6 +32,6 @@ breadcrumb_items:
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/pr-730-rule/"><small>居住义务</small><h3>730 天规则如何理解？</h3><p>理解滚动五年窗口，以及特殊情况为什么需要回到官方指引或专业意见。</p><strong>理解 730 天规则 →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>已经有一段能够确认的行程？</h2><p>先用它验证记录流程，不必立刻重建数年旅行史。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_center_start_free" data-funnel-experiment="answer_center_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段行程</a><small>免费版最多 5 条记录 · 独立规划工具</small></div></div>
+<div class="conversion-strip"><div><h2>已经有一段能够确认的行程？</h2><p>把它变成持续维护时间线的起点，不必立刻重建数年旅行史。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_center_start_timeline" data-funnel-experiment="answer_center_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">开始整理旅行时间线</a><small>可核对记录 · 独立规划工具</small></div></div>
 
 <p>查看我们的<a href="/PRHelper-Legal/zh/editorial-policy/">内容来源与更新标准</a>。涉及申请决定时，请以 Canada.ca 当前指引为准。</p>

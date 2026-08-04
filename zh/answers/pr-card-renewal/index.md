@@ -35,7 +35,7 @@ breadcrumb_items:
 <div class="direct-answer">
   <h2>直接答案</h2>
   <p><strong>如果你人在加拿大，枫叶卡已过期或将在九个月内过期，应使用 IRCC 当前流程申请新卡。</strong>提交前先核验申请要求，整理并交叉核对所需期间的旅行和个人历史，填写当前版本申请，并按 IRCC 要求提供文件、照片和费用。不要仅因为卡片以后会到期就过早申请：IRCC 当前说明，除列明的例外情况外，现有卡片仍有九个月以上有效期的申请通常会被退回。</p>
-  <p><a data-funnel-stage="download" data-funnel-action="renewal_direct_answer_app_store" data-funnel-experiment="renewal_answer_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>在 CanResidency 免费整理一段已核实行程 →</strong></a></p>
+  <p><a data-funnel-stage="download" data-funnel-action="renewal_direct_answer_app_store" data-funnel-experiment="renewal_answer_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>在 CanResidency 整理续卡旅行时间线 →</strong></a></p>
 </div>
 
 <h2>打开申请表之前，先准备什么</h2>
@@ -59,8 +59,8 @@ breadcrumb_items:
 <p><a data-funnel-stage="reach" data-funnel-action="renewal_answer_open_product_gateway" data-funnel-experiment="renewal_internal_discovery_v1" href="/PRHelper-Legal/marketing/">CanResidency</a> 可以帮助你保存结构化旅行时间线、查看规划估算，并在续卡变得紧急之前发现缺失或冲突的记录。它是 Rho Technologies Ltd. 开发的独立 iOS App，与 IRCC 无隶属关系；它不会代交申请，也不是官方法律结论或政府计算器。</p>
 
 <div class="conversion-strip">
-  <div><h2>先用一段已核实行程测试</h2><p>点击后只录入一次离境、一次返回和确认它们的来源。先用最多 5 条旅行记录验证，再决定付费功能是否有用。</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_free" data-funnel-experiment="answer_pr_renewal_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费开始一段行程测试</a><small>开始时无需重建五年 · 独立规划工具</small></div>
+  <div><h2>从一段已核实行程开始</h2><p>录入一次离境、一次返回和确认它们的来源，让这条记录成为持续维护续卡时间线的起点。</p></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_timeline" data-funnel-experiment="answer_pr_renewal_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">建立续卡旅行时间线</a><small>开始时无需重建五年 · 独立规划工具</small></div>
 </div>
 
 <p><a data-funnel-stage="download" data-funnel-action="answer_pr_renewal_preview_steps" data-funnel-experiment="answer_pr_renewal_zh_v2" href="/PRHelper-Legal/zh/getting-started/">下载前先预览完整 15 分钟首次流程 →</a></p>

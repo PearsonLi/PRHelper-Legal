@@ -35,7 +35,7 @@ breadcrumb_items:
 <div class="direct-answer">
   <h2>Direct answer</h2>
   <p><strong>If you are in Canada and your PR card expires in less than nine months—or has already expired—use the current IRCC process to apply for a new card.</strong> Before applying, verify that you meet the requirements, reconcile the requested travel and personal-history periods, complete the current application and provide the documents, photo and fee IRCC requests. Do not submit early merely because the card will eventually expire: IRCC currently says applications are normally returned when the existing card is valid for more than nine months, unless a listed exception applies.</p>
-  <p><a data-funnel-stage="download" data-funnel-action="renewal_direct_answer_app_store" data-funnel-experiment="renewal_answer_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Organize one verified trip in CanResidency free →</strong></a></p>
+  <p><a data-funnel-stage="download" data-funnel-action="renewal_direct_answer_app_store" data-funnel-experiment="renewal_answer_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Organize your renewal timeline in CanResidency →</strong></a></p>
 </div>
 
 <h2>What to prepare before you open the form</h2>
@@ -59,8 +59,8 @@ breadcrumb_items:
 <p><a data-funnel-stage="reach" data-funnel-action="renewal_answer_open_product_gateway" data-funnel-experiment="renewal_internal_discovery_v1" href="/PRHelper-Legal/marketing/">CanResidency</a> can help you keep a structured travel timeline, see planning estimates and find missing or conflicting records before renewal becomes urgent. It is an independent iOS app from Rho Technologies Ltd.; it is not affiliated with IRCC, does not submit an application and is not an official legal determination or government calculator.</p>
 
 <div class="conversion-strip">
-  <div><h2>Test it with one verified trip</h2><p>After tapping, enter one exit, one return and the source that confirms them. You can test up to 5 trip records before deciding whether a paid feature is useful.</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_free" data-funnel-experiment="answer_pr_renewal_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start the one-trip test free</a><small>No five-year reconstruction required to start · Independent planning tool</small></div>
+  <div><h2>Start with one verified trip</h2><p>Enter one exit, one return and the source that confirms them. CanResidency turns that record into a maintained timeline for renewal planning and later review.</p></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_pr_renewal_start_timeline" data-funnel-experiment="answer_pr_renewal_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start your renewal timeline</a><small>No five-year reconstruction required to start · Independent planning tool</small></div>
 </div>
 
 <p><a data-funnel-stage="download" data-funnel-action="answer_pr_renewal_preview_steps" data-funnel-experiment="answer_pr_renewal_en_v2" href="/PRHelper-Legal/en/getting-started/">Preview the exact 15-minute first session before downloading →</a></p>

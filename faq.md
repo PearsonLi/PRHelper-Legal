@@ -31,8 +31,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/faq/
   <h3>Monthly、Pro、Family 的关系？</h3>
   <p>Monthly 有效期内解锁 Pro + Family；Pro 买断解锁 Pro；Family 买断包含 Pro + 多成员。</p>
 
-  <h3>免费版有什么限制？</h3>
-  <p>免费版旅行记录条数有限（以 App 当前规则为准）。</p>
+  <h3>CanResidency 能完成哪些任务？</h3>
+  <p>整理旅行记录、查看 PR 与入籍时间线、规划未来旅行、导出复核文件，并管理家庭成员。</p>
 
   <h3>数据存储在哪里？</h3>
   <p>默认本机存储，可选 iCloud 同步。导出由用户主动触发。</p>
@@ -48,8 +48,8 @@ alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/faq/
   <h3>How do Monthly, Pro, and Family relate?</h3>
   <p>Monthly unlocks Pro + Family while active. Pro lifetime unlocks Pro. Family lifetime includes Pro + multi-member.</p>
 
-  <h3>What is limited in free version?</h3>
-  <p>Trip record count is capped in free tier (as defined by current app rules).</p>
+  <h3>What can CanResidency help me manage?</h3>
+  <p>Travel records, PR and citizenship timelines, future-trip planning, review exports, and family-member records.</p>
 
   <h3>Where is data stored?</h3>
   <p>Data is local-first with optional iCloud sync. Export is user-initiated.</p>

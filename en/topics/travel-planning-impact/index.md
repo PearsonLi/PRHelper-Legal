@@ -49,7 +49,7 @@ breadcrumb_items:
 <p>Flights change, records are corrected, and intended application dates move. A plan that works only on an exact boundary is fragile. Use official tools to verify the final result, and consider whether extra in-Canada time creates a more resilient plan.</p>
 
 <h2>Pay for planning only when a real booking decision is blocked</h2>
-<p>First keep the current timeline accurate with the free record. Consider an advanced planning option only when you need to compare a specific future absence or evaluation date before committing money to travel. Define that trip before opening the plan screen.</p>
+<p>First keep the current timeline accurate. Use advanced planning when you need to compare a specific future absence or evaluation date before committing money to travel. Define that trip before opening the plan screen.</p>
 
 <div class="callout"><strong>Planning signals are not legal determinations.</strong> They depend on the dates entered. Verify final eligibility with current IRCC guidance and seek licensed advice where the margin is close or an exception matters.</div>
 

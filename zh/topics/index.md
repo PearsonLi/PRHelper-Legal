@@ -22,8 +22,8 @@ last_updated: 2026-07-31
 <section class="story-panel">
   <p class="story-kicker">第一次使用？</p>
   <h2>从一段已核实的旅行开始，不要先重建五年。</h2>
-  <p>使用免费 5 条记录流程，以今天就能确认的日期验证方法。确认适合之后，再通过升级指南按 Monthly、Pro 和 Family 各自解决的任务做选择。</p>
-  <p><a href="/PRHelper-Legal/zh/getting-started/"><strong>打开 5 条记录起步流程 →</strong></a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">比较升级路径</a></p>
+  <p>用今天就能确认的日期建立可核对原始记录；再通过升级指南，按 Monthly、Pro 和 Family 各自支持的规划、导出与家庭任务做选择。</p>
+  <p><a href="/PRHelper-Legal/zh/getting-started/"><strong>打开已核实行程流程 →</strong></a> · <a href="/PRHelper-Legal/zh/upgrade-guide/">按任务比较能力</a></p>
 </section>
 
 <h2>按下一项决定选择，不要只按规则名称选择</h2>
@@ -46,4 +46,4 @@ last_updated: 2026-07-31
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/family-multi-member-guide/"><small>家庭</small><h3>家庭多成员记录</h3><p>让每位家庭成员的身份、旅行与计划日期彼此独立、可解释。</p><strong>阅读指南 →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>持续维护原始记录</h2><p>申请时必须使用官方计算器；CanResidency 的作用，是在那一刻到来前帮你把旅行时间线维护完整。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="topic_hub_start_free" data-funnel-experiment="topic_hub_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已核实行程</a><small>独立工具 · 与 IRCC 无关联 · 仅用于一般规划</small></div></div>
+<div class="conversion-strip"><div><h2>持续维护原始记录</h2><p>申请时必须使用官方计算器；CanResidency 的作用，是在那一刻到来前帮你把旅行时间线维护完整。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="topic_hub_start_timeline" data-funnel-experiment="topic_hub_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">建立可核对旅行时间线</a><small>独立工具 · 与 IRCC 无关联 · 仅用于一般规划</small></div></div>

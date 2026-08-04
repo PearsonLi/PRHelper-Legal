@@ -63,6 +63,6 @@ breadcrumb_items:
 
 <p><strong>官方起点：</strong><a href="https://www.cbsa-asfc.gc.ca/agency-agence/reports-rapports/pia-efvp/atip-aiprp/infosource-eng.html" target="_blank" rel="noopener noreferrer">CBSA 信息来源与旅行历史记录说明</a>。</p>
 
-<div class="conversion-strip"><div><h2>把恢复后的日期放进持续维护的时间线</h2><p>CanResidency 帮助你边核验边记录旅行，并持续查看滚动的 PR 与入籍进度，避免下次再次依赖记忆重建。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="missing_dates_start_free" data-funnel-experiment="missing_dates_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已恢复行程</a><small>独立规划工具 · 不能替代官方记录</small></div></div>
+<div class="conversion-strip"><div><h2>把恢复后的日期放进持续维护的时间线</h2><p>CanResidency 帮助你边核验边记录旅行，并持续查看滚动的 PR 与入籍进度，避免下次再次依赖记忆重建。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="missing_dates_start_timeline" data-funnel-experiment="missing_dates_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">把恢复日期加入时间线</a><small>独立规划工具 · 不能替代官方记录</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/travel-journal-checklist/">建立持续维护的旅行日志</a> · <a href="/PRHelper-Legal/zh/topics/frequent-border-trips/">频繁过境记录方法</a> · <a href="/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/">枫叶卡续卡清单</a></p>

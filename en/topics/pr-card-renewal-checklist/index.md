@@ -37,7 +37,7 @@ breadcrumb_items:
 <h2>Start with the timeline, not the form</h2>
 <p>The slowest part of renewal preparation is often not completing fields. It is discovering that travel, address, work, and passport histories were maintained separately and no longer agree. Build one evidence-backed timeline before copying dates into an application.</p>
 
-<p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_direct_answer_app_store" data-funnel-experiment="gsc_renewal_query_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Organize the first verified renewal trip free →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_direct_answer_app_store" data-funnel-experiment="gsc_renewal_query_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Organize a reviewable renewal timeline →</strong></a></p>
 
 <section class="story-panel">
   <p class="story-kicker">The week-before-renewal trap</p>
@@ -66,9 +66,9 @@ breadcrumb_items:
 <p>For every trip, record the departure date, return date, destination and the source you used to verify it. Then compare the sequence with every passport used during the period, booking emails, calendar entries and any available border records. A blank or uncertain date should stay flagged until it is supported—it should not be replaced with a convenient guess.</p>
 
 <h2>Upgrade only when the review copy becomes the block</h2>
-<p>Use the free record to verify the first trips. Consider export or advanced access when you need a structured review copy, more than 5 trips, or a planning check that the basic workflow cannot complete. Name the blocked task before comparing plans.</p>
+<p>Verify travel dates against primary sources first. Use export and advanced planning when you need a structured review copy, a maintained long-term history, or a future-date scenario. Name that task before comparing plans.</p>
 
-<p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_start_first_trip_free" data-funnel-experiment="renewal_checklist_jobs_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Start the first renewal trip free →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="renewal_checklist_start_first_trip" data-funnel-experiment="renewal_checklist_jobs_en_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Build your renewal record →</strong></a></p>
 
 <p><a data-funnel-stage="paid" data-funnel-action="renewal_checklist_choose_blocked_job" data-funnel-experiment="renewal_checklist_jobs_en_v3" href="/PRHelper-Legal/en/upgrade-guide/">Compare access only after naming the blocked task →</a></p>
 
@@ -76,6 +76,6 @@ breadcrumb_items:
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply.html" target="_blank" rel="noopener noreferrer">IRCC: Apply for, renew or replace a PR card</a>.</p>
 
-<div class="conversion-strip"><div><h2>Turn the checked timeline into a review copy</h2><p>Start free with one trip. When record capacity or export becomes the real limitation, compare the smallest plan that completes that task.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="renewal_checklist_review_plan" data-funnel-experiment="renewal_checklist_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Test free, then review export access</a><small>Final filing still uses current IRCC forms and instructions</small></div></div>
+<div class="conversion-strip"><div><h2>Turn the checked timeline into a review copy</h2><p>Keep verified dates, supporting sources and rolling progress together, then use export when you need a structured review file.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="paid" data-funnel-action="renewal_checklist_review_plan" data-funnel-experiment="renewal_checklist_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Organize and export your record</a><small>Final filing still uses current IRCC forms and instructions</small></div></div>
 
-<p><a href="/PRHelper-Legal/en/getting-started/">Use the 5-trip starter workflow</a> · <a href="/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/">Card already expired outside Canada?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>
+<p><a href="/PRHelper-Legal/en/getting-started/">Use the verified-trip workflow</a> · <a href="/PRHelper-Legal/en/topics/expired-pr-card-outside-canada/">Card already expired outside Canada?</a> · <a href="/PRHelper-Legal/en/topics/missing-travel-dates/">Recover missing dates</a> · <a href="/PRHelper-Legal/en/topics/pr-730-rule/">Understand the 730-day rule</a></p>

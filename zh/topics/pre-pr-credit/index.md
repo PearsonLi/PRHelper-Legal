@@ -43,7 +43,7 @@ breadcrumb_items:
 <h2>保留官方核验所需的输入</h2>
 <ol><li>记录成为 PR 前每段在加拿大的期间和当时身份。</li><li>保留开始与结束日期的支持资料。</li><li>计划申请日期变化后重新计算。</li><li>最终申请结果使用 IRCC 官方计算器核验。</li></ol>
 
-<p><a data-funnel-stage="download" data-funnel-action="pre_pr_credit_test_one_status_period" data-funnel-experiment="pre_pr_credit_status_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费保存一段身份期间和支持日期 →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="pre_pr_credit_test_one_status_period" data-funnel-experiment="pre_pr_credit_status_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>保存身份期间和支持日期 →</strong></a></p>
 
 <p><a data-reminder-days="14" data-funnel-stage="activation" data-funnel-action="pre_pr_credit_day14_status_check" data-funnel-experiment="pre_pr_credit_status_zh_v3" href="#">添加私密的 14 天身份资料复核提醒</a></p>
 
@@ -51,4 +51,4 @@ breadcrumb_items:
 
 <p><strong>官方来源：</strong><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html" target="_blank" rel="noopener noreferrer">IRCC：入籍 physical presence</a>。</p>
 
-<div class="conversion-strip"><div><h2>保存折算数字背后的日期</h2><p>先从一段已核实身份期间和一段旅行开始，申请前再用 IRCC 官方工具确认。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="pre_pr_credit_start_free" data-funnel-experiment="pre_pr_credit_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费建立已核实时间线</a><small>独立规划工具 · 不是官方计算器</small></div></div>
+<div class="conversion-strip"><div><h2>保存折算数字背后的日期</h2><p>从一段已核实身份期间和一段旅行开始，申请前再用 IRCC 官方工具确认。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="pre_pr_credit_start_timeline" data-funnel-experiment="pre_pr_credit_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">建立已核实入籍时间线</a><small>独立规划工具 · 不是官方计算器</small></div></div>

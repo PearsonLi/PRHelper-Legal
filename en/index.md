@@ -27,7 +27,7 @@ last_updated: 2026-08-01
   <p class="story-kicker">A familiar renewal-night problem</p>
   <h2>Five years of travel. One missing weekend.</h2>
   <p>Picture Maya at 11:42 p.m., passport open beside an old calendar. Her PR-card renewal is no longer abstract: a Buffalo weekend is missing, two flights have conflicting dates, and memory is doing work it was never built to do. The difficult part was not remembering “730 days.” It was rebuilding the record behind the number.</p>
-  <a class="btn" data-funnel-stage="download" data-funnel-action="home_story_start_verified_trip" data-funnel-experiment="home_story_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start one verified trip free</a>
+  <a class="btn" data-funnel-stage="download" data-funnel-action="home_story_start_verified_trip" data-funnel-experiment="home_story_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start a reviewable travel timeline</a>
 </section>
 
 <div class="direct-answer">
@@ -78,7 +78,7 @@ last_updated: 2026-08-01
 <section class="story-panel">
   <p class="story-kicker">What happens after the download?</p>
   <h2>One verified trip before a five-year reconstruction.</h2>
-  <p>Open the app, set the status and planning date, then enter one exit and return you can confirm from a real source. The free version supports up to 5 trip records, so you can test the workflow before deciding whether any paid plan is useful.</p>
+  <p>Open the app, set the status and planning date, then enter one exit and return you can confirm from a real source. CanResidency turns those dates into a maintained timeline for PR, citizenship and future-travel planning.</p>
   <p><a data-funnel-stage="download" data-funnel-action="home_open_starter" data-funnel-experiment="home_readiness_en_v1" href="/PRHelper-Legal/en/getting-started/"><strong>Preview the 15-minute starter workflow →</strong></a></p>
 </section>
 
@@ -88,5 +88,5 @@ last_updated: 2026-08-01
 
 <div class="conversion-strip">
   <div><h2>Keep the timeline—not just the total</h2><p>CanResidency keeps trips, rolling PR and citizenship progress, planned-travel impact, and family records in one local-first app.</p></div>
-  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="home_start_first_trip" data-funnel-experiment="home_readiness_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Start one verified trip free</a><small>Up to 5 trip records free · No need to rebuild five years first</small></div>
+  <div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="home_start_first_trip" data-funnel-experiment="home_readiness_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Build your travel timeline</a><small>PR, citizenship and future-trip planning · Local-first</small></div>
 </div>

@@ -28,11 +28,11 @@ last_updated: 2026-07-31
 
 <h2>先选择要完成的任务，再用一段行程验证</h2>
 <div class="guide-grid">
-  <a class="guide-card" href="/PRHelper-Legal/zh/getting-started/"><small>旅行记录</small><h3>需要一条可信的旅行时间线</h3><p>用今天就能核实的一段行程测试日期录入与来源核对。</p><strong>预览 15 分钟测试 →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/zh/getting-started/"><small>旅行记录</small><h3>需要一条可信的旅行时间线</h3><p>从今天就能核实的一段行程开始，并保存每个日期背后的来源。</p><strong>建立第一条已核实记录 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/topics/travel-planning-impact/"><small>旅行规划</small><h3>需要测试一次未来离境</h3><p>先了解一个规划场景需要哪些信息，再判断结果是否有用。</p><strong>查看规划流程 →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/zh/upgrade-guide/"><small>家庭记录</small><h3>需要分别管理家庭成员</h3><p>根据真正受阻的任务，比较个人与多成员方案。</p><strong>按任务选择 →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>比较方案之前，先测试核心记录</h2><p>从可靠来源录入一次离境和返回。免费版最多支持 5 条旅行记录。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="features_test_core_record" data-funnel-experiment="features_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费测试一段行程</a><small>开始时无需选择付费方案</small></div></div>
+<div class="conversion-strip"><div><h2>把旅行记录变成可行动的时间线</h2><p>从可靠来源录入离境和返回，持续查看 PR、入籍与未来旅行对进度的影响。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="features_test_core_record" data-funnel-experiment="features_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">建立可核对旅行记录</a><small>本地优先存储 · 支持规划与复核</small></div></div>
 
 <p><a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">查看：旅行计划如何影响永居/入籍</a></p>

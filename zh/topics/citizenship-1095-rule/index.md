@@ -41,7 +41,7 @@ breadcrumb_items:
 <h2>选择申请日前重新核对三个日期</h2>
 <ol><li>五年资格期间的起始日。</li><li>期间内每一次离境与返回，包括短途旅行。</li><li>计划签署申请的日期，因为日期改变会移动整个窗口。</li></ol>
 
-<p><a data-funnel-stage="download" data-funnel-action="citizenship_1095_test_signing_date" data-funnel-experiment="citizenship_1095_date_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>免费测试一段行程和计划签署日 →</strong></a></p>
+<p><a data-funnel-stage="download" data-funnel-action="citizenship_1095_test_signing_date" data-funnel-experiment="citizenship_1095_date_zh_v3" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>查看行程与计划签署日的时间线 →</strong></a></p>
 
 <p><a data-reminder-days="30" data-funnel-stage="retention" data-funnel-action="citizenship_1095_monthly_date_review" data-funnel-experiment="citizenship_1095_date_zh_v3" href="#">添加私密的 30 天计划日期复查提醒</a></p>
 
@@ -56,6 +56,6 @@ breadcrumb_items:
 
 <div class="callout"><strong>独立工具：</strong>CanResidency 与 IRCC 或加拿大政府没有关联，不提供法律意见；最终申请应使用官方计算器和最新指引。</div>
 
-<div class="conversion-strip"><div><h2>在计划申请日前建立原始记录</h2><p>先录入一段近期旅行并设置计划日期，查看入籍时间线；正式提交前再用 IRCC 官方计算器核验。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="citizenship_1095_start_free" data-funnel-experiment="citizenship_1095_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">免费记录一段已核实行程</a><small>免费版最多 5 条旅行记录 · 不是官方计算器</small></div></div>
+<div class="conversion-strip"><div><h2>在计划申请日前建立原始记录</h2><p>录入近期旅行并设置计划日期，查看入籍时间线；正式提交前再用 IRCC 官方计算器核验。</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="citizenship_1095_start_timeline" data-funnel-experiment="citizenship_1095_zh_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">建立入籍时间线</a><small>可核对旅行记录 · 不是官方计算器</small></div></div>
 
-<p><a href="/PRHelper-Legal/zh/getting-started/">5 条记录起步流程</a> · <a href="/PRHelper-Legal/zh/topics/pre-pr-credit/">临时居留折算</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>
+<p><a href="/PRHelper-Legal/zh/getting-started/">已核实行程流程</a> · <a href="/PRHelper-Legal/zh/topics/pre-pr-credit/">临时居留折算</a> · <a href="/PRHelper-Legal/zh/topics/travel-planning-impact/">未来旅行规划</a></p>

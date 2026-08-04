@@ -26,13 +26,13 @@ last_updated: 2026-07-31
   <div class="feature-card"><h3>Export Reports</h3><p>Single file with per-member sections and automatic A4 pagination.</p></div>
 </div>
 
-<h2>Choose the job, then test it with one trip</h2>
+<h2>Choose the job, then build the record around it</h2>
 <div class="guide-grid">
-  <a class="guide-card" href="/PRHelper-Legal/en/getting-started/"><small>Record keeping</small><h3>I need a reliable travel timeline</h3><p>Test date entry and verification with one trip you can confirm today.</p><strong>Preview the 15-minute test →</strong></a>
+  <a class="guide-card" href="/PRHelper-Legal/en/getting-started/"><small>Record keeping</small><h3>I need a reliable travel timeline</h3><p>Start with one trip you can confirm today and preserve the source behind each date.</p><strong>Build a verified first record →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/topics/travel-planning-impact/"><small>Planning</small><h3>I need to test a future absence</h3><p>See what information a planning scenario needs before relying on a result.</p><strong>Review the planning workflow →</strong></a>
   <a class="guide-card" href="/PRHelper-Legal/en/upgrade-guide/"><small>Family</small><h3>I need separate family timelines</h3><p>Compare individual and multi-member access by the task that is blocked.</p><strong>Choose by task →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>Try the core record before comparing plans</h2><p>Add one exit and return from a source you trust. The free version supports up to 5 trip records.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="features_test_core_record" data-funnel-experiment="features_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Test one trip free</a><small>No plan decision required to start</small></div></div>
+<div class="conversion-strip"><div><h2>Turn verified dates into a planning timeline</h2><p>Add one exit and return from a source you trust, then review PR, citizenship and future-travel impact from the same record.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="features_test_core_record" data-funnel-experiment="features_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Explore CanResidency</a><small>Travel records · Planning · Exports · Family timelines</small></div></div>
 
 <p><a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Read: How trip planning impacts PR/citizenship</a></p>

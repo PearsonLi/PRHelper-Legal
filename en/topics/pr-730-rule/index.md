@@ -57,4 +57,4 @@ breadcrumb_items:
 
 <p><strong>Official source:</strong> <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank" rel="noopener noreferrer">IRCC: Understand permanent resident status</a>.</p>
 
-<p><a data-funnel-stage="download" data-funnel-action="rule_730_start_free" data-funnel-experiment="rule_730_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Check one verified trip free</strong></a> · <a href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">PR-card renewal checklist</a> · <a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Future-trip planning</a></p>
+<p><a data-funnel-stage="download" data-funnel-action="rule_730_start_timeline" data-funnel-experiment="rule_730_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Review your rolling 730-day timeline</strong></a> · <a href="/PRHelper-Legal/en/topics/pr-card-renewal-checklist/">PR-card renewal checklist</a> · <a href="/PRHelper-Legal/en/topics/travel-planning-impact/">Future-trip planning</a></p>

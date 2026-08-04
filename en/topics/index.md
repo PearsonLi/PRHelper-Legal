@@ -22,8 +22,8 @@ last_updated: 2026-07-31
 <section class="story-panel">
   <p class="story-kicker">New to the app?</p>
   <h2>Start with one verified trip, not five reconstructed years.</h2>
-  <p>Use the free 5-trip workflow to test the record with dates you can confirm today. If the method fits, the upgrade guide explains Monthly, Pro, and Family by the task each plan solves.</p>
-  <p><a href="/PRHelper-Legal/en/getting-started/"><strong>Open the 5-trip starter workflow →</strong></a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare upgrade paths</a></p>
+  <p>Use dates you can confirm today to establish a reviewable source record. The upgrade guide explains Monthly, Pro, and Family by the planning, export and family tasks each plan supports.</p>
+  <p><a href="/PRHelper-Legal/en/getting-started/"><strong>Open the verified-trip workflow →</strong></a> · <a href="/PRHelper-Legal/en/upgrade-guide/">Compare capabilities by task</a></p>
 </section>
 
 <h2>Choose by the next decision, not by the rule name</h2>
@@ -46,4 +46,4 @@ last_updated: 2026-07-31
   <a class="guide-card" href="/PRHelper-Legal/en/topics/family-multi-member-guide/"><small>Family</small><h3>Multi-member records</h3><p>Keep each family member’s status, trips, and planning dates separate and explainable.</p><strong>Read guide →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>Keep the source record current</h2><p>The official calculator is essential at application time. CanResidency helps maintain the travel history you need before that moment arrives.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="topic_hub_start_free" data-funnel-experiment="topic_hub_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record one verified trip free</a><small>Independent tool · Not IRCC · General planning only</small></div></div>
+<div class="conversion-strip"><div><h2>Keep the source record current</h2><p>The official calculator is essential at application time. CanResidency helps maintain the travel history you need before that moment arrives.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="topic_hub_start_timeline" data-funnel-experiment="topic_hub_en_v2" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Build a reviewable timeline</a><small>Independent tool · Not IRCC · General planning only</small></div></div>

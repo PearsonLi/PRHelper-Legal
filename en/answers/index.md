@@ -23,7 +23,7 @@ breadcrumb_items:
 <div class="direct-answer">
   <h2>Start with the decision you need to make</h2>
   <p>This answer centre gives the conclusion first, then the official source, the records to organize and the point at which a planning tool stops being enough. It does not replace IRCC instructions or individualized advice.</p>
-  <p><a data-funnel-stage="download" data-funnel-action="answer_center_renewal_intent_app_store" data-funnel-experiment="gsc_renewal_hub_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Already know one trip date? Test it in CanResidency free →</strong></a></p>
+  <p><a data-funnel-stage="download" data-funnel-action="answer_center_renewal_intent_app_store" data-funnel-experiment="gsc_renewal_hub_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer"><strong>Already know one trip date? Start your CanResidency timeline →</strong></a></p>
 </div>
 
 <div class="guide-grid">
@@ -33,6 +33,6 @@ breadcrumb_items:
   <a class="guide-card" href="/PRHelper-Legal/en/topics/pr-730-rule/"><small>Residency obligation</small><h3>How does the 730-day rule work?</h3><p>Review the rolling five-year concept and why special situations need official or professional review.</p><strong>Understand the rule →</strong></a>
 </div>
 
-<div class="conversion-strip"><div><h2>Already have one date you trust?</h2><p>Use that trip to test the record flow before rebuilding years of history.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_center_start_free" data-funnel-experiment="answer_center_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Record one trip free</a><small>Up to 5 records free · Independent planning app</small></div></div>
+<div class="conversion-strip"><div><h2>Already have one date you trust?</h2><p>Use that trip to begin a reviewable timeline instead of rebuilding years of history from memory.</p></div><div class="conversion-actions"><a class="btn btn-primary" data-funnel-stage="download" data-funnel-action="answer_center_start_timeline" data-funnel-experiment="answer_center_en_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">Organize the first verified trip</a><small>Travel records · PR and citizenship planning</small></div></div>
 
 <p>See <a href="/PRHelper-Legal/en/editorial-policy/">how these answers are sourced and updated</a>. For application decisions, follow the current instructions on Canada.ca.</p>

@@ -1,11 +1,15 @@
 {% assign lang_prefix = '' %}
 {% assign terms_link = '/terms/' %}
 {% assign privacy_link = '/privacy/' %}
+{% assign answers_link = '/zh/answers/' %}
+{% assign editorial_link = '/zh/editorial-policy/' %}
 {% if page.url %}
   {% if page.url == '/en/' or page.url contains '/en/' %}
     {% assign lang_prefix = '/en' %}
     {% assign terms_link = '/terms/en/' %}
     {% assign privacy_link = '/privacy/en/' %}
+    {% assign answers_link = '/en/answers/' %}
+    {% assign editorial_link = '/en/editorial-policy/' %}
   {% elsif page.url == '/zh/' or page.url contains '/zh/' %}
     {% assign lang_prefix = '/zh' %}
     {% assign terms_link = '/terms/zh/' %}
@@ -23,8 +27,8 @@
       </p>
     </div>
     <div class="footer-links">
-      <a href="{{ lang_prefix | append: '/answers/' | relative_url }}"><span class="lang-zh">PR 问题答案</span><span class="lang-en">PR Answers</span></a>
-      <a href="{{ lang_prefix | append: '/editorial-policy/' | relative_url }}"><span class="lang-zh">内容与来源标准</span><span class="lang-en">Editorial & Source Policy</span></a>
+      <a href="{{ answers_link | relative_url }}"{% if lang_prefix == '' %} data-lang-href-zh="{{ '/zh/answers/' | relative_url }}" data-lang-href-en="{{ '/en/answers/' | relative_url }}"{% endif %}><span class="lang-zh">PR 问题答案</span><span class="lang-en">PR Answers</span></a>
+      <a href="{{ editorial_link | relative_url }}"{% if lang_prefix == '' %} data-lang-href-zh="{{ '/zh/editorial-policy/' | relative_url }}" data-lang-href-en="{{ '/en/editorial-policy/' | relative_url }}"{% endif %}><span class="lang-zh">内容与来源标准</span><span class="lang-en">Editorial & Source Policy</span></a>
       <a href="{{ lang_prefix | append: '/marketing/' | relative_url }}"><span class="lang-zh">产品介绍</span><span class="lang-en">Product</span></a>
       <a href="{{ terms_link | relative_url }}"><span class="lang-zh">服务条款</span><span class="lang-en">Terms</span></a>
       <a href="{{ privacy_link | relative_url }}"><span class="lang-zh">隐私政策</span><span class="lang-en">Privacy</span></a>

@@ -205,6 +205,11 @@
   function applyLang(nextLang) {
     document.documentElement.setAttribute('data-lang', nextLang);
     document.documentElement.lang = nextLang === 'zh' ? 'zh-CN' : 'en';
+    var localizedLinks = document.querySelectorAll('[data-lang-href-zh][data-lang-href-en]');
+    localizedLinks.forEach(function (link) {
+      var localizedHref = link.getAttribute('data-lang-href-' + nextLang);
+      if (localizedHref) link.setAttribute('href', localizedHref);
+    });
     var buttons = document.querySelectorAll('[data-lang-target]');
     buttons.forEach(function (btn) {
       var active = btn.getAttribute('data-lang-target') === nextLang;

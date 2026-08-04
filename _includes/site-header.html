@@ -1,11 +1,15 @@
 {% assign lang_prefix = '' %}
 {% assign terms_link = '/terms/' %}
 {% assign privacy_link = '/privacy/' %}
+{% assign answers_link = '/zh/answers/' %}
+{% assign topics_link = '/zh/topics/' %}
 {% if page.url %}
   {% if page.url == '/en/' or page.url contains '/en/' %}
     {% assign lang_prefix = '/en' %}
     {% assign terms_link = '/terms/en/' %}
     {% assign privacy_link = '/privacy/en/' %}
+    {% assign answers_link = '/en/answers/' %}
+    {% assign topics_link = '/en/topics/' %}
   {% elsif page.url == '/zh/' or page.url contains '/zh/' %}
     {% assign lang_prefix = '/zh' %}
     {% assign terms_link = '/terms/zh/' %}
@@ -28,10 +32,10 @@
       <a class="nav-link {% if page.nav_key == 'features' %}active{% endif %}" href="{{ lang_prefix | append: '/features/' | relative_url }}">
         <span class="lang-zh">功能</span><span class="lang-en">Features</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'answers' %}active{% endif %}" href="{{ lang_prefix | append: '/answers/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'answers' %}active{% endif %}" href="{{ answers_link | relative_url }}"{% if lang_prefix == '' %} data-lang-href-zh="{{ '/zh/answers/' | relative_url }}" data-lang-href-en="{{ '/en/answers/' | relative_url }}"{% endif %}>
         <span class="lang-zh">答案</span><span class="lang-en">Answers</span>
       </a>
-      <a class="nav-link {% if page.nav_key == 'topics' %}active{% endif %}" href="{{ lang_prefix | append: '/topics/' | relative_url }}">
+      <a class="nav-link {% if page.nav_key == 'topics' %}active{% endif %}" href="{{ topics_link | relative_url }}"{% if lang_prefix == '' %} data-lang-href-zh="{{ '/zh/topics/' | relative_url }}" data-lang-href-en="{{ '/en/topics/' | relative_url }}"{% endif %}>
         <span class="lang-zh">指南</span><span class="lang-en">Guides</span>
       </a>
       <a class="nav-link {% if page.nav_key == 'pricing' %}active{% endif %}" href="{{ lang_prefix | append: '/pricing/' | relative_url }}">

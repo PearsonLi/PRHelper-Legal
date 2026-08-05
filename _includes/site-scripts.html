@@ -47,6 +47,22 @@
     return '(not ai)';
   }
 
+  function identifyChinaEcosystem(value) {
+    var source = (value || '').toLowerCase();
+    var ecosystems = [
+      { match: ['baidu.com', 'm.baidu.com', 'wenxiaoyan.com', 'yiyan.baidu.com'], name: 'baidu' },
+      { match: ['toutiao.com', 'mp.toutiao.com', 'douyin.com', 'iesdouyin.com', 'doubao.com', 'doubao.cn'], name: 'bytedance' },
+      { match: ['weixin.qq.com', 'mp.weixin.qq.com', 'weixin110.qq.com', 'wechat.com'], name: 'wechat' },
+      { match: ['weixin.sogou.com'], name: 'wechat_search' }
+    ];
+    for (var i = 0; i < ecosystems.length; i += 1) {
+      for (var j = 0; j < ecosystems[i].match.length; j += 1) {
+        if (source.indexOf(ecosystems[i].match[j]) !== -1) return ecosystems[i].name;
+      }
+    }
+    return '(not china ecosystem)';
+  }
+
   function readAttribution() {
     var existing = safeStorage(sessionStorage, 'get', ATTRIBUTION_KEY);
     if (existing) {
@@ -57,6 +73,7 @@
     var source = query.get('utm_source') || referrerHost();
     var medium = query.get('utm_medium') || (source === '(direct)' ? '(none)' : 'referral');
     var aiPlatform = identifyAIPlatform(source + ' ' + referrerHost());
+    var chinaEcosystem = identifyChinaEcosystem(source + ' ' + referrerHost());
     var attribution = {
       traffic_source: source,
       traffic_medium: medium,
@@ -66,8 +83,9 @@
       referrer_host: referrerHost(),
       landing_path: window.location.pathname,
       page_language: document.documentElement.lang || lang,
-      traffic_channel: aiPlatform === '(not ai)' ? 'standard' : 'ai_referral',
-      ai_platform: aiPlatform
+      traffic_channel: aiPlatform !== '(not ai)' ? 'ai_referral' : (chinaEcosystem !== '(not china ecosystem)' ? 'china_ecosystem' : 'standard'),
+      ai_platform: aiPlatform,
+      china_ecosystem: chinaEcosystem
     };
     safeStorage(sessionStorage, 'set', ATTRIBUTION_KEY, JSON.stringify(attribution));
     if (!safeStorage(localStorage, 'get', FIRST_TOUCH_KEY)) {

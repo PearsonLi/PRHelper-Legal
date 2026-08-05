@@ -12,6 +12,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/answers/pr-card-rene
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/answers/pr-card-renewal/
 schema_type: article
 last_updated: 2026-07-31
+baidu_priority: true
 faq_items:
   - q: 加拿大枫叶卡怎么续卡？
     a: 如果人在加拿大，枫叶卡已过期或将在九个月内过期，应按 IRCC 当前枫叶卡申请指引核验资格、填写申请，并提交当期要求的文件、照片和费用。

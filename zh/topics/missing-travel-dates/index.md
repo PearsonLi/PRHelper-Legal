@@ -14,6 +14,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-trave
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/missing-travel-dates/
 schema_type: article
 last_updated: 2026-07-31
+baidu_priority: true
 faq_items:
   - q: 完全记不起准确日期怎么办？
     a: 先把日期标记为待核验，比较多份独立记录，不要用没有证据的猜测填补空白。

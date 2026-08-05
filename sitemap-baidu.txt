@@ -4,6 +4,7 @@ permalink: /sitemap-baidu.txt
 sitemap: false
 ---
 https://pearsonli.github.io/PRHelper-Legal/zh/
+https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 https://pearsonli.github.io/PRHelper-Legal/zh/answers/pr-card-renewal/
 https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1095-rule/
 https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/

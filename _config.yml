@@ -9,6 +9,7 @@ markdown: kramdown
 # Optional: set when available
 # ga4_measurement_id: G-XXXXXXXXXX
 # google_site_verification: your-verification-token
+# baidu_site_verification: codeva-your-verification-token
 
 ga4_measurement_id: "G-S0RNL4JBCL"
 google_site_verification: "Tfv_VG6aX2FCv9YlmRmTxz4gvg-91861LGyIF9N308U"

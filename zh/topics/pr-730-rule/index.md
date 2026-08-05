@@ -16,6 +16,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-730-rule/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-730-rule/
 schema_type: article
 last_updated: 2026-08-02
+baidu_priority: true
 faq_items:
   - q: 加拿大永久居民通常需要满足多少天居住义务？
     a: 通常需要在适用的五年期间内累计至少 730 天；天数不必连续，部分符合条件的境外时间可能计入。

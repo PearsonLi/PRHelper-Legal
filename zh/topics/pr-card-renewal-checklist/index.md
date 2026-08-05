@@ -16,6 +16,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renew
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/pr-card-renewal-checklist/
 schema_type: article
 last_updated: 2026-07-31
+baidu_priority: true
 faq_items:
   - q: 枫叶卡到期日等于居住义务计算日吗？
     a: 不等于。卡片有效期与永久居民身份是不同问题，应针对法律上相关日期评估居住义务，并遵循最新 IRCC 指引。

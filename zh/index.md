@@ -21,6 +21,7 @@ canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/
 last_updated: 2026-08-01
+baidu_priority: true
 ---
 
 <section class="story-panel">

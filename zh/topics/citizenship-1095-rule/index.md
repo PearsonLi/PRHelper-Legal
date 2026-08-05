@@ -16,6 +16,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/citizenship-1095-rule/
 schema_type: article
 last_updated: 2026-08-02
+baidu_priority: true
 faq_items:
   - q: 加拿大入籍通常需要多少天实际居住？
     a: 成年申请人通常需要在签署申请前五年内累计至少 1,095 天实际居住；IRCC 建议不要卡在最低天数提交。

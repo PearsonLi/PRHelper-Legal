@@ -14,6 +14,7 @@ alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-bord
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/topics/frequent-border-trips/
 schema_type: article
 last_updated: 2026-07-31
+baidu_priority: true
 faq_items:
   - q: 加美同日往返也需要保留记录吗？
     a: 应维护完整旅行历史，并根据当前申请指引确认每次旅行如何申报和计算。

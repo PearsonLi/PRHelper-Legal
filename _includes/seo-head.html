@@ -7,8 +7,12 @@
 
 {% assign page_description = page.seo_description | default: page.hero_subtitle_zh | default: page.hero_subtitle_en | default: page.hero_subtitle | default: site.description %}
 {% assign canonical_url = page.canonical_url | default: page.url | absolute_url %}
-{% assign og_image_url = page.og_image | default: '/assets/value-overview.png' | absolute_url %}
+{% assign og_image_url = page.og_image | default: '/assets/value-forecast-2.jpg' | absolute_url %}
 {% assign page_keywords = page.seo_keywords | default: '' %}
+{% assign og_locale = 'en_CA' %}
+{% if page.lang == 'zh-CN' or page.lang == 'zh' %}
+  {% assign og_locale = 'zh_CN' %}
+{% endif %}
 
 {% assign is_version_legal = false %}
 {% if page.url and page.url contains '/v' %}
@@ -47,13 +51,19 @@
 {% if site.google_site_verification and site.google_site_verification != '' %}
 <meta name="google-site-verification" content="{{ site.google_site_verification | escape }}" />
 {% endif %}
+{% if site.baidu_site_verification and site.baidu_site_verification != '' %}
+<meta name="baidu-site-verification" content="{{ site.baidu_site_verification | escape }}" />
+{% endif %}
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="{{ site.title | escape }}" />
+<meta property="og:locale" content="{{ og_locale }}" />
 <meta property="og:title" content="{{ full_title | escape }}" />
 <meta property="og:description" content="{{ page_description | strip_html | strip_newlines | replace: '  ', ' ' | escape }}" />
 <meta property="og:url" content="{{ canonical_url }}" />
 <meta property="og:image" content="{{ og_image_url }}" />
+<meta property="og:image:alt" content="CanResidency 加拿大 PR 与入籍旅行记录规划" />
+<link rel="image_src" href="{{ og_image_url }}" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ full_title | escape }}" />

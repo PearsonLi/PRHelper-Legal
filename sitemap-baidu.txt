@@ -3,6 +3,10 @@ layout: null
 permalink: /sitemap-baidu.txt
 sitemap: false
 ---
-{%- assign baidu_pages = site.pages | where: "baidu_priority", true | sort: "url" -%}
-{%- for p in baidu_pages %}{{ p.url | absolute_url }}{% unless forloop.last %}
-{% endunless %}{% endfor -%}
+https://pearsonli.github.io/PRHelper-Legal/zh/
+https://pearsonli.github.io/PRHelper-Legal/zh/answers/pr-card-renewal/
+https://pearsonli.github.io/PRHelper-Legal/zh/topics/citizenship-1095-rule/
+https://pearsonli.github.io/PRHelper-Legal/zh/topics/frequent-border-trips/
+https://pearsonli.github.io/PRHelper-Legal/zh/topics/missing-travel-dates/
+https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-730-rule/
+https://pearsonli.github.io/PRHelper-Legal/zh/topics/pr-card-renewal-checklist/

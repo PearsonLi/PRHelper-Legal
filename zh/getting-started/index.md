@@ -14,7 +14,10 @@ seo_keywords: CanResidency入门,枫叶卡旅行记录,加拿大PR天数,入籍�
 canonical_url: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_zh: https://pearsonli.github.io/PRHelper-Legal/zh/getting-started/
 alternate_en: https://pearsonli.github.io/PRHelper-Legal/en/getting-started/
-last_updated: 2026-08-03
+last_updated: 2026-08-05
+schema_type: article
+product_entity: true
+baidu_priority: true
 howto_name: 核实第一条 CanResidency 旅行记录
 howto_steps:
   - name: 设置规划背景
@@ -27,6 +30,13 @@ howto_steps:
     text: 分别查看 PR 居住义务与入籍 physical presence 时间线。
   - name: 七天后复查
     text: 用新的来源解决一个不确定项，再继续补充更早记录。
+faq_items:
+  - question: Excel 可以记录加拿大 PR 与入籍旅行史吗？
+    answer: 可以保存原始旅行事实，但手工总数会随评估日、补回日期和未来旅行变化。每次旅行应单独保留离境、返回、证据来源和不确定项，并分别复核 PR 与入籍时间线。
+  - question: 怎样把 Excel 旅行记录迁移成可核对时间线？
+    answer: 先按一段旅行一行整理离境、返回、来源和不确定项；从最近且最容易核实的记录开始，再用原始来源补齐早期记录。不要把一个静态总数当成最终资格判断。
+  - question: CanResidency 是 IRCC 官方工具吗？
+    answer: 不是。CanResidency 是独立的用户记录与规划工具，不访问官方边境记录，也不作官方资格决定；申请和资格判断应以当前 Canada.ca 指引及官方工具为准。
 ---
 
 <section class="story-panel"><p class="story-kicker">一次有效的首次使用</p><h2>不要一开始就重建五年。</h2><p>从你记得最清楚的一段旅行开始，录入离境、返回以及确认日期的来源。一条记录可信之后，再继续添加最多四条。</p></section>
@@ -50,6 +60,17 @@ howto_steps:
 
 <h2>第一条记录是否有价值，看这三点</h2>
 <p>你应该能回答：哪些日期已经确认？哪些旅行仍不确定？下次返回加拿大后应该记录什么？这会成为续卡、入籍、未来旅行规划与导出复核的基础。</p>
+
+<h2>还在用 Excel？先保住原始旅行事实</h2>
+<p><strong>Excel 可以保存资料，但不要把一个手工总数当作持续有效的 PR 或入籍结论。</strong>评估日会变化，补回的日期会改变结果，未来旅行也会影响规划。更稳妥的做法是把表格中的原始事实整理清楚，再持续复核时间线。</p>
+<ol>
+  <li><strong>一段旅行一行：</strong>分别记录离境和返回，不把多段行程压进一个单元格。</li>
+  <li><strong>保留来源：</strong>写明订票邮件、护照页、日历或其他可重新打开的依据。</li>
+  <li><strong>不确定就保留不确定：</strong>不要为了凑总数猜日期；等找到新的原始来源再确认。</li>
+  <li><strong>分开看两条时间线：</strong>PR 居住义务与入籍 physical presence 不是同一套口径。</li>
+</ol>
+<p>CanResidency（枫叶卡管家）可帮助把用户核实过的旅行事实整理为持续查看的规划时间线。它是独立工具，不访问官方边境记录，也不作 IRCC 的官方资格决定；申请或资格判断请以当前 <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html" target="_blank" rel="noopener noreferrer">Canada.ca 入籍资格说明</a> 与相关官方工具为准。</p>
+<p><a data-funnel-stage="download" data-funnel-action="starter_excel_to_timeline" data-funnel-experiment="excel_to_timeline_zh_v1" href="https://apps.apple.com/app/id6759813402" target="_blank" rel="noopener noreferrer">把旧表格变成可核对时间线 →</a></p>
 
 <h2>第 1 天、第 7 天和下次返回加拿大</h2>
 <div class="card-grid">
